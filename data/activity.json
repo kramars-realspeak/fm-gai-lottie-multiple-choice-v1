@@ -1,0 +1,157 @@
+{
+    "id": "4feeceeb-ac34-43ea-a2f7-cc405430ab4b",
+    "media": {
+        "style": "A colorful illustration of a birthday party with a big present and a bat in the background, where children are celebrating with balloons and a festive atmosphere.",
+        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/4feeceeb-ac34-43ea-a2f7-cc405430ab4b",
+        "text_to_speech": {
+            "src": null,
+            "voice": null
+        },
+        "background_music": {
+            "src": null,
+            "loop": false
+        }
+    },
+    "sentence": "What did Zoe find inside the big present at her birthday party?",
+    "correct_answer": "C",
+    "options": {
+        "A": "A small dog",
+        "B": "A giant teddy bear",
+        "C": "A bat",
+        "D": "A toy car"
+    },
+    "group_alias": "MVRCK",
+    "cefr_level": "a1",
+    "target_vocabulary": [
+        "bottle",
+        "bowl",
+        "box",
+        "cup",
+        "glass",
+        "plate",
+        "balloon",
+        "birthday",
+        "party",
+        "present",
+        "CD player",
+        "cupboard",
+        "shelf",
+        "table",
+        "baseball",
+        "bat",
+        "add",
+        "big",
+        "round",
+        "square",
+        "inside",
+        "outside",
+        "Brilliant!",
+        "shape"
+    ],
+    "target_grammar": null,
+    "itokens": null,
+    "submitted": false,
+    "metadata": {
+        "analyst": "CPTFreedom",
+        "model_alias": "fm-gai-lottie-multiple-choice-v1",
+        "model_version": "1.0",
+        "target_material": [
+            {
+                "week": "week 7 (14-20 October)",
+                "book_title": "FUN for Movers UNIT 12",
+                "title": "FUN for Movers UNIT 12",
+                "material_type": "SB",
+                "url": "https://drive.google.com/file/d/1x8mQW7neDT0uISECSWA9CdBEWMIIEPa-/view?usp=sharing"
+            }
+        ],
+        "sandbox_slot": {
+            "assigned_group": {
+                "alias": "MVRCK",
+                "group_record": [
+                    39,
+                    "school1",
+                    "Mavericks",
+                    "MVRCK",
+                    null,
+                    "PRIMARY",
+                    "true",
+                    "ACTIVE"
+                ],
+                "learning_path_id": ""
+            },
+            "assignee": "teacher2",
+            "comments": {},
+            "completed": false,
+            "due_date": "2024-10-14",
+            "end_time": "2024-10-14 14:15:00",
+            "start_time": "2024-10-14 13:30:00",
+            "student_attendance": {},
+            "students": [
+                {
+                    "alias": "336adamsoos",
+                    "date_of_birth": "2017-01-24",
+                    "first_name": "Adam",
+                    "last_name": "Soos"
+                },
+                {
+                    "alias": "113lenkakubaljakova",
+                    "date_of_birth": null,
+                    "first_name": "Lenka",
+                    "last_name": "Kubaljakov\u00e1"
+                },
+                {
+                    "alias": "157ninajanosova",
+                    "date_of_birth": null,
+                    "first_name": "Nina",
+                    "last_name": "J\u00e1no\u0161ov\u00e1"
+                },
+                {
+                    "alias": "158zoezatkova",
+                    "date_of_birth": null,
+                    "first_name": "Zoe",
+                    "last_name": "Za\u0165kov\u00e1"
+                },
+                {
+                    "alias": "160emakovacova",
+                    "date_of_birth": null,
+                    "first_name": "Ema",
+                    "last_name": "Kov\u00e1\u010dov\u00e1"
+                },
+                {
+                    "alias": "170jurajgombar ml.",
+                    "date_of_birth": null,
+                    "first_name": "Juraj",
+                    "last_name": "Gomb\u00e1r ml."
+                },
+                {
+                    "alias": "185leopilka",
+                    "date_of_birth": null,
+                    "first_name": "Leo",
+                    "last_name": "Pilka"
+                },
+                {
+                    "alias": "260alexkozolka",
+                    "date_of_birth": null,
+                    "first_name": "Alex",
+                    "last_name": "Kozolka"
+                },
+                {
+                    "alias": "159anetasutorova",
+                    "date_of_birth": null,
+                    "first_name": "Aneta",
+                    "last_name": "\u0160\u00fatorov\u00e1"
+                },
+                {
+                    "alias": "226samuelkrsak",
+                    "date_of_birth": null,
+                    "first_name": "Samuel",
+                    "last_name": "Kr\u0161\u00e1k"
+                }
+            ]
+        },
+        "ms_interest_token_logs": {
+            "data_point": null,
+            "target_student": "random"
+        }
+    }
+}
