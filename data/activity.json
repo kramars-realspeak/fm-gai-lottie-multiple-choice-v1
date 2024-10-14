@@ -1,8 +1,8 @@
 {
-    "id": "4feeceeb-ac34-43ea-a2f7-cc405430ab4b",
+    "id": "fb270f52-43e3-43fd-8074-bf6c6e7c543a",
     "media": {
-        "style": "A colorful illustration of a birthday party with a big present and a bat in the background, where children are celebrating with balloons and a festive atmosphere.",
-        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/4feeceeb-ac34-43ea-a2f7-cc405430ab4b",
+        "style": "A colorful illustration of a lively birthday party with a table full of presents, a bottle on the side, and balloons floating in the air.",
+        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/fb270f52-43e3-43fd-8074-bf6c6e7c543a",
         "text_to_speech": {
             "src": null,
             "voice": null
@@ -12,13 +12,13 @@
             "loop": false
         }
     },
-    "sentence": "What did Zoe find inside the big present at her birthday party?",
-    "correct_answer": "C",
+    "sentence": "What is placed in the center of the table at the party?",
+    "correct_answer": "A",
     "options": {
-        "A": "A small dog",
-        "B": "A giant teddy bear",
-        "C": "A bat",
-        "D": "A toy car"
+        "A": "A present",
+        "B": "A balloon",
+        "C": "A bottle",
+        "D": "A chair"
     },
     "group_alias": "MVRCK",
     "cefr_level": "a1",

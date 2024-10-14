@@ -20,7 +20,7 @@ class FmLottieConnector:
     def make_activity_sentence(self, prompt: str) -> str:
         self.logger.info(f"{self.__class__.__name__}: Invoking 'make_activity_sentence' method for prompt: '{prompt}'")
         response = self.client.chat.completions.create(
-            model="gpt-4o-mini",
+            model="gpt-4o",
             messages=[
                 {
                     "role": "system",
