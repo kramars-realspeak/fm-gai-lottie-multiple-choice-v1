@@ -1,91 +1,88 @@
 {
-    "slot": {
+    "slot": 
+    {
       "assigned_group": {
-        "alias": "MVRCK",
-        "group_record": 
-        [
-          39, 
-          "school1",
-          "Mavericks",
-          "MVRCK",
-          null,
-          "PRIMARY",
+        "alias": "FB_ADDICTS",
+        "group_record": [14, "school1",
+          "Facebook Addicts",
+          "FB_ADDICTS",
+          null, "PRIMARY",
           "true",
           "ACTIVE"
         ],
         "learning_path_id": ""
       },
-      "assignee": "teacher2",
+      "assignee": "teacher1",
       "comments": {
   
       },
       "completed": false,
-      "due_date": "2024-10-14",
-      "end_time": "2024-10-14 14:15:00",
-      "start_time": "2024-10-14 13:30:00",
+      "due_date": "2024-10-15",
+      "end_time": "2024-10-15 18:25:00",
+      "start_time": "2024-10-15 17:40:00",
       "student_attendance": {
   
       },
       "students": [
         {
-          "alias": "336adamsoos",
-          "date_of_birth": "2017-01-24",
-          "first_name": "Adam",
-          "last_name": "Soos"
-        },
-        {
-          "alias": "113lenkakubaljakova",
+          "alias": "72dariustonkovic",
           "date_of_birth": null,
-          "first_name": "Lenka",
-          "last_name": "Kubaljaková"
+          "first_name": "Dárius",
+          "last_name": "Tonkovič"
         },
         {
-          "alias": "157ninajanosova",
+          "alias": "73michalkery",
           "date_of_birth": null,
-          "first_name": "Nina",
-          "last_name": "Jánošová"
+          "first_name": "Michal",
+          "last_name": "Kéry"
         },
         {
-          "alias": "158zoezatkova",
-          "date_of_birth": null,
-          "first_name": "Zoe",
-          "last_name": "Zaťková"
-        },
-        {
-          "alias": "160emakovacova",
-          "date_of_birth": null,
-          "first_name": "Ema",
-          "last_name": "Kováčová"
-        },
-        {
-          "alias": "170jurajgombar ml.",
-          "date_of_birth": null,
-          "first_name": "Juraj",
-          "last_name": "Gombár ml."
-        },
-        {
-          "alias": "185leopilka",
-          "date_of_birth": null,
-          "first_name": "Leo",
-          "last_name": "Pilka"
-        },
-        {
-          "alias": "260alexkozolka",
-          "date_of_birth": null,
-          "first_name": "Alex",
-          "last_name": "Kozolka"
-        },
-        {
-          "alias": "159anetasutorova",
-          "date_of_birth": null,
-          "first_name": "Aneta",
-          "last_name": "Šútorová"
-        },
-        {
-          "alias": "226samuelkrsak",
+          "alias": "83samuelferenc",
           "date_of_birth": null,
           "first_name": "Samuel",
-          "last_name": "Kršák"
+          "last_name": "Ferenc"
+        },
+        {
+          "alias": "125patrikelias",
+          "date_of_birth": null,
+          "first_name": "Patrik",
+          "last_name": "Eliáš"
+        },
+        {
+          "alias": "92kevinpinke",
+          "date_of_birth": null,
+          "first_name": "Kevin",
+          "last_name": "Pinke"
+        },
+        {
+          "alias": "124marekdolezaj",
+          "date_of_birth": null,
+          "first_name": "Marek",
+          "last_name": "Doležaj"
+        },
+        {
+          "alias": "344hanadrienovska",
+          "date_of_birth": "2008-03-31",
+          "first_name": "Hana",
+          "last_name": "Drienovska"
+        },
+        {
+          "alias": "205egongrznarik",
+          "date_of_birth": null,
+          "first_name": "Egon",
+          "last_name": "Grznárik"
+        },
+        {
+          "alias": "327viktoriaslosiarova",
+          "date_of_birth": "2007-04-08",
+          "first_name": "Viktoria",
+          "last_name": "Slosiarova"
+        },
+        {
+          "alias": "328lauradatkova",
+          "date_of_birth": "2009-09-17",
+          "first_name": "Laura",
+          "last_name": "Datkova"
         }
       ]
     },
@@ -101,7 +98,7 @@
       "target_student": "random"
     },
     "metadata": {
-        "analyst": "CPTFreedom",
+        "analyst": "M-Maker25",
         "model_alias": "fm-gai-lottie-multiple-choice-v1",
         "model_version": "1.0"
     }
