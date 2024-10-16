@@ -164,6 +164,7 @@ cython_debug/
 # logs and runtime config files
 data/logs
 data/activity_blueprint.json
+data/activity.json
 data/output.json
 data/history.json
 

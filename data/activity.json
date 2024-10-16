@@ -1,8 +1,8 @@
 {
-    "id": "fb270f52-43e3-43fd-8074-bf6c6e7c543a",
+    "id": "c18208f6-604b-4d1d-8dd4-c339651112ab",
     "media": {
-        "style": "A colorful illustration of a lively birthday party with a table full of presents, a bottle on the side, and balloons floating in the air.",
-        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/fb270f52-43e3-43fd-8074-bf6c6e7c543a",
+        "style": "A cozy living room with a wooden shelf, a glass cupboard, a CD player placed on the shelf, and a round table in the center.",
+        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/c18208f6-604b-4d1d-8dd4-c339651112ab",
         "text_to_speech": {
             "src": null,
             "voice": null
@@ -12,13 +12,13 @@
             "loop": false
         }
     },
-    "sentence": "What is placed in the center of the table at the party?",
-    "correct_answer": "A",
+    "sentence": "What object is placed next to the CD player on the shelf?",
+    "correct_answer": "B",
     "options": {
-        "A": "A present",
-        "B": "A balloon",
-        "C": "A bottle",
-        "D": "A chair"
+        "A": "A round vase",
+        "B": "A glass of water",
+        "C": "A small statue",
+        "D": "A book"
     },
     "group_alias": "MVRCK",
     "cefr_level": "a1",

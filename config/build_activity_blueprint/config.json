@@ -17,7 +17,6 @@
       },
       "assignee": "teacher2",
       "comments": {
-  
       },
       "completed": false,
       "due_date": "2024-10-14",
@@ -90,7 +89,7 @@
       ]
     },
     "prompt": {
-        "include_ss": true,
+        "include_ss": false,
         "premise": {
             "include_custom_premise": false,
             "text": "Aneta and Samuel playing cards"
