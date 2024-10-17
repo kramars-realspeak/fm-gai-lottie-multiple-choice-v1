@@ -1,8 +1,8 @@
 {
-    "id": "43a94f5e-9a71-4a55-82e0-b2cd7dc91acf",
+    "id": "c89eca22-2a47-4461-9ed9-1e235f5e564d",
     "media": {
-        "style": "An illustration of a group of people at a debate with expression of varied emotions - some smiling, others with arms crossed; a speech bubble showing someone pointing out errors in a paper.",
-        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/43a94f5e-9a71-4a55-82e0-b2cd7dc91acf",
+        "style": "A scenic image showing a landscape with snow-covered mountains, a waterfall, and contrasting terrain features such as green forests and rocky cliffs.",
+        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/c89eca22-2a47-4461-9ed9-1e235f5e564d",
         "text_to_speech": {
             "src": null,
             "voice": null
@@ -12,51 +12,49 @@
             "loop": false
         }
     },
-    "sentence": "Which of the following expressions means to point out faults in a very critical manner?",
-    "correct_answer": "A",
+    "sentence": "Which of the following best describes a place where temperatures can fall and landscapes are covered in snow?",
+    "correct_answer": "B",
     "options": {
-        "A": "Pick holes",
-        "B": "Among the worst",
-        "C": "The world's worst",
-        "D": "Run down"
+        "A": "A tropical island with palm trees",
+        "B": "A mountain region with snowy peaks",
+        "C": "A desert with high sand dunes",
+        "D": "A cityscape with skyscrapers"
     },
-    "group_alias": "FB_ADDICTS",
-    "cefr_level": "c1",
+    "group_alias": "BOMB_S",
+    "cefr_level": "b1",
     "target_vocabulary": [
-        "praise for",
-        "highly praised",
-        "brilliantly",
-        "first-rate",
-        "top-notch",
-        "really on the ball",
-        "have a green finger",
-        "have a way with",
-        "head and shoulders above",
-        "miles better",
-        "is streets ahead",
-        "among the worst",
-        "most interesting",
-        "out of this world",
-        "criticise",
-        "highly critical of",
-        "received critical acclaim",
-        "critical condition",
-        "critically",
-        "critically acclaimed",
-        "critically ill",
-        "to criticise",
-        "run down",
-        "pick holes",
-        "at fault",
-        "to blame",
-        "the cat's whiskers",
-        "the bee's knees",
-        "the world's worst",
-        "take the biscuit",
-        "She wants to have her cake and eat it!",
-        "absurd",
-        "among the best",
-        "get the gift of the gab"
+        "cave",
+        "canal",
+        "falls",
+        "surface",
+        "Earth",
+        "covered in",
+        "in the world",
+        "temperatures over",
+        "degrees",
+        "on earth",
+        "minus",
+        "over",
+        "waterfall",
+        "rainforest",
+        "ocean",
+        "covering",
+        "covered with",
+        "consists of",
+        "regions",
+        "contrasts",
+        "landscapes",
+        "distance",
+        "climate",
+        "in the south",
+        "north",
+        "north-west",
+        "west",
+        "south-west",
+        "south",
+        "south-east",
+        "east",
+        "north-east"
     ],
     "target_grammar": null,
     "itokens": null,
@@ -68,20 +66,20 @@
         "target_material": [
             {
                 "week": "week 7 (14-20 October)",
-                "book_title": "Upper-intermediate Vocabulary in Use 46",
-                "title": "Upper-intermediate Vocabulary in Use 46",
+                "book_title": "Intermediate Vocabulary in Use 6",
+                "title": "Intermediate Vocabulary in Use 6",
                 "material_type": "VOC",
-                "url": "https://drive.google.com/file/d/1CpoPFDAJF4g4tBQcsRit3T2uwqh8PNaz/view?usp=sharing"
+                "url": "https://drive.google.com/file/d/1kUOAPBS_jTcVStSQd2fnFiNntT7Cti9d/view?usp=sharing"
             }
         ],
         "sandbox_slot": {
             "assigned_group": {
-                "alias": "FB_ADDICTS",
+                "alias": "BOMB_S",
                 "group_record": [
-                    14,
+                    9,
                     "school1",
-                    "Facebook Addicts",
-                    "FB_ADDICTS",
+                    "Bomb Squad",
+                    "BOMB_S",
                     null,
                     "PRIMARY",
                     "true",
@@ -92,70 +90,46 @@
             "assignee": "teacher1",
             "comments": {},
             "completed": false,
-            "due_date": "2024-10-15",
-            "end_time": "2024-10-15 18:25:00",
-            "start_time": "2024-10-15 17:40:00",
+            "due_date": "2024-10-17",
+            "end_time": "2024-10-17 18:25:00",
+            "start_time": "2024-10-17 17:40:00",
             "student_attendance": {},
             "students": [
                 {
-                    "alias": "72dariustonkovic",
+                    "alias": "120viktoriavalentinyova",
+                    "date_of_birth": "1900-01-01",
+                    "first_name": "Vikt\u00f3ria",
+                    "last_name": "Valent\u00ednyov\u00e1"
+                },
+                {
+                    "alias": "147matusjankular",
                     "date_of_birth": null,
-                    "first_name": "D\u00e1rius",
-                    "last_name": "Tonkovi\u010d"
+                    "first_name": "Mat\u00fa\u0161",
+                    "last_name": "Jankul\u00e1r"
                 },
                 {
-                    "alias": "73michalkery",
+                    "alias": "95dorotasabova",
                     "date_of_birth": null,
-                    "first_name": "Michal",
-                    "last_name": "K\u00e9ry"
+                    "first_name": "Dorota",
+                    "last_name": "\u0160abov\u00e1"
                 },
                 {
-                    "alias": "83samuelferenc",
+                    "alias": "96olivermanek",
                     "date_of_birth": null,
-                    "first_name": "Samuel",
-                    "last_name": "Ferenc"
+                    "first_name": "Oliver",
+                    "last_name": "Manek"
                 },
                 {
-                    "alias": "125patrikelias",
+                    "alias": "97nataliakozmerova",
                     "date_of_birth": null,
-                    "first_name": "Patrik",
-                    "last_name": "Eli\u00e1\u0161"
+                    "first_name": "Nat\u00e1lia",
+                    "last_name": "Kozm\u00e9rov\u00e1"
                 },
                 {
-                    "alias": "92kevinpinke",
-                    "date_of_birth": null,
-                    "first_name": "Kevin",
-                    "last_name": "Pinke"
-                },
-                {
-                    "alias": "124marekdolezaj",
-                    "date_of_birth": null,
-                    "first_name": "Marek",
-                    "last_name": "Dole\u017eaj"
-                },
-                {
-                    "alias": "344hanadrienovska",
-                    "date_of_birth": "2008-03-31",
-                    "first_name": "Hana",
-                    "last_name": "Drienovska"
-                },
-                {
-                    "alias": "205egongrznarik",
-                    "date_of_birth": null,
-                    "first_name": "Egon",
-                    "last_name": "Grzn\u00e1rik"
-                },
-                {
-                    "alias": "327viktoriaslosiarova",
-                    "date_of_birth": "2007-04-08",
-                    "first_name": "Viktoria",
-                    "last_name": "Slosiarova"
-                },
-                {
-                    "alias": "328lauradatkova",
-                    "date_of_birth": "2009-09-17",
-                    "first_name": "Laura",
-                    "last_name": "Datkova"
+                    "alias": "194armandocaushi",
+                    "date_of_birth": "2014-02-14",
+                    "first_name": "Armando",
+                    "last_name": "Caushi"
                 }
             ]
         },

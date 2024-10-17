@@ -1,11 +1,11 @@
-{
-    "slot": 
-    {
+
+  {
+    "slot":  {
       "assigned_group": {
-        "alias": "FB_ADDICTS",
-        "group_record": [14, "school1",
-          "Facebook Addicts",
-          "FB_ADDICTS",
+        "alias": "TIGRS",
+        "group_record": [22, "school1",
+          "Tigers",
+          "TIGRS",
           null, "PRIMARY",
           "true",
           "ACTIVE"
@@ -17,72 +17,60 @@
   
       },
       "completed": false,
-      "due_date": "2024-10-15",
-      "end_time": "2024-10-15 18:25:00",
-      "start_time": "2024-10-15 17:40:00",
+      "due_date": "2024-10-17",
+      "end_time": "2024-10-17 19:15:00",
+      "start_time": "2024-10-17 18:30:00",
       "student_attendance": {
   
       },
       "students": [
         {
-          "alias": "72dariustonkovic",
+          "alias": "55pavolnehez",
           "date_of_birth": null,
-          "first_name": "Dárius",
-          "last_name": "Tonkovič"
+          "first_name": "Pavol",
+          "last_name": "Nehéz"
         },
         {
-          "alias": "73michalkery",
+          "alias": "56dianamasarova",
+          "date_of_birth": null,
+          "first_name": "Diana",
+          "last_name": "Masárová"
+        },
+        {
+          "alias": "58veronikaobrocnikova",
+          "date_of_birth": null,
+          "first_name": "Veronika",
+          "last_name": "Obročníková"
+        },
+        {
+          "alias": "75kristinapreinerova",
+          "date_of_birth": null,
+          "first_name": "Kristína",
+          "last_name": "Preinerová"
+        },
+        {
+          "alias": "129jansabik",
+          "date_of_birth": null,
+          "first_name": "Ján",
+          "last_name": "Šabík"
+        },
+        {
+          "alias": "137michalmarcak",
           "date_of_birth": null,
           "first_name": "Michal",
-          "last_name": "Kéry"
+          "last_name": "Marčák"
         },
         {
-          "alias": "83samuelferenc",
+          "alias": "149janbabocky",
           "date_of_birth": null,
-          "first_name": "Samuel",
-          "last_name": "Ferenc"
+          "first_name": "Ján",
+          "last_name": "Babocký"
         },
         {
-          "alias": "125patrikelias",
+          "alias": "204dorotaholeckova",
           "date_of_birth": null,
-          "first_name": "Patrik",
-          "last_name": "Eliáš"
-        },
-        {
-          "alias": "92kevinpinke",
-          "date_of_birth": null,
-          "first_name": "Kevin",
-          "last_name": "Pinke"
-        },
-        {
-          "alias": "124marekdolezaj",
-          "date_of_birth": null,
-          "first_name": "Marek",
-          "last_name": "Doležaj"
-        },
-        {
-          "alias": "344hanadrienovska",
-          "date_of_birth": "2008-03-31",
-          "first_name": "Hana",
-          "last_name": "Drienovska"
-        },
-        {
-          "alias": "205egongrznarik",
-          "date_of_birth": null,
-          "first_name": "Egon",
-          "last_name": "Grznárik"
-        },
-        {
-          "alias": "327viktoriaslosiarova",
-          "date_of_birth": "2007-04-08",
-          "first_name": "Viktoria",
-          "last_name": "Slosiarova"
-        },
-        {
-          "alias": "328lauradatkova",
-          "date_of_birth": "2009-09-17",
-          "first_name": "Laura",
-          "last_name": "Datkova"
+          "first_name": "Dorota",
+          "last_name": "Holečková"
         }
       ]
     },
