@@ -1,1 +1,791 @@
-[]
+[{
+    "id": "43a94f5e-9a71-4a55-82e0-b2cd7dc91acf",
+    "media": {
+        "style": "An illustration of a group of people at a debate with expression of varied emotions - some smiling, others with arms crossed; a speech bubble showing someone pointing out errors in a paper.",
+        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/43a94f5e-9a71-4a55-82e0-b2cd7dc91acf",
+        "text_to_speech": {
+            "src": null,
+            "voice": null
+        },
+        "background_music": {
+            "src": null,
+            "loop": false
+        }
+    },
+    "sentence": "Which of the following expressions means to point out faults in a very critical manner?",
+    "correct_answer": "A",
+    "options": {
+        "A": "Pick holes",
+        "B": "Among the worst",
+        "C": "The world's worst",
+        "D": "Run down"
+    },
+    "group_alias": "FB_ADDICTS",
+    "cefr_level": "c1",
+    "target_vocabulary": [
+        "praise for",
+        "highly praised",
+        "brilliantly",
+        "first-rate",
+        "top-notch",
+        "really on the ball",
+        "have a green finger",
+        "have a way with",
+        "head and shoulders above",
+        "miles better",
+        "is streets ahead",
+        "among the worst",
+        "most interesting",
+        "out of this world",
+        "criticise",
+        "highly critical of",
+        "received critical acclaim",
+        "critical condition",
+        "critically",
+        "critically acclaimed",
+        "critically ill",
+        "to criticise",
+        "run down",
+        "pick holes",
+        "at fault",
+        "to blame",
+        "the cat's whiskers",
+        "the bee's knees",
+        "the world's worst",
+        "take the biscuit",
+        "She wants to have her cake and eat it!",
+        "absurd",
+        "among the best",
+        "get the gift of the gab"
+    ],
+    "target_grammar": null,
+    "itokens": null,
+    "submitted": false,
+    "metadata": {
+        "analyst": "M-Maker25",
+        "model_alias": "fm-gai-lottie-multiple-choice-v1",
+        "model_version": "1.0",
+        "target_material": [
+            {
+                "week": "week 7 (14-20 October)",
+                "book_title": "Upper-intermediate Vocabulary in Use 46",
+                "title": "Upper-intermediate Vocabulary in Use 46",
+                "material_type": "VOC",
+                "url": "https://drive.google.com/file/d/1CpoPFDAJF4g4tBQcsRit3T2uwqh8PNaz/view?usp=sharing"
+            }
+        ],
+        "sandbox_slot": {
+            "assigned_group": {
+                "alias": "FB_ADDICTS",
+                "group_record": [
+                    14,
+                    "school1",
+                    "Facebook Addicts",
+                    "FB_ADDICTS",
+                    null,
+                    "PRIMARY",
+                    "true",
+                    "ACTIVE"
+                ],
+                "learning_path_id": ""
+            },
+            "assignee": "teacher1",
+            "comments": {},
+            "completed": false,
+            "due_date": "2024-10-15",
+            "end_time": "2024-10-15 18:25:00",
+            "start_time": "2024-10-15 17:40:00",
+            "student_attendance": {},
+            "students": [
+                {
+                    "alias": "72dariustonkovic",
+                    "date_of_birth": null,
+                    "first_name": "D\u00e1rius",
+                    "last_name": "Tonkovi\u010d"
+                },
+                {
+                    "alias": "73michalkery",
+                    "date_of_birth": null,
+                    "first_name": "Michal",
+                    "last_name": "K\u00e9ry"
+                },
+                {
+                    "alias": "83samuelferenc",
+                    "date_of_birth": null,
+                    "first_name": "Samuel",
+                    "last_name": "Ferenc"
+                },
+                {
+                    "alias": "125patrikelias",
+                    "date_of_birth": null,
+                    "first_name": "Patrik",
+                    "last_name": "Eli\u00e1\u0161"
+                },
+                {
+                    "alias": "92kevinpinke",
+                    "date_of_birth": null,
+                    "first_name": "Kevin",
+                    "last_name": "Pinke"
+                },
+                {
+                    "alias": "124marekdolezaj",
+                    "date_of_birth": null,
+                    "first_name": "Marek",
+                    "last_name": "Dole\u017eaj"
+                },
+                {
+                    "alias": "344hanadrienovska",
+                    "date_of_birth": "2008-03-31",
+                    "first_name": "Hana",
+                    "last_name": "Drienovska"
+                },
+                {
+                    "alias": "205egongrznarik",
+                    "date_of_birth": null,
+                    "first_name": "Egon",
+                    "last_name": "Grzn\u00e1rik"
+                },
+                {
+                    "alias": "327viktoriaslosiarova",
+                    "date_of_birth": "2007-04-08",
+                    "first_name": "Viktoria",
+                    "last_name": "Slosiarova"
+                },
+                {
+                    "alias": "328lauradatkova",
+                    "date_of_birth": "2009-09-17",
+                    "first_name": "Laura",
+                    "last_name": "Datkova"
+                }
+            ]
+        },
+        "ms_interest_token_logs": {
+            "data_point": null,
+            "target_student": "random"
+        }
+    }
+},
+{
+    "id": "8d1006e1-0ca5-4d1d-9dbd-c944e93739af",
+    "media": {
+        "style": "A vibrant garden setting where a young woman is tending to her plants, showcasing a lush and colorful array of flowers and shrubs.",
+        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/8d1006e1-0ca5-4d1d-9dbd-c944e93739af",
+        "text_to_speech": {
+            "src": null,
+            "voice": null
+        },
+        "background_music": {
+            "src": null,
+            "loop": false
+        }
+    },
+    "sentence": "Karen's garden was __________ by everyone for its beautiful flowers.",
+    "correct_answer": "C",
+    "options": {
+        "A": "criticised",
+        "B": "She wants to have her cake and eat it!",
+        "C": "highly praised",
+        "D": "miles better"
+    },
+    "group_alias": "MCDNLD",
+    "cefr_level": "b2",
+    "target_vocabulary": [
+        "praise for",
+        "highly praised",
+        "brilliantly",
+        "first-rate",
+        "top-notch",
+        "really on the ball",
+        "have a green finger",
+        "have a way with",
+        "head and shoulders above",
+        "miles better",
+        "is streets ahead",
+        "among the worst",
+        "most interesting",
+        "out of this world",
+        "criticise",
+        "highly critical of",
+        "received critical acclaim",
+        "critical condition",
+        "critically",
+        "critically acclaimed",
+        "critically ill",
+        "to criticise",
+        "run down",
+        "pick holes",
+        "at fault",
+        "to blame",
+        "the cat's whiskers",
+        "the bee's knees",
+        "the world's worst",
+        "take the biscuit",
+        "She wants to have her cake and eat it!",
+        "absurd",
+        "among the best",
+        "get the gift of the gab"
+    ],
+    "target_grammar": null,
+    "itokens": null,
+    "submitted": false,
+    "metadata": {
+        "analyst": "M-Maker25",
+        "model_alias": "fm-gai-lottie-multiple-choice-v1",
+        "model_version": "1.0",
+        "target_material": [
+            {
+                "week": "week 7 (14-20 October)",
+                "book_title": "Upper-intermediate Vocabulary in Use 46",
+                "title": "Upper-intermediate Vocabulary in Use 46",
+                "material_type": "VOC",
+                "url": "https://drive.google.com/file/d/1CpoPFDAJF4g4tBQcsRit3T2uwqh8PNaz/view?usp=sharing"
+            }
+        ],
+        "sandbox_slot": {
+            "assigned_group": {
+                "alias": "MCDNLD",
+                "group_record": [
+                    20,
+                    "school1",
+                    "McDonald_s Warriors",
+                    "MCDNLD",
+                    null,
+                    "PRIMARY",
+                    "true",
+                    "ACTIVE"
+                ],
+                "learning_path_id": ""
+            },
+            "assignee": "teacher1",
+            "comments": {},
+            "completed": false,
+            "due_date": "2024-10-16",
+            "end_time": "2024-10-16 18:25:00",
+            "start_time": "2024-10-16 17:40:00",
+            "student_attendance": {},
+            "students": [
+                {
+                    "alias": "53karenrajnohova",
+                    "date_of_birth": null,
+                    "first_name": "Karen",
+                    "last_name": "Rajnohov\u00e1"
+                },
+                {
+                    "alias": "59nikolkoncalova",
+                    "date_of_birth": null,
+                    "first_name": "Nikol",
+                    "last_name": "Kon\u010d\u00e1lov\u00e1"
+                },
+                {
+                    "alias": "77paulinabelicova",
+                    "date_of_birth": null,
+                    "first_name": "Paul\u00edna",
+                    "last_name": "Belicov\u00e1"
+                },
+                {
+                    "alias": "131samuelmanek",
+                    "date_of_birth": null,
+                    "first_name": "Samuel",
+                    "last_name": "Manek"
+                },
+                {
+                    "alias": "285radkafaberova",
+                    "date_of_birth": "1900-01-01",
+                    "first_name": "Radka",
+                    "last_name": "Faberova"
+                },
+                {
+                    "alias": "251adelaminarova",
+                    "date_of_birth": "1900-01-02",
+                    "first_name": "Adela",
+                    "last_name": "Minarova"
+                },
+                {
+                    "alias": "141jakubkrcmarik",
+                    "date_of_birth": null,
+                    "first_name": "Jakub",
+                    "last_name": "Kr\u010dm\u00e1rik"
+                },
+                {
+                    "alias": "109tamarasitarova",
+                    "date_of_birth": null,
+                    "first_name": "Tamara",
+                    "last_name": "Sit\u00e1rov\u00e1"
+                },
+                {
+                    "alias": "299sandrapajerova",
+                    "date_of_birth": "2009-08-29",
+                    "first_name": "Sandra",
+                    "last_name": "Pajerov\u00e1"
+                },
+                {
+                    "alias": "343martinamagusinova",
+                    "date_of_birth": "2006-12-14",
+                    "first_name": "Martina",
+                    "last_name": "Magusinova"
+                }
+            ]
+        },
+        "ms_interest_token_logs": {
+            "data_point": null,
+            "target_student": "random"
+        }
+    }
+},
+{
+    "id": "0405d5b0-cf8b-47d3-9bde-7e5b7623089a",
+    "media": {
+        "style": "An illustrated weather scene showing different weather phenomena: a sunny area where snow is melting, a section with gentle breezes blowing leaves, a dark section indicating a gale with strong winds, and a humid area with water droplets visible in the air.",
+        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/0405d5b0-cf8b-47d3-9bde-7e5b7623089a",
+        "text_to_speech": {
+            "src": null,
+            "voice": null
+        },
+        "background_music": {
+            "src": null,
+            "loop": false
+        }
+    },
+    "sentence": "What weather conditions can you expect when the snow starts to melt?",
+    "correct_answer": "C",
+    "options": {
+        "A": "A gentle breeze and clear skies.",
+        "B": "A fierce gale with strong winds.",
+        "C": "Warmer temperatures and possibly a flood.",
+        "D": "Extreme humidity with no change in temperature."
+    },
+    "group_alias": "A3",
+    "cefr_level": "b2",
+    "target_vocabulary": [
+        "daytime",
+        "late",
+        "misty",
+        "damp",
+        "frost",
+        "severe",
+        "expect",
+        "freeze",
+        "thaw",
+        "melts",
+        "tropical",
+        "stifling",
+        "muggy",
+        "humid",
+        "boiling",
+        "heatwaves",
+        "shower",
+        "heavy rain",
+        "pour down",
+        "downpour",
+        "torrential rain",
+        "flood",
+        "overcast",
+        "drought",
+        "gentle breeze",
+        "strong",
+        "high wind",
+        "gale",
+        "hurricane",
+        "bad weather"
+    ],
+    "target_grammar": null,
+    "itokens": null,
+    "submitted": false,
+    "metadata": {
+        "analyst": "M-Maker25",
+        "model_alias": "fm-gai-lottie-multiple-choice-v1",
+        "model_version": "1.0",
+        "target_material": [
+            {
+                "week": "week 7 (14-20 October)",
+                "book_title": "Upper-intermediate Vocabulary in Use 6",
+                "title": "Upper-intermediate Vocabulary in Use 6",
+                "material_type": "VOC",
+                "url": "https://drive.google.com/file/d/1WhbLVK7kxXxmpPFNb_kSgSd3l7VT30UV/view?usp=sharing"
+            }
+        ],
+        "sandbox_slot": {
+            "assigned_group": {
+                "alias": "A3",
+                "group_record": [
+                    7,
+                    "school1",
+                    "Adults 3",
+                    "A3",
+                    null,
+                    "PRIMARY",
+                    "true",
+                    "ACTIVE"
+                ],
+                "learning_path_id": ""
+            },
+            "assignee": "teacher1",
+            "comments": {},
+            "completed": false,
+            "due_date": "2024-10-16",
+            "end_time": "2024-10-16 19:15:00",
+            "start_time": "2024-10-16 18:30:00",
+            "student_attendance": {},
+            "students": [
+                {
+                    "alias": "78miroslavmagat",
+                    "date_of_birth": null,
+                    "first_name": "Miroslav",
+                    "last_name": "Mag\u00e1t"
+                },
+                {
+                    "alias": "79peterporubsky",
+                    "date_of_birth": null,
+                    "first_name": "Peter",
+                    "last_name": "Porubsk\u00fd"
+                },
+                {
+                    "alias": "292lubosmoravcik",
+                    "date_of_birth": "1974-11-02",
+                    "first_name": "\u013dubo\u0161",
+                    "last_name": "Morav\u010d\u00edk"
+                },
+                {
+                    "alias": "313jozefkosut",
+                    "date_of_birth": "1999-08-12",
+                    "first_name": "Jozef",
+                    "last_name": "Kosut"
+                },
+                {
+                    "alias": "301janaturzova",
+                    "date_of_birth": "1986-10-30",
+                    "first_name": "Jana",
+                    "last_name": "Turzov\u00e1"
+                },
+                {
+                    "alias": "307milosslezak",
+                    "date_of_birth": "1967-03-14",
+                    "first_name": "Milo\u0161",
+                    "last_name": "Slez\u00e1k"
+                },
+                {
+                    "alias": "308danielbelica",
+                    "date_of_birth": "2001-01-22",
+                    "first_name": "Daniel",
+                    "last_name": "Belica"
+                },
+                {
+                    "alias": "196matusdrienovsky",
+                    "date_of_birth": null,
+                    "first_name": "Mat\u00fa\u0161",
+                    "last_name": "Drienovsk\u00fd"
+                },
+                {
+                    "alias": "273dominikavalkovicova",
+                    "date_of_birth": null,
+                    "first_name": "Dominika",
+                    "last_name": "Valkovicova"
+                },
+                {
+                    "alias": "240ladislavgregus st.",
+                    "date_of_birth": null,
+                    "first_name": "Ladislav",
+                    "last_name": "Gregus St."
+                },
+                {
+                    "alias": "257janakocisova",
+                    "date_of_birth": null,
+                    "first_name": "Jana",
+                    "last_name": "Kocisova"
+                }
+            ]
+        },
+        "ms_interest_token_logs": {
+            "data_point": null,
+            "target_student": "random"
+        }
+    }
+},
+{
+    "id": "ffa4f2f4-7bb5-4bd8-bbc9-faf7a24d6f6f",
+    "media": {
+        "style": "An illustration showing a lively city scene with busy nightlife, cultural activities at a theater, a traffic jam on the street, and a quiet park nearby, to visually contrast the different aspects of a city.",
+        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/ffa4f2f4-7bb5-4bd8-bbc9-faf7a24d6f6f",
+        "text_to_speech": {
+            "src": null,
+            "voice": null
+        },
+        "background_music": {
+            "src": null,
+            "loop": false
+        }
+    },
+    "sentence": "Which option reflects a peaceful way to spend an evening in the city?",
+    "correct_answer": "D",
+    "options": {
+        "A": "Exploring the city's nightlife",
+        "B": "Getting stuck in traffic jams",
+        "C": "Attending vibrant cultural activities",
+        "D": "Relaxing in a quiet park"
+    },
+    "group_alias": "A1",
+    "cefr_level": "b1",
+    "target_vocabulary": [
+        "in a hurry",
+        "get stuck",
+        "traffic jams",
+        "nowhere to park",
+        "car park",
+        "stressful",
+        "exhausted",
+        "stressed",
+        "parking space",
+        "advantages of",
+        "nightlife",
+        "town centre",
+        "lively",
+        "veriety of",
+        "culture",
+        "cultural activities",
+        "disadvantages",
+        "crowded",
+        "dirty",
+        "clean",
+        "dangerous",
+        "safe",
+        "pollution",
+        "crime rate",
+        "at night",
+        "value for money",
+        "mix",
+        "going on",
+        "dull",
+        "quiet",
+        "good value for money"
+    ],
+    "target_grammar": null,
+    "itokens": null,
+    "submitted": false,
+    "metadata": {
+        "analyst": "M-Maker25",
+        "model_alias": "fm-gai-lottie-multiple-choice-v1",
+        "model_version": "1.0",
+        "target_material": [
+            {
+                "week": "week 7 (14-20 October)",
+                "book_title": "Intermediate Vocabulary in Use 26",
+                "title": "Intermediate Vocabulary in Use 26",
+                "material_type": "VOC",
+                "url": "https://drive.google.com/file/d/1DyfRuhgP16JKU10dI1_YtjYgNCGuIb28/view?usp=sharing"
+            }
+        ],
+        "sandbox_slot": {
+            "assigned_group": {
+                "alias": "A1",
+                "group_record": [
+                    2,
+                    "school1",
+                    "Adults 1",
+                    "A1",
+                    null,
+                    "PRIMARY",
+                    "true",
+                    "ACTIVE"
+                ],
+                "learning_path_id": ""
+            },
+            "assignee": "teacher1",
+            "comments": {},
+            "completed": false,
+            "due_date": "2024-10-17",
+            "end_time": "2024-10-17 17:35:00",
+            "start_time": "2024-10-17 16:50:00",
+            "student_attendance": {},
+            "students": [
+                {
+                    "alias": "282veronikabalazova",
+                    "date_of_birth": null,
+                    "first_name": "Veronika",
+                    "last_name": "Balazova"
+                },
+                {
+                    "alias": "146jozefbrunclik",
+                    "date_of_birth": null,
+                    "first_name": "Jozef",
+                    "last_name": "Bruncl\u00edk"
+                },
+                {
+                    "alias": "152alenagregusova",
+                    "date_of_birth": null,
+                    "first_name": "Alena",
+                    "last_name": "Gregu\u0161ov\u00e1"
+                },
+                {
+                    "alias": "168zuzanaherdova",
+                    "date_of_birth": null,
+                    "first_name": "Zuzana",
+                    "last_name": "Herdov\u00e1"
+                },
+                {
+                    "alias": "169katarinafurdova",
+                    "date_of_birth": null,
+                    "first_name": "Katar\u00edna",
+                    "last_name": "Furdov\u00e1"
+                },
+                {
+                    "alias": "314mariannatonkovicova",
+                    "date_of_birth": "1983-02-11",
+                    "first_name": "Marianna",
+                    "last_name": "Tonkovi\u010dov\u00e1"
+                },
+                {
+                    "alias": "195marekvician",
+                    "date_of_birth": null,
+                    "first_name": "Marek",
+                    "last_name": "Vician"
+                }
+            ]
+        },
+        "ms_interest_token_logs": {
+            "data_point": null,
+            "target_student": "random"
+        }
+    }
+},
+{
+    "id": "c89eca22-2a47-4461-9ed9-1e235f5e564d",
+    "media": {
+        "style": "A scenic image showing a landscape with snow-covered mountains, a waterfall, and contrasting terrain features such as green forests and rocky cliffs.",
+        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/c89eca22-2a47-4461-9ed9-1e235f5e564d",
+        "text_to_speech": {
+            "src": null,
+            "voice": null
+        },
+        "background_music": {
+            "src": null,
+            "loop": false
+        }
+    },
+    "sentence": "Which of the following best describes a place where temperatures can fall and landscapes are covered in snow?",
+    "correct_answer": "B",
+    "options": {
+        "A": "A tropical island with palm trees",
+        "B": "A mountain region with snowy peaks",
+        "C": "A desert with high sand dunes",
+        "D": "A cityscape with skyscrapers"
+    },
+    "group_alias": "BOMB_S",
+    "cefr_level": "b1",
+    "target_vocabulary": [
+        "cave",
+        "canal",
+        "falls",
+        "surface",
+        "Earth",
+        "covered in",
+        "in the world",
+        "temperatures over",
+        "degrees",
+        "on earth",
+        "minus",
+        "over",
+        "waterfall",
+        "rainforest",
+        "ocean",
+        "covering",
+        "covered with",
+        "consists of",
+        "regions",
+        "contrasts",
+        "landscapes",
+        "distance",
+        "climate",
+        "in the south",
+        "north",
+        "north-west",
+        "west",
+        "south-west",
+        "south",
+        "south-east",
+        "east",
+        "north-east"
+    ],
+    "target_grammar": null,
+    "itokens": null,
+    "submitted": false,
+    "metadata": {
+        "analyst": "M-Maker25",
+        "model_alias": "fm-gai-lottie-multiple-choice-v1",
+        "model_version": "1.0",
+        "target_material": [
+            {
+                "week": "week 7 (14-20 October)",
+                "book_title": "Intermediate Vocabulary in Use 6",
+                "title": "Intermediate Vocabulary in Use 6",
+                "material_type": "VOC",
+                "url": "https://drive.google.com/file/d/1kUOAPBS_jTcVStSQd2fnFiNntT7Cti9d/view?usp=sharing"
+            }
+        ],
+        "sandbox_slot": {
+            "assigned_group": {
+                "alias": "BOMB_S",
+                "group_record": [
+                    9,
+                    "school1",
+                    "Bomb Squad",
+                    "BOMB_S",
+                    null,
+                    "PRIMARY",
+                    "true",
+                    "ACTIVE"
+                ],
+                "learning_path_id": ""
+            },
+            "assignee": "teacher1",
+            "comments": {},
+            "completed": false,
+            "due_date": "2024-10-17",
+            "end_time": "2024-10-17 18:25:00",
+            "start_time": "2024-10-17 17:40:00",
+            "student_attendance": {},
+            "students": [
+                {
+                    "alias": "120viktoriavalentinyova",
+                    "date_of_birth": "1900-01-01",
+                    "first_name": "Vikt\u00f3ria",
+                    "last_name": "Valent\u00ednyov\u00e1"
+                },
+                {
+                    "alias": "147matusjankular",
+                    "date_of_birth": null,
+                    "first_name": "Mat\u00fa\u0161",
+                    "last_name": "Jankul\u00e1r"
+                },
+                {
+                    "alias": "95dorotasabova",
+                    "date_of_birth": null,
+                    "first_name": "Dorota",
+                    "last_name": "\u0160abov\u00e1"
+                },
+                {
+                    "alias": "96olivermanek",
+                    "date_of_birth": null,
+                    "first_name": "Oliver",
+                    "last_name": "Manek"
+                },
+                {
+                    "alias": "97nataliakozmerova",
+                    "date_of_birth": null,
+                    "first_name": "Nat\u00e1lia",
+                    "last_name": "Kozm\u00e9rov\u00e1"
+                },
+                {
+                    "alias": "194armandocaushi",
+                    "date_of_birth": "2014-02-14",
+                    "first_name": "Armando",
+                    "last_name": "Caushi"
+                }
+            ]
+        },
+        "ms_interest_token_logs": {
+            "data_point": null,
+            "target_student": "random"
+        }
+    }
+}
+]
