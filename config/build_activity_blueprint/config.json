@@ -1,15 +1,11 @@
 {
     "slot": {
       "assigned_group": {
-        "alias": "MVRCK",
-        "group_record": 
-        [
-          39, 
-          "school1",
-          "Mavericks",
-          "MVRCK",
-          null,
-          "PRIMARY",
+        "alias": "HACKR",
+        "group_record": [5, "school1",
+          "Hackers",
+          "HACKR",
+          null, "PRIMARY",
           "true",
           "ACTIVE"
         ],
@@ -20,77 +16,77 @@
   
       },
       "completed": false,
-      "due_date": "2024-10-14",
-      "end_time": "2024-10-14 14:15:00",
-      "start_time": "2024-10-14 13:30:00",
+      "due_date": "2024-10-17",
+      "end_time": "2024-10-17 14:15:00",
+      "start_time": "2024-10-17 13:30:00",
       "student_attendance": {
   
       },
       "students": [
         {
-          "alias": "336adamsoos",
-          "date_of_birth": "2017-01-24",
-          "first_name": "Adam",
-          "last_name": "Soos"
-        },
-        {
-          "alias": "113lenkakubaljakova",
+          "alias": "123jakubkristofovic",
           "date_of_birth": null,
-          "first_name": "Lenka",
-          "last_name": "Kubaljaková"
+          "first_name": "Jakub",
+          "last_name": "Krištofovič"
         },
         {
-          "alias": "157ninajanosova",
+          "alias": "340tobiasstrba",
+          "date_of_birth": "2012-06-09",
+          "first_name": "Tobias",
+          "last_name": "Strba"
+        },
+        {
+          "alias": "162sofiaherdova",
           "date_of_birth": null,
-          "first_name": "Nina",
-          "last_name": "Jánošová"
+          "first_name": "Sofia",
+          "last_name": "Herdová"
         },
         {
-          "alias": "158zoezatkova",
+          "alias": "165jakubgudiak",
+          "date_of_birth": "2014-04-22",
+          "first_name": "Jakub",
+          "last_name": "Gudiak"
+        },
+        {
+          "alias": "183carmenmravik",
           "date_of_birth": null,
-          "first_name": "Zoe",
-          "last_name": "Zaťková"
+          "first_name": "Carmen",
+          "last_name": "Mravík"
         },
         {
-          "alias": "160emakovacova",
+          "alias": "305tamarakaplanova",
+          "date_of_birth": "2013-12-15",
+          "first_name": "Tamara",
+          "last_name": "Kaplanová"
+        },
+        {
+          "alias": "191matuskabat",
           "date_of_birth": null,
-          "first_name": "Ema",
-          "last_name": "Kováčová"
+          "first_name": "Matúš",
+          "last_name": "Kabát"
         },
         {
-          "alias": "170jurajgombar ml.",
-          "date_of_birth": null,
-          "first_name": "Juraj",
-          "last_name": "Gombár ml."
-        },
-        {
-          "alias": "185leopilka",
+          "alias": "220leochabrecek",
           "date_of_birth": null,
           "first_name": "Leo",
-          "last_name": "Pilka"
+          "last_name": "Chabreček"
         },
         {
-          "alias": "260alexkozolka",
-          "date_of_birth": null,
-          "first_name": "Alex",
-          "last_name": "Kozolka"
+          "alias": "317luciasabikova",
+          "date_of_birth": "2013-07-29",
+          "first_name": "Lucia",
+          "last_name": "Šabíková"
         },
         {
-          "alias": "159anetasutorova",
-          "date_of_birth": null,
-          "first_name": "Aneta",
-          "last_name": "Šútorová"
-        },
-        {
-          "alias": "226samuelkrsak",
-          "date_of_birth": null,
-          "first_name": "Samuel",
-          "last_name": "Kršák"
+          "alias": "330patrikszegeny",
+          "date_of_birth": "2013-02-12",
+          "first_name": "Patrik",
+          "last_name": "Szegeny"
         }
       ]
     },
     "prompt": {
-        "include_ss": true,
+        "include_ss": false,
         "premise": {
             "include_custom_premise": false,
             "text": "Aneta and Samuel playing cards"
