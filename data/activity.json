@@ -1,8 +1,8 @@
 {
-    "id": "ce132392-cc4b-4afc-aa11-b946eef5fb1c",
+    "id": "c89eca22-2a47-4461-9ed9-1e235f5e564d",
     "media": {
-        "style": "An illustration of a cozy kitchen with a round wooden table, a shelf on the wall with various items, and a fruit bowl placed in the center of the table.",
-        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/ce132392-cc4b-4afc-aa11-b946eef5fb1c",
+        "style": "A scenic image showing a landscape with snow-covered mountains, a waterfall, and contrasting terrain features such as green forests and rocky cliffs.",
+        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/c89eca22-2a47-4461-9ed9-1e235f5e564d",
         "text_to_speech": {
             "src": null,
             "voice": null
@@ -12,66 +12,74 @@
             "loop": false
         }
     },
-    "sentence": "Where is the round bowl placed in the kitchen?",
+    "sentence": "Which of the following best describes a place where temperatures can fall and landscapes are covered in snow?",
     "correct_answer": "B",
     "options": {
-        "A": "Inside the cupboard",
-        "B": "On the round table",
-        "C": "On the top shelf",
-        "D": "Next to the fridge"
+        "A": "A tropical island with palm trees",
+        "B": "A mountain region with snowy peaks",
+        "C": "A desert with high sand dunes",
+        "D": "A cityscape with skyscrapers"
     },
-    "group_alias": "MVRCK",
-    "cefr_level": "a1",
+    "group_alias": "BOMB_S",
+    "cefr_level": "b1",
     "target_vocabulary": [
-        "bottle",
-        "bowl",
-        "box",
-        "cup",
-        "glass",
-        "plate",
-        "balloon",
-        "birthday",
-        "party",
-        "present",
-        "CD player",
-        "cupboard",
-        "shelf",
-        "table",
-        "baseball",
-        "bat",
-        "add",
-        "big",
-        "round",
-        "square",
-        "inside",
-        "outside",
-        "Brilliant!",
-        "shape"
+        "cave",
+        "canal",
+        "falls",
+        "surface",
+        "Earth",
+        "covered in",
+        "in the world",
+        "temperatures over",
+        "degrees",
+        "on earth",
+        "minus",
+        "over",
+        "waterfall",
+        "rainforest",
+        "ocean",
+        "covering",
+        "covered with",
+        "consists of",
+        "regions",
+        "contrasts",
+        "landscapes",
+        "distance",
+        "climate",
+        "in the south",
+        "north",
+        "north-west",
+        "west",
+        "south-west",
+        "south",
+        "south-east",
+        "east",
+        "north-east"
     ],
     "target_grammar": null,
     "itokens": null,
     "submitted": false,
     "metadata": {
-        "analyst": "CPTFreedom",
+        "analyst": "M-Maker25",
         "model_alias": "fm-gai-lottie-multiple-choice-v1",
         "model_version": "1.0",
         "target_material": [
             {
                 "week": "week 7 (14-20 October)",
-                "book_title": "FUN for Movers UNIT 12",
-                "title": "FUN for Movers UNIT 12",
-                "material_type": "SB",
-                "url": "https://drive.google.com/file/d/1x8mQW7neDT0uISECSWA9CdBEWMIIEPa-/view?usp=sharing"
+                "book_title": "Intermediate Vocabulary in Use 6",
+                "title": "Intermediate Vocabulary in Use 6",
+                "material_type": "VOC",
+                "url": "https://drive.google.com/file/d/1kUOAPBS_jTcVStSQd2fnFiNntT7Cti9d/view?usp=sharing"
             }
         ],
         "sandbox_slot": {
             "assigned_group": {
-                "alias": "MVRCK",
+                "alias": "BOMB_S",
                 "group_record": [
-                    39,
+                    9,
                     "school1",
-                    "Mavericks",
-                    "MVRCK",
+                    "Bomb Squad",
+                    "BOMB_S",
                     null,
                     "PRIMARY",
                     "true",
@@ -79,73 +87,49 @@
                 ],
                 "learning_path_id": ""
             },
-            "assignee": "teacher2",
+            "assignee": "teacher1",
             "comments": {},
             "completed": false,
-            "due_date": "2024-10-21",
-            "end_time": "2024-10-21 14:15:00",
-            "start_time": "2024-10-21 13:30:00",
+            "due_date": "2024-10-17",
+            "end_time": "2024-10-17 18:25:00",
+            "start_time": "2024-10-17 17:40:00",
             "student_attendance": {},
             "students": [
                 {
-                    "alias": "336adamsoos",
-                    "date_of_birth": "2017-01-24",
-                    "first_name": "Adam",
-                    "last_name": "Soos"
+                    "alias": "120viktoriavalentinyova",
+                    "date_of_birth": "1900-01-01",
+                    "first_name": "Vikt\u00f3ria",
+                    "last_name": "Valent\u00ednyov\u00e1"
                 },
                 {
-                    "alias": "113lenkakubaljakova",
+                    "alias": "147matusjankular",
                     "date_of_birth": null,
-                    "first_name": "Lenka",
-                    "last_name": "Kubaljakov\u00e1"
+                    "first_name": "Mat\u00fa\u0161",
+                    "last_name": "Jankul\u00e1r"
                 },
                 {
-                    "alias": "157ninajanosova",
+                    "alias": "95dorotasabova",
                     "date_of_birth": null,
-                    "first_name": "Nina",
-                    "last_name": "J\u00e1no\u0161ov\u00e1"
+                    "first_name": "Dorota",
+                    "last_name": "\u0160abov\u00e1"
                 },
                 {
-                    "alias": "158zoezatkova",
+                    "alias": "96olivermanek",
                     "date_of_birth": null,
-                    "first_name": "Zoe",
-                    "last_name": "Za\u0165kov\u00e1"
+                    "first_name": "Oliver",
+                    "last_name": "Manek"
                 },
                 {
-                    "alias": "160emakovacova",
+                    "alias": "97nataliakozmerova",
                     "date_of_birth": null,
-                    "first_name": "Ema",
-                    "last_name": "Kov\u00e1\u010dov\u00e1"
+                    "first_name": "Nat\u00e1lia",
+                    "last_name": "Kozm\u00e9rov\u00e1"
                 },
                 {
-                    "alias": "170jurajgombar ml.",
-                    "date_of_birth": null,
-                    "first_name": "Juraj",
-                    "last_name": "Gomb\u00e1r ml."
-                },
-                {
-                    "alias": "185leopilka",
-                    "date_of_birth": null,
-                    "first_name": "Leo",
-                    "last_name": "Pilka"
-                },
-                {
-                    "alias": "260alexkozolka",
-                    "date_of_birth": null,
-                    "first_name": "Alex",
-                    "last_name": "Kozolka"
-                },
-                {
-                    "alias": "159anetasutorova",
-                    "date_of_birth": null,
-                    "first_name": "Aneta",
-                    "last_name": "\u0160\u00fatorov\u00e1"
-                },
-                {
-                    "alias": "226samuelkrsak",
-                    "date_of_birth": null,
-                    "first_name": "Samuel",
-                    "last_name": "Kr\u0161\u00e1k"
+                    "alias": "194armandocaushi",
+                    "date_of_birth": "2014-02-14",
+                    "first_name": "Armando",
+                    "last_name": "Caushi"
                 }
             ]
         },

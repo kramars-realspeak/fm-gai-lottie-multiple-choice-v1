@@ -1,113 +1,73 @@
 { "words" :
 
     {
-        "sight" : {"definition" : " " },
+        "praise for" : {"definition" : " " },
 
-        "hearing" : {"definition" : " " },
+        "highly praised" : {"definition" : " " },
 
-        "taste" : {"definition" : " " },
+        "brilliantly" : {"definition" : " " },
 
-        "touch" : {"definition" : " " },
+        "first-rate" : {"definition" : " " },
 
-        "smell" : {"definition" : " " },
+        "top-notch" : {"definition" : " " },
 
-        "look" : {"definition" : " " },
+        "really on the ball" : {"definition" : " " },
 
-        "sound" : {"definition" : " " },
+        "have a green finger" : {"definition" : " " },
+
+        "have a way with" : {"definition" : " " },
+
+        "head and shoulders above" : {"definition" : " " },
+
+        "miles better" : {"definition" : " " },
+
+        "is streets ahead" : {"definition" : " " },
+
+        "among the worst" : {"definition" : " " },
+
+        "most interesting" : {"definition" : " " },
+
+        "out of this world" : {"definition" : " " },
+
+        "criticise" : {"definition" : " " },
+
+        "highly critical of" : {"definition" : " " },
+
+        "received critical acclaim" : {"definition" : " " },
+
+        "critical condition" : {"definition" : " " },
+
+        "critically" : {"definition" : " " },
+
+        "critically acclaimed" : {"definition" : " " },
         
-        "glanced" : {"definition" : " " },
+        "critically ill" : {"definition" : " " },
 
-        "noticed" : {"definition" : " " },
+        "to criticise" : {"definition" : " " },
 
-        "observing" : {"definition" : " " },
+        "run down" : {"definition" : " " },
 
-        "glimpsed" : {"definition" : " " },
+        "pick holes" : {"definition" : " " },
 
-        "see" : {"definition" : " " },
+        "at fault" : {"definition" : " " },
 
-        "peering" : {"definition" : " " },
+        "to blame" : {"definition" : " " },
 
-        "gazed" : {"definition" : " " },
+        "the cat's whiskers" : {"definition" : " " },
 
-        "staring" : {"definition" : " " },
+        "the bee's knees" : {"definition" : " " },
 
-        "witnessed" : {"definition" : " " },
+        "the world's worst" : {"definition" : " " },
 
-        "noiseless" : {"definition" : " " },
+        "take the biscuit" : {"definition" : " " },
 
-        "silent" : {"definition" : " " },
+        "She wants to have her cake and eat it!" : {"definition" : " " },
 
-        "quite" : {"definition" : " " },
+        "absurd" : {"definition" : " " },
 
-        "noisy" : {"definition" : " " },
+        "among the best" : {"definition" : " " },
 
-        "loud" : {"definition" : " " },
-
-        "deafening" : {"definition" : " " },
-
-        "sweet" : {"definition" : " " },
-
-        "salty" : {"definition" : " " },
-
-        "bitter" : {"definition" : " " },
-
-        "sour" : {"definition" : " " },
-
-        "spicy" : {"definition" : " " },
-
-        "mild" : {"definition" : " " },
-
-        "hot" : {"definition" : " " },
-
-        "not cold" : {"definition" : " " },
-
-        "tasty" : {"definition" : " " },
-
-        "tasteful" : {"definition" : " " },
-
-        "tasteless" : {"definition" : " " },
-
-        "poked" : {"definition" : " " },
-
-        "tapped" : {"definition" : " " },
-
-        "press" : {"definition" : " " },
-
-        "handle" : {"definition" : " " },
-
-        "snatched" : {"definition" : " " },
-
-        "grasped" : {"definition" : " " },
-
-        "stroked" : {"definition" : " " },
-
-        "patted" : {"definition" : " " },
-
-        "grabbed" : {"definition" : " " },
-
-        "stinking foul" : {"definition" : " " },
-
-        "smelling putrid musty" : {"definition" : " " },
-
-        "pungent" : {"definition" : " " },
-
-        "fragrant" : {"definition" : " " },
-
-        "aromatic" : {"definition" : " " },
-
-        "sweet-smelling" : {"definition" : " " },
-
-        "perfumed" : {"definition" : " " },
-
-        "scented" : {"definition" : " " },
-
-        "telepathy" : {"definition" : " " },
-
-        "premonition" : {"definition" : " " },
-
-        "intuition" : {"definition" : " " },
-
-        "deja vu" : {"definition" : " " }
+        "get the gift of the gab" : {"definition" : " " }
 
     }
 }
