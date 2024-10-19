@@ -75,7 +75,7 @@
       ]
     },
     "prompt": {
-        "include_ss": true,
+        "include_ss": false,
         "premise": {
             "include_custom_premise": false,
             "text": "Aneta and Samuel playing cards"
