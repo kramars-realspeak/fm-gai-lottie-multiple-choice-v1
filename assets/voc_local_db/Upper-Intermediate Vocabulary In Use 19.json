@@ -1,79 +1,69 @@
 { "words" :
 
     {
-        "the arts" : {"definition" : " " },
+        "production" : {"definition" : " " },
 
-        "art" : {"definition" : " " },
+        "sets" : {"definition" : " " },
 
-        "fine art" : {"definition" : " " },
+        "costumes" : {"definition" : " " },
 
-        "arts page" : {"definition" : " " },
+        "cast" : {"definition" : " " },
 
-        "art lover" : {"definition" : " " },
+        "give a performance" : {"definition" : " " },
 
-        "artistic" : {"definition" : " " },
+        "direction" : {"definition" : " " },
 
-        "arts and crafts" : {"definition" : " " },
+        "get rave reviews" : {"definition" : " " },
 
-        "sculptor" : {"definition" : " " },
+        "ballet" : {"definition" : " " },
 
-        "creating a statue" : {"definition" : " " },
+        "dance" : {"definition" : " " },
 
-        "sculpture" : {"definition" : " " },
+        "modern ballet" : {"definition" : " " },
 
-        "potter" : {"definition" : " " },
+        "comedian" : {"definition" : " " },
 
-        "throwing a pot" : {"definition" : " " },
+        "show" : {"definition" : " " },
 
-        "pottery" : {"definition" : " " },
+        "entertainers" : {"definition" : " " },
 
-        "architect" : {"definition" : " " },
+        "audience" : {"definition" : " " },
 
-        "designing a building" : {"definition" : " " },
+        "viewer" : {"definition" : " " },
 
-        "architecture" : {"definition" : " " },
+        "cinema" : {"definition" : " " },
 
-        "abstract" : {"definition" : " " },
+        "opera" : {"definition" : " " },
 
-        "images" : {"definition" : " " },
+        "theatre" : {"definition" : " " },
 
-        "portrait" : {"definition" : " " },
+        "scene" : {"definition" : " " },
 
-        "landscapes" : {"definition" : " " },
+        "set" : {"definition" : " " },
 
-        "still life" : {"definition" : " " },
+        "captures" : {"definition" : " " },
 
-        "original" : {"definition" : " " },
+        "script" : {"definition" : " " },
 
-        "reproduction" : {"definition" : " " },
+        "dialogue" : {"definition" : " " },
 
-        "novelists" : {"definition" : " " },
+        "director" : {"definition" : " " },
 
-        "series" : {"definition" : " " },
+        "screenplay" : {"definition" : " " },
 
-        "setting" : {"definition" : " " },
+        "score" : {"definition" : " " },
 
-        "bestseller" : {"definition" : " " },
+        "performance" : {"definition" : " " },
 
-        "critics" : {"definition" : " " },
+        "stage" : {"definition" : " " },
 
-        "extract" : {"definition" : " " },
+        "venue" : {"definition" : " " },
 
-        "plots" : {"definition" : " " },
+        "promoting" : {"definition" : " " },
 
-        "literary" : {"definition" : " " },
+        "appearing" : {"definition" : " " },
 
-        "ebooks" : {"definition" : " " },
-
-        "passage" : {"definition" : " " },
-
-        "characters" : {"definition" : " " },
-
-        "reviews" : {"definition" : " " },
-
-        "publication" : {"definition" : " " },
-
-        "copies" : {"definition" : " " }
+        "What's on at...?" : {"definition" : " " }
 
     }
 }

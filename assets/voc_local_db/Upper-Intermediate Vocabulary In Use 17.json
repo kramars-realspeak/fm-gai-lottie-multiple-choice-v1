@@ -1,61 +1,95 @@
 { "words" :
 
     {
-        "put forward" : {"definition" : " " },
+        "hang-gliding" : {"definition" : " " },
 
-        "business plan" : {"definition" : " " },
+        "bowling" : {"definition" : " " },
 
-        "custom-built" : {"definition" : " " },
+        "fencing" : {"definition" : " " },
 
-        "launched" : {"definition" : " " },
+        "snowjumping" : {"definition" : " " },
 
-        "rolled out" : {"definition" : " " },
+        "windsurfing" : {"definition" : " " },
 
-        "expanded" : {"definition" : " " },
+        "archery" : {"definition" : " " },
 
-        "firm" : {"definition" : " " },
+        "motor racing" : {"definition" : " " },
 
-        "manufactures" : {"definition" : " " },
+        "snooker" : {"definition" : " " },
 
-        "customer care" : {"definition" : " " },
+        "billiards" : {"definition" : " " },
 
-        "priority" : {"definition" : " " },
+        "scuba diving" : {"definition" : " " },
 
-        "market research" : {"definition" : " " },
+        "snowboarding" : {"definition" : " " },
 
-        "recession" : {"definition" : " " },
+        "club" : {"definition" : " " },
 
-        "potential" : {"definition" : " " },
+        "racket" : {"definition" : " " },
 
-        "risk" : {"definition" : " " },
+        "bat" : {"definition" : " " },
 
-        "order books" : {"definition" : " " },
+        "cue" : {"definition" : " " },
 
-        "going forward" : {"definition" : " " },
+        "paddle" : {"definition" : " " },
 
-        "launch" : {"definition" : " " },
+        "oar" : {"definition" : " " },
 
-        "sell" : {"definition" : " " },
+        "stick" : {"definition" : " " },
 
-        "roll out" : {"definition" : " " },
+        "dart" : {"definition" : " " },
 
-        "CEO" : {"definition" : " " },
+        "bow" : {"definition" : " " },
 
-        "corporation" : {"definition" : " " },
+        "rod" : {"definition" : " " },
 
-        "do business" : {"definition" : " " },
+        "line" : {"definition" : " " },
 
-        "access new markets" : {"definition" : " " },
+        "discus" : {"definition" : " " },
 
-        "build contacts" : {"definition" : " " },
+        "javelin" : {"definition" : " " },
 
-        "make a profit" : {"definition" : " " },
+        "high jump" : {"definition" : " " },
 
-        "stiff competition" : {"definition" : " " },
+        "long jump" : {"definition" : " " },
 
-        "get feedback" : {"definition" : " " },
+        "gymnastic" : {"definition" : " " },
 
-        "business" : {"definition" : " " }
+        "pole vault" : {"definition" : " " },
+
+        "sprinter" : {"definition" : " " },
+
+        "long-distance" : {"definition" : " " },
+
+        "marathon" : {"definition" : " " },
+
+        "set" : {"definition" : " " },
+
+        "record" : {"definition" : " " },
+
+        "hold a record" : {"definition" : " " },
+
+        "qualified" : {"definition" : " " },
+
+        "got knocked out" : {"definition" : " " },
+
+        "round" : {"definition" : " " },
+
+        "made it to" : {"definition" : " " },
+
+        "reached the semi-final" : {"definition" : " " },
+
+        "sports" : {"definition" : " " },
+
+        "competitive" : {"definition" : " " },
+
+        "trophy" : {"definition" : " " },
+
+        "referee" : {"definition" : " " },
+
+        "spectator" : {"definition" : " " },
+        
+        "pleyer" : {"definition" : " " }
 
     }
 }

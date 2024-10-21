@@ -1,59 +1,97 @@
 { "words" :
 
     {
-        "posted" : {"definition" : " " },
+        "republic" : {"definition" : " " },
 
-        "update my status" : {"definition" : " " },
+        "governed" : {"definition" : " " },
 
-        "subscribe" : {"definition" : " " },
+        "monarchy" : {"definition" : " " },
 
-        "follow" : {"definition" : " " },
+        "ruled" : {"definition" : " " },
 
-        "send a friend request" : {"definition" : " " },
+        "federation" : {"definition" : " " },
 
-        "like" : {"definition" : " " },
+        "democracy" : {"definition" : " " },
 
-        "comment" : {"definition" : " " },
+        "government" : {"definition" : " " },
 
-        "profile" : {"definition" : " " },
+        "dictatorship" : {"definition" : " " },
 
-        "upload" : {"definition" : " " },
+        "independence" : {"definition" : " " },
 
-        "photo" : {"definition" : " " },
+        "United States Presidential government" : {"definition" : " " },
 
-        "post updates" : {"definition" : " " },
+        "legislature" : {"definition" : " " },
 
-        "share links" : {"definition" : " " },
+        "branches" : {"definition" : " " },
 
-        "comment" : {"definition" : " " },
+        "elected" : {"definition" : " " },
 
-        "rate" : {"definition" : " " },
+        "term" : {"definition" : " " },
 
-        "views" : {"definition" : " " },
+        "appoint" : {"definition" : " " },
 
-        "likes" : {"definition" : " " },
+        "nominate" : {"definition" : " " },
 
-        "notifications" : {"definition" : " " },
+        "judges" : {"definition" : " " },
 
-        "create an account" : {"definition" : " " },
+        "majority" : {"definition" : " " },
 
-        "private" : {"definition" : " " },
+        "party" : {"definition" : " " },
 
-        "privacy settings" : {"definition" : " " },
+        "congress" : {"definition" : " " },
 
-        "profile picture" : {"definition" : " " },
+        "houses" : {"definition" : " " },
 
-        "public" : {"definition" : " " },
+        "House of Representatives" : {"definition" : " " },
 
-        "timeline" : {"definition" : " " },
+        "the Senate" : {"definition" : " " },
 
-        "tagged" : {"definition" : " " },
+        "United Kingdom Paliamentary government" : {"definition" : " " },
 
-        "direct messages" : {"definition" : " " },
+        "Cabinet of Ministers" : {"definition" : " " },
 
-        "accounts" : {"definition" : " " },
+        "coalition" : {"definition" : " " },
 
-        "default" : {"definition" : " " }
+        "the Prime Minister" : {"definition" : " " },
+
+        "House of Commons" : {"definition" : " " },
+
+        "heads" : {"definition" : " " },
+
+        "selects" : {"definition" : " " },
+
+        "chambers" : {"definition" : " " },
+
+        "House of Lord" : {"definition" : " " },
+
+        "MPs" : {"definition" : " " },
+
+        "members of parliament" : {"definition" : " " },
+
+        "constituency" : {"definition" : " " },
+
+        "polling day" : {"definition" : " " },
+
+        "ballot paper" : {"definition" : " " },
+
+        "general election" : {"definition" : " " },
+
+        "politician" : {"definition" : " " },
+
+        "representative" : {"definition" : " " },
+
+        "standing" : {"definition" : " " },
+
+        "policies" : {"definition" : " " },
+
+        "polling station" : {"definition" : " " },
+
+        "casts a vote" : {"definition" : " " },
+
+        "seat" : {"definition" : " " },
+
+        "marginal seat" : {"definition" : " " }
 
     }
 }

@@ -1,63 +1,75 @@
 { "words" :
 
     {
-        "undergraduate studies" : {"definition" : " " },
-
-        "bachelor's degree" : {"definition" : " " },
-
-        "modules" : {"definition" : " " },
-
-        "programmes" : {"definition" : " " },
-
-        "credit" : {"definition" : " " },
-
-        "dissertation" : {"definition" : " " },
-
-        "graduated" : {"definition" : " " },
-
-        "graduates" : {"definition" : " " },
-
-        "postgraduate studies" : {"definition" : " " },
-
-        "PhD" : {"definition" : " " },
-
-        "field" : {"definition" : " " },
-
-        "master's degree" : {"definition" : " " },
-
         "research" : {"definition" : " " },
 
-        "thesis" : {"definition" : " " },
+        "director" : {"definition" : " " },
 
-        "a tutorial" : {"definition" : " " },
+        "executive" : {"definition" : " " },
 
-        "a university campus" : {"definition" : " " },
+        "administration" : {"definition" : " " },
 
-        "a lecture theatre" : {"definition" : " " },
+        "receptionist" : {"definition" : " " },
 
-        "lectures" : {"definition" : " " },
+        "union representative" : {"definition" : " " },
 
-        "seminars" : {"definition" : " " },
+        "unskilled worker" : {"definition" : " " },
 
-        "halls of residence" : {"definition" : " " },
+        "public relations officer" : {"definition" : " " },
 
-        "entry requirements" : {"definition" : " " },
+        "skilled worker" : {"definition" : " " },
 
-        "submit your application" : {"definition" : " " },
+        "supervisor" : {"definition" : " " },
+        
+        "work" : {"definition" : " " },
 
-        "tuition fees" : {"definition" : " " },
+        "job" : {"definition" : " " },
 
-        "student loan" : {"definition" : " " },
+        "professions" : {"definition" : " " },
 
-        "scholarship" : {"definition" : " " },
+        "trades" : {"definition" : " " },
 
-        "admission" : {"definition" : " " },
+        "get work" : {"definition" : " " },
 
-        "funding" : {"definition" : " " },
+        "find work" : {"definition" : " " },
 
-        "student union" : {"definition" : " " },
+        "work shifts" : {"definition" : " " },
 
-        "student societies" : {"definition" : " " }
+        "be on flexi-time" : {"definition" : " " },
 
+        "work nine-to-five" : {"definition" : " " },
+
+        "go on strike" : {"definition" : " " },
+
+        "be on strike" : {"definition" : " " },
+
+        "be fired" : {"definition" : " " },
+
+        "be made redundant" : {"definition" : " " },
+
+        "get the sack" : {"definition" : " " },
+
+        "be laid off" : {"definition" : " " },
+
+        "be on maternity" : {"definition" : " " },
+
+        "take maternity" : {"definition" : " " },
+
+        "take sick leave" : {"definition" : " " },
+
+        "take early" : {"definition" : " " },
+
+        "paternity" : {"definition" : " " },
+
+        "leave" : {"definition" : " " },
+
+        "retirement" : {"definition" : " " },
+
+        "be a workaholic" : {"definition" : " " },
+
+        "apply for a job" : {"definition" : " " },
+
+        "be promoted" : {"definition" : " " }
+        
     }
 }

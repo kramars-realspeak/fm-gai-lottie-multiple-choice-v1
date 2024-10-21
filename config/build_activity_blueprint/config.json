@@ -1,78 +1,8 @@
 
   {
     "slot":  {
-      "assigned_group": {
-        "alias": "TIGRS",
-        "group_record": [22, "school1",
-          "Tigers",
-          "TIGRS",
-          null, "PRIMARY",
-          "true",
-          "ACTIVE"
-        ],
-        "learning_path_id": ""
-      },
-      "assignee": "teacher1",
-      "comments": {
-  
-      },
-      "completed": false,
-      "due_date": "2024-10-17",
-      "end_time": "2024-10-17 19:15:00",
-      "start_time": "2024-10-17 18:30:00",
-      "student_attendance": {
-  
-      },
-      "students": [
-        {
-          "alias": "55pavolnehez",
-          "date_of_birth": null,
-          "first_name": "Pavol",
-          "last_name": "Nehéz"
-        },
-        {
-          "alias": "56dianamasarova",
-          "date_of_birth": null,
-          "first_name": "Diana",
-          "last_name": "Masárová"
-        },
-        {
-          "alias": "58veronikaobrocnikova",
-          "date_of_birth": null,
-          "first_name": "Veronika",
-          "last_name": "Obročníková"
-        },
-        {
-          "alias": "75kristinapreinerova",
-          "date_of_birth": null,
-          "first_name": "Kristína",
-          "last_name": "Preinerová"
-        },
-        {
-          "alias": "129jansabik",
-          "date_of_birth": null,
-          "first_name": "Ján",
-          "last_name": "Šabík"
-        },
-        {
-          "alias": "137michalmarcak",
-          "date_of_birth": null,
-          "first_name": "Michal",
-          "last_name": "Marčák"
-        },
-        {
-          "alias": "149janbabocky",
-          "date_of_birth": null,
-          "first_name": "Ján",
-          "last_name": "Babocký"
-        },
-        {
-          "alias": "204dorotaholeckova",
-          "date_of_birth": null,
-          "first_name": "Dorota",
-          "last_name": "Holečková"
-        }
-      ]
+      "date": "21.10.2024",
+      "group_alias": "T_KIDS"
     },
     "prompt": {
         "include_ss": false,

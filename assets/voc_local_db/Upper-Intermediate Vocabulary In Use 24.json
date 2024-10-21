@@ -1,75 +1,129 @@
 { "words" :
 
     {
-        "globalisation" : {"definition" : " " },
+        "city" : {"definition" : " " },
 
-        "acid rain" : {"definition" : " " },
+        "town" : {"definition" : " " },
 
-        "air pollution" : {"definition" : " " },
+        "population" : {"definition" : " " },
 
-        "global warming" : {"definition" : " " },
+        "suburbs" : {"definition" : " " },
 
-        "hazardous" : {"definition" : " " },
+        "traffic system" : {"definition" : " " },
 
-        "waste" : {"definition" : " " },
+        "lively" : {"definition" : " " },
 
-        "ozone depletion" : {"definition" : " " },
+        "contemporary" : {"definition" : " " },
 
-        "smog" : {"definition" : " " },
+        "outskirts" : {"definition" : " " },
 
-        "water pollution" : {"definition" : " " },
+        "residential" : {"definition" : " " },
 
-        "overpopulation" : {"definition" : " " },
+        "picturesque" : {"definition" : " " },
 
-        "rainforest destruction" : {"definition" : " " },
+        "adventurous" : {"definition" : " " },
 
-        "greenhouse effect" : {"definition" : " " },
+        "swimming pool" : {"definition" : " " },
 
-        "atmosphere" : {"definition" : " " },
+        "sports centre" : {"definition" : " " },
 
-        "polar ice caps" : {"definition" : " " },
+        "golf course" : {"definition" : " " },
 
-        "climate change" : {"definition" : " " },
+        "tennis courts" : {"definition" : " " },
 
-        "species" : {"definition" : " " },
+        "football pitch" : {"definition" : " " },
 
-        "endangered" : {"definition" : " " },
+        "skating rink" : {"definition" : " " },
 
-        "extinct" : {"definition" : " " },
+        "theatre" : {"definition" : " " },
 
-        "gases" : {"definition" : " " },
+        "opera house" : {"definition" : " " },
 
-        "overfishing" : {"definition" : " " },
+        "concert hall" : {"definition" : " " },
 
-        "overpopulated" : {"definition" : " " },
+        "radio station" : {"definition" : " " },
 
-        "worldwide" : {"definition" : " " },
+        "art gallery" : {"definition" : " " },
 
-        "reserves" : {"definition" : " " },
+        "school" : {"definition" : " " },
 
-        "green" : {"definition" : " " },
+        "college" : {"definition" : " " },
 
-        "protecting the enviroment" : {"definition" : " " },
+        "university" : {"definition" : " " },
 
-        "conversation" : {"definition" : " " },
+        "library" : {"definition" : " " },
 
-        "ecological" : {"definition" : " " },
+        "adult education centre" : {"definition" : " " },
 
-        "organic" : {"definition" : " " },
+        "museum" : {"definition" : " " },
 
-        "dispose of water" : {"definition" : " " },
+        "restaurant" : {"definition" : " " },
 
-        "reduce their carbon" : {"definition" : " " },
+        "take-away" : {"definition" : " " },
 
-        "fossil fuels" : {"definition" : " " },
+        "hotel" : {"definition" : " " },
 
-        "recycling" : {"definition" : " " },
+        "B&B" : {"definition" : " " },
 
-        "footprint" : {"definition" : " " },
-
-        "environmentally friendly" : {"definition" : " " },
+        "youth hostel" : {"definition" : " " },
         
-        "ecologically sound" : {"definition" : " " }
+        "bus service" : {"definition" : " " },
+
+        "club" : {"definition" : " " },
+
+        "taxi rank" : {"definition" : " " },
+
+        "car hire" : {"definition" : " " },
+
+        "car park" : {"definition" : " " },
+
+        "parking meters" : {"definition" : " " },
+
+        "health centre" : {"definition" : " " },
+
+        "law courts" : {"definition" : " " },
+
+        "registry office" : {"definition" : " " },
+
+        "citizens' advice bureau" : {"definition" : " " },
+
+        "job centre" : {"definition" : " " },
+
+        "Town Hall" : {"definition" : " " },
+
+        "City Hall" : {"definition" : " " },
+
+        "police station" : {"definition" : " " },
+
+        "industrial estate" : {"definition" : " " },
+
+        "garden centre" : {"definition" : " " },
+
+        "chemist's" : {"definition" : " " },
+
+        "housing estate" : {"definition" : " " },
+
+        "estate agent" : {"definition" : " " },
+
+        "department store" : {"definition" : " " },
+
+        "historic" : {"definition" : " " },
+
+        "spacious" : {"definition" : " " },
+
+        "elegant" : {"definition" : " " },
+
+        "magnificent" : {"definition" : " " },
+
+        "packed" : {"definition" : " " },
+
+        "run-down" : {"definition" : " " },
+
+        "filthy" : {"definition" : " " },
+
+        "deserted" : {"definition" : " " },
+
+        "spaces" : {"definition" : " " }
 
     }
 }

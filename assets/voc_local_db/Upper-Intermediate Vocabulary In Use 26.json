@@ -1,71 +1,95 @@
 { "words" :
 
     {
-        "wing" : {"definition" : " " },
+        "pyjamas" : {"definition" : " " },
 
-        "eggs" : {"definition" : " " },
+        "collar" : {"definition" : " " },
 
-        "nets" : {"definition" : " " },
+        "zip" : {"definition" : " " },
 
-        "feather" : {"definition" : " " },
+        "cuff" : {"definition" : " " },
 
-        "paw" : {"definition" : " " },
+        "hoodie" : {"definition" : " " },
 
-        "claws" : {"definition" : " " },
+        "hem" : {"definition" : " " },
 
-        "fur" : {"definition" : " " },
+        "sleeve" : {"definition" : " " },
 
-        "whiskers" : {"definition" : " " },
+        "hood" : {"definition" : " " },
 
-        "tail" : {"definition" : " " },
+        "badge" : {"definition" : " " },
 
-        "mane" : {"definition" : " " },
+        "bikini" : {"definition" : " " },
 
-        "hoof" : {"definition" : " " },
+        "slippers" : {"definition" : " " },
 
-        "horns" : {"definition" : " " },
+        "helmet" : {"definition" : " " },
 
-        "petals" : {"definition" : " " },
+        "heel" : {"definition" : " " },
 
-        "pollen" : {"definition" : " " },
+        "laces" : {"definition" : " " },
 
-        "bud" : {"definition" : " " },
+        "sole" : {"definition" : " " },
 
-        "stem" : {"definition" : " " },
+        "bra" : {"definition" : " " },
 
-        "thorn" : {"definition" : " " },
+        "buckle" : {"definition" : " " },
 
-        "leaf" : {"definition" : " " },
+        "belt" : {"definition" : " " },
 
-        "bough" : {"definition" : " " },
+        "try on" : {"definition" : " " },
 
-        "twig" : {"definition" : " " },
+        "dressing up" : {"definition" : " " },
 
-        "roots" : {"definition" : " " },
+        "letting out" : {"definition" : " " },
 
-        "trunk" : {"definition" : " " },
+        "letting down" : {"definition" : " " },
 
-        "bark" : {"definition" : " " },
+        "taking up" : {"definition" : " " },
 
-        "branch" : {"definition" : " " },
+        "taking in" : {"definition" : " " },
 
-        "leaves" : {"definition" : " " },
+        "changed out of" : {"definition" : " " },
 
-        "flowers" : {"definition" : " " },
+        "suit" : {"definition" : " " },
 
-        "blossoms" : {"definition" : " " },
+        "matches" : {"definition" : " " },
 
-        "pick" : {"definition" : " " },
+        "fit" : {"definition" : " " },
 
-        "lay" : {"definition" : " " },
+        "grown out of" : {"definition" : " " },
 
-        "grow" : {"definition" : " " },
+        "baggy" : {"definition" : " " },
 
-        "grew" : {"definition" : " " },
+        "close-fitting" : {"definition" : " " },
 
-        "breed" : {"definition" : " " },
+        "V-neck" : {"definition" : " " },
 
-        "pick up" : {"definition" : " " }
+        "round-neck" : {"definition" : " " },
+
+        "wollen" : {"definition" : " " },
+
+        "sleeveless" : {"definition" : " " },
+
+        "suede" : {"definition" : " " },
+
+        "denim" : {"definition" : " " },
+
+        "long-sleeved" : {"definition" : " " },
+
+        "elegant" : {"definition" : " " },
+
+        "casually" : {"definition" : " " },
+
+        "designer" : {"definition" : " " },
+
+        "national costume" : {"definition" : " " },
+
+        "inside out" : {"definition" : " " },
+
+        "masks" : {"definition" : " " },
+
+        "disguise" : {"definition" : " " }
 
     }
 }

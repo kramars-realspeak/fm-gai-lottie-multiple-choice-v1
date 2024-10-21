@@ -1,75 +1,61 @@
 { "words" :
 
     {
-        "research" : {"definition" : " " },
+        "put forward" : {"definition" : " " },
 
-        "director" : {"definition" : " " },
+        "business plan" : {"definition" : " " },
 
-        "executive" : {"definition" : " " },
+        "custom-built" : {"definition" : " " },
 
-        "administration" : {"definition" : " " },
+        "launched" : {"definition" : " " },
 
-        "receptionist" : {"definition" : " " },
+        "rolled out" : {"definition" : " " },
 
-        "union representative" : {"definition" : " " },
+        "expanded" : {"definition" : " " },
 
-        "unskilled worker" : {"definition" : " " },
+        "firm" : {"definition" : " " },
 
-        "public relations officer" : {"definition" : " " },
+        "manufactures" : {"definition" : " " },
 
-        "skilled worker" : {"definition" : " " },
+        "customer care" : {"definition" : " " },
 
-        "supervisor" : {"definition" : " " },
-        
-        "work" : {"definition" : " " },
+        "priority" : {"definition" : " " },
 
-        "job" : {"definition" : " " },
+        "market research" : {"definition" : " " },
 
-        "professions" : {"definition" : " " },
+        "recession" : {"definition" : " " },
 
-        "trades" : {"definition" : " " },
+        "potential" : {"definition" : " " },
 
-        "get work" : {"definition" : " " },
+        "risk" : {"definition" : " " },
 
-        "find work" : {"definition" : " " },
+        "order books" : {"definition" : " " },
 
-        "work shifts" : {"definition" : " " },
+        "going forward" : {"definition" : " " },
 
-        "be on flexi-time" : {"definition" : " " },
+        "launch" : {"definition" : " " },
 
-        "work nine-to-five" : {"definition" : " " },
+        "sell" : {"definition" : " " },
 
-        "go on strike" : {"definition" : " " },
+        "roll out" : {"definition" : " " },
 
-        "be on strike" : {"definition" : " " },
+        "CEO" : {"definition" : " " },
 
-        "be fired" : {"definition" : " " },
+        "corporation" : {"definition" : " " },
 
-        "be made redundant" : {"definition" : " " },
+        "do business" : {"definition" : " " },
 
-        "get the sack" : {"definition" : " " },
+        "access new markets" : {"definition" : " " },
 
-        "be laid off" : {"definition" : " " },
+        "build contacts" : {"definition" : " " },
 
-        "be on maternity" : {"definition" : " " },
+        "make a profit" : {"definition" : " " },
 
-        "take maternity" : {"definition" : " " },
+        "stiff competition" : {"definition" : " " },
 
-        "take sick leave" : {"definition" : " " },
+        "get feedback" : {"definition" : " " },
 
-        "take early" : {"definition" : " " },
+        "business" : {"definition" : " " }
 
-        "paternity" : {"definition" : " " },
-
-        "leave" : {"definition" : " " },
-
-        "retirement" : {"definition" : " " },
-
-        "be a workaholic" : {"definition" : " " },
-
-        "apply for a job" : {"definition" : " " },
-
-        "be promoted" : {"definition" : " " }
-        
     }
 }

@@ -1,95 +1,79 @@
 { "words" :
 
     {
-        "hang-gliding" : {"definition" : " " },
+        "the arts" : {"definition" : " " },
 
-        "bowling" : {"definition" : " " },
+        "art" : {"definition" : " " },
 
-        "fencing" : {"definition" : " " },
+        "fine art" : {"definition" : " " },
 
-        "snowjumping" : {"definition" : " " },
+        "arts page" : {"definition" : " " },
 
-        "windsurfing" : {"definition" : " " },
+        "art lover" : {"definition" : " " },
 
-        "archery" : {"definition" : " " },
+        "artistic" : {"definition" : " " },
 
-        "motor racing" : {"definition" : " " },
+        "arts and crafts" : {"definition" : " " },
 
-        "snooker" : {"definition" : " " },
+        "sculptor" : {"definition" : " " },
 
-        "billiards" : {"definition" : " " },
+        "creating a statue" : {"definition" : " " },
 
-        "scuba diving" : {"definition" : " " },
+        "sculpture" : {"definition" : " " },
 
-        "snowboarding" : {"definition" : " " },
+        "potter" : {"definition" : " " },
 
-        "club" : {"definition" : " " },
+        "throwing a pot" : {"definition" : " " },
 
-        "racket" : {"definition" : " " },
+        "pottery" : {"definition" : " " },
 
-        "bat" : {"definition" : " " },
+        "architect" : {"definition" : " " },
 
-        "cue" : {"definition" : " " },
+        "designing a building" : {"definition" : " " },
 
-        "paddle" : {"definition" : " " },
+        "architecture" : {"definition" : " " },
 
-        "oar" : {"definition" : " " },
+        "abstract" : {"definition" : " " },
 
-        "stick" : {"definition" : " " },
+        "images" : {"definition" : " " },
 
-        "dart" : {"definition" : " " },
+        "portrait" : {"definition" : " " },
 
-        "bow" : {"definition" : " " },
+        "landscapes" : {"definition" : " " },
 
-        "rod" : {"definition" : " " },
+        "still life" : {"definition" : " " },
 
-        "line" : {"definition" : " " },
+        "original" : {"definition" : " " },
 
-        "discus" : {"definition" : " " },
+        "reproduction" : {"definition" : " " },
 
-        "javelin" : {"definition" : " " },
+        "novelists" : {"definition" : " " },
 
-        "high jump" : {"definition" : " " },
+        "series" : {"definition" : " " },
 
-        "long jump" : {"definition" : " " },
+        "setting" : {"definition" : " " },
 
-        "gymnastic" : {"definition" : " " },
+        "bestseller" : {"definition" : " " },
 
-        "pole vault" : {"definition" : " " },
+        "critics" : {"definition" : " " },
 
-        "sprinter" : {"definition" : " " },
+        "extract" : {"definition" : " " },
 
-        "long-distance" : {"definition" : " " },
+        "plots" : {"definition" : " " },
 
-        "marathon" : {"definition" : " " },
+        "literary" : {"definition" : " " },
 
-        "set" : {"definition" : " " },
+        "ebooks" : {"definition" : " " },
 
-        "record" : {"definition" : " " },
+        "passage" : {"definition" : " " },
 
-        "hold a record" : {"definition" : " " },
+        "characters" : {"definition" : " " },
 
-        "qualified" : {"definition" : " " },
+        "reviews" : {"definition" : " " },
 
-        "got knocked out" : {"definition" : " " },
+        "publication" : {"definition" : " " },
 
-        "round" : {"definition" : " " },
-
-        "made it to" : {"definition" : " " },
-
-        "reached the semi-final" : {"definition" : " " },
-
-        "sports" : {"definition" : " " },
-
-        "competitive" : {"definition" : " " },
-
-        "trophy" : {"definition" : " " },
-
-        "referee" : {"definition" : " " },
-
-        "spectator" : {"definition" : " " },
-        
-        "pleyer" : {"definition" : " " }
+        "copies" : {"definition" : " " }
 
     }
 }

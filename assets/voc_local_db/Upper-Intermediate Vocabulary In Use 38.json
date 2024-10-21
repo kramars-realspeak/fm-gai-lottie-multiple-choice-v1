@@ -1,97 +1,77 @@
 { "words" :
 
     {
-        "republic" : {"definition" : " " },
+        "current account" : {"definition" : " " },
 
-        "governed" : {"definition" : " " },
+        "interest rates" : {"definition" : " " },
 
-        "monarchy" : {"definition" : " " },
+        "overdraft facility" : {"definition" : " " },
 
-        "ruled" : {"definition" : " " },
+        "raise money" : {"definition" : " " },
 
-        "federation" : {"definition" : " " },
+        "competitive" : {"definition" : " " },
 
-        "democracy" : {"definition" : " " },
+        "mortgage" : {"definition" : " " },
 
-        "government" : {"definition" : " " },
+        "deposits" : {"definition" : " " },
 
-        "dictatorship" : {"definition" : " " },
+        "repayments" : {"definition" : " " },
 
-        "independence" : {"definition" : " " },
+        "consolidate" : {"definition" : " " },
 
-        "United States Presidential government" : {"definition" : " " },
+        "debts" : {"definition" : " " },
 
-        "legislature" : {"definition" : " " },
+        "payment" : {"definition" : " " },
 
-        "branches" : {"definition" : " " },
+        "credit limit" : {"definition" : " " },
 
-        "elected" : {"definition" : " " },
+        "steady income" : {"definition" : " " },
 
-        "term" : {"definition" : " " },
+        "outgoing" : {"definition" : " " },
 
-        "appoint" : {"definition" : " " },
+        "expenses" : {"definition" : " " },
 
-        "nominate" : {"definition" : " " },
+        "opened a savings account" : {"definition" : " " },
 
-        "judges" : {"definition" : " " },
+        "transfer" : {"definition" : " " },
 
-        "majority" : {"definition" : " " },
+        "in credit" : {"definition" : " " },
 
-        "party" : {"definition" : " " },
+        "overdrawn" : {"definition" : " " },
 
-        "congress" : {"definition" : " " },
+        "in the red" : {"definition" : " " },
 
-        "houses" : {"definition" : " " },
+        "charge interest" : {"definition" : " " },
 
-        "House of Representatives" : {"definition" : " " },
+        "overdraft limit" : {"definition" : " " },
 
-        "the Senate" : {"definition" : " " },
+        "online banking" : {"definition" : " " },
 
-        "United Kingdom Paliamentary government" : {"definition" : " " },
+        "cash machine" : {"definition" : " " },
 
-        "Cabinet of Ministers" : {"definition" : " " },
+        "finance" : {"definition" : " " },
 
-        "coalition" : {"definition" : " " },
+        "credit rating" : {"definition" : " " },
 
-        "the Prime Minister" : {"definition" : " " },
+        "direct debit" : {"definition" : " " },
 
-        "House of Commons" : {"definition" : " " },
+        "income tax" : {"definition" : " " },
 
-        "heads" : {"definition" : " " },
+        "inheritance tax" : {"definition" : " " },
 
-        "selects" : {"definition" : " " },
+        "customs" : {"definition" : " " },
 
-        "chambers" : {"definition" : " " },
+        "excise" : {"definition" : " " },
 
-        "House of Lord" : {"definition" : " " },
+        "duty" : {"definition" : " " },
 
-        "MPs" : {"definition" : " " },
+        "duty-free" : {"definition" : " " },
 
-        "members of parliament" : {"definition" : " " },
+        "corporation tax" : {"definition" : " " },
 
-        "constituency" : {"definition" : " " },
+        "VAT" : {"definition" : " " },
 
-        "polling day" : {"definition" : " " },
-
-        "ballot paper" : {"definition" : " " },
-
-        "general election" : {"definition" : " " },
-
-        "politician" : {"definition" : " " },
-
-        "representative" : {"definition" : " " },
-
-        "standing" : {"definition" : " " },
-
-        "policies" : {"definition" : " " },
-
-        "polling station" : {"definition" : " " },
-
-        "casts a vote" : {"definition" : " " },
-
-        "seat" : {"definition" : " " },
-
-        "marginal seat" : {"definition" : " " }
+        "value added tax" : {"definition" : " " }
 
     }
 }

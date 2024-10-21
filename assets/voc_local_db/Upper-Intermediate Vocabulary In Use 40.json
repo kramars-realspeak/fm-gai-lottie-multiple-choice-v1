@@ -1,77 +1,79 @@
 { "words" :
 
     {
-        "current account" : {"definition" : " " },
+        "think" : {"definition" : " " },
 
-        "interest rates" : {"definition" : " " },
+        "believe" : {"definition" : " " },
 
-        "overdraft facility" : {"definition" : " " },
+        "convinced" : {"definition" : " " },
 
-        "raise money" : {"definition" : " " },
+        "held" : {"definition" : " " },
 
-        "competitive" : {"definition" : " " },
+        "maintain" : {"definition" : " " },
 
-        "mortgage" : {"definition" : " " },
+        "feel" : {"definition" : " " },
 
-        "deposits" : {"definition" : " " },
+        "reckon" : {"definition" : " " },
 
-        "repayments" : {"definition" : " " },
+        "doubt" : {"definition" : " " },
 
-        "consolidate" : {"definition" : " " },
+        "suspect" : {"definition" : " " },
 
-        "debts" : {"definition" : " " },
+        "in my view" : {"definition" : " " },
 
-        "payment" : {"definition" : " " },
+        "in my opinion" : {"definition" : " " },
 
-        "credit limit" : {"definition" : " " },
+        "to my mind" : {"definition" : " " },
 
-        "steady income" : {"definition" : " " },
+        "If you ask me" : {"definition" : " " },
 
-        "outgoing" : {"definition" : " " },
+        "point of view" : {"definition" : " " },
 
-        "expenses" : {"definition" : " " },
+        "from my point of view" : {"definition" : " " },
 
-        "opened a savings account" : {"definition" : " " },
+        "believe in" : {"definition" : " " },
 
-        "transfer" : {"definition" : " " },
+        "views on" : {"definition" : " " },
 
-        "in credit" : {"definition" : " " },
+        "think of" : {"definition" : " " },
 
-        "overdrawn" : {"definition" : " " },
+        "for against" : {"definition" : " " },
 
-        "in the red" : {"definition" : " " },
+        "in favour of" : {"definition" : " " },
 
-        "charge interest" : {"definition" : " " },
+        "opposed to" : {"definition" : " " },
 
-        "overdraft limit" : {"definition" : " " },
+        "have my doubts about" : {"definition" : " " },
 
-        "online banking" : {"definition" : " " },
+        "fanatical" : {"definition" : " " },
 
-        "cash machine" : {"definition" : " " },
+        "obsessive" : {"definition" : " " },
 
-        "finance" : {"definition" : " " },
+        "middle-of-the-road" : {"definition" : " " },
 
-        "credit rating" : {"definition" : " " },
+        "moderate" : {"definition" : " " },
 
-        "direct debit" : {"definition" : " " },
+        "eccentric" : {"definition" : " " },
 
-        "income tax" : {"definition" : " " },
+        "odd" : {"definition" : " " },
 
-        "inheritance tax" : {"definition" : " " },
+        "dedicated" : {"definition" : " " },
 
-        "customs" : {"definition" : " " },
+        "weird" : {"definition" : " " },
 
-        "excise" : {"definition" : " " },
+        "committed" : {"definition" : " " },
 
-        "duty" : {"definition" : " " },
+        "conservative" : {"definition" : " " },
 
-        "duty-free" : {"definition" : " " },
+        "traditional" : {"definition" : " " },
 
-        "corporation tax" : {"definition" : " " },
+        "firm" : {"definition" : " " },
 
-        "VAT" : {"definition" : " " },
+        "strong" : {"definition" : " " },
 
-        "value added tax" : {"definition" : " " }
+        "radical" : {"definition" : " " },
+
+        "extreme" : {"definition" : " " }
 
     }
 }

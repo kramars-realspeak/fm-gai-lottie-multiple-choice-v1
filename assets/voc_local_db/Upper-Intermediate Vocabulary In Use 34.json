@@ -1,75 +1,144 @@
-{ "words" :
+{ 
+    "words" :
 
     {
-        "app" : {"definition" : " " },
+        "the internet" : {"definition" : " " },
 
-        "personal computer" : {"definition" : " " },
+        "the net" : {"definition" : " " },
 
-        "desktop computer" : {"definition" : " " },
+        "the world wide web" : {"definition" : " " },
 
-        "laptop" : {"definition" : " " },
+        "the web" : {"definition" : " " },
 
-        "tablet" : {"definition" : " " },
+        "pages" : {"definition" : " " },
 
-        "hard disk" : {"definition" : " " },
+        "broadband" : {"definition" : " " },
 
-        "device" : {"definition" : " " },
+        "access" : {"definition" : " " },
 
-        "disk drive" : {"definition" : " " },
+        "wi-fi" : {"definition" : " " },
 
-        "scanner" : {"definition" : " " },
+        "cable" : {"definition" : " " },
 
-        "memory stick" : {"definition" : " " },
+        "wireless network" : {"definition" : " " },
 
-        "plug" : {"definition" : " " },
+        "browse" : {"definition" : " " },
 
-        "RAM" : {"definition" : " " },
+        "search engine" : {"definition" : " " },
 
-        "memory" : {"definition" : " " },
+        "googling" : {"definition" : " " },
 
-        "gigabytes" : {"definition" : " " },
+        "surfing the net" : {"definition" : " " },
 
-        "chip" : {"definition" : " " },
+        "website" : {"definition" : " " },
 
-        "network" : {"definition" : " " },
+        "navigate" : {"definition" : " " },
 
-        "application" : {"definition" : " " },
+        "home page" : {"definition" : " " },
 
-        "word-processing" : {"definition" : " " },
+        "links" : {"definition" : " " },
 
-        "spreadsheet" : {"definition" : " " },
+        "FAQ" : {"definition" : " " },
 
-        "database" : {"definition" : " " },
+        "log on" : {"definition" : " " },
 
-        "cursor" : {"definition" : " " },
+        "bookmark" : {"definition" : " " },
 
-        "display" : {"definition" : " " },
+        "hits" : {"definition" : " " },
 
-        "icons" : {"definition" : " " },
+        "subscribe to" : {"definition" : " " },
 
-        "graphics" : {"definition" : " " },
+        "username" : {"definition" : " " },
 
-        "virus" : {"definition" : " " },
+        "password" : {"definition" : " " },
 
-        "store" : {"definition" : " " },
+        "enter" : {"definition" : " " },
 
-        "back up" : {"definition" : " " },
+        "cloud" : {"definition" : " " },
 
-        "delete" : {"definition" : " " },
+        "log off" : {"definition" : " " },
 
-        "crashes" : {"definition" : " " },
+        "log out" : {"definition" : " " },
 
-        "undo" : {"definition" : " " },
+        "attachments" : {"definition" : " " },
 
-        "click" : {"definition" : " " },
+        "attach" : {"definition" : " " },
 
-        "keyed in" : {"definition" : " " },
+        "e-card" : {"definition" : " " },
 
-        "upgrade" : {"definition" : " " },
+        "server" : {"definition" : " " },
+        
+        "internet service provider" : {"definition" : " " },
 
-        "run" : {"definition" : " " },
+        "skype" : {"definition" : " " },
 
-        "download" : {"definition" : " " }
+        "contact list" : {"definition" : " " },
+
+        "webcam" : {"definition" : " " },
+
+        "interactive" : {"definition" : " " },
+
+        "social networking" : {"definition" : " " },
+        
+        "wiki" : {"definition" : " " },
+
+        "blogs" : {"definition" : " " },
+
+        "online gaming" : {"definition" : " " },
+
+        "virtual reality" : {"definition" : " " }, 
+
+        "posted" : {"definition" : " " },
+
+        "update my status" : {"definition" : " " },
+
+        "subscribe" : {"definition" : " " },
+
+        "follow" : {"definition" : " " },
+
+        "send a friend request" : {"definition" : " " },
+
+        "like" : {"definition" : " " },
+
+        "profile" : {"definition" : " " },
+
+        "upload" : {"definition" : " " },
+
+        "photo" : {"definition" : " " },
+
+        "post updates" : {"definition" : " " },
+
+        "share links" : {"definition" : " " },
+
+        "comment" : {"definition" : " " },
+
+        "rate" : {"definition" : " " },
+
+        "views" : {"definition" : " " },
+
+        "likes" : {"definition" : " " },
+
+        "notifications" : {"definition" : " " },
+
+        "create an account" : {"definition" : " " },
+
+        "private" : {"definition" : " " },
+
+        "privacy settings" : {"definition" : " " },
+
+        "profile picture" : {"definition" : " " },
+
+        "public" : {"definition" : " " },
+
+        "timeline" : {"definition" : " " },
+
+        "tagged" : {"definition" : " " },
+
+        "direct messages" : {"definition" : " " },
+
+        "accounts" : {"definition" : " " },
+
+        "default" : {"definition" : " " }
 
     }
 }

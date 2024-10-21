@@ -1,95 +1,97 @@
 { "words" :
 
     {
-        "pyjamas" : {"definition" : " " },
+        "bruise" : {"definition" : " " },
 
-        "collar" : {"definition" : " " },
+        "lump" : {"definition" : " " },
 
-        "zip" : {"definition" : " " },
+        "spots" : {"definition" : " " },
 
-        "cuff" : {"definition" : " " },
+        "a black eye" : {"definition" : " " },
 
-        "hoodie" : {"definition" : " " },
+        "have got" : {"definition" : " " },
 
-        "hem" : {"definition" : " " },
+        "a sore throat" : {"definition" : " " },
 
-        "sleeve" : {"definition" : " " },
+        "temperature" : {"definition" : " " },
 
-        "hood" : {"definition" : " " },
+        "blood pressure" : {"definition" : " " },
 
-        "badge" : {"definition" : " " },
+        "chest" : {"definition" : " " },
 
-        "bikini" : {"definition" : " " },
+        "pains" : {"definition" : " " },
 
-        "slippers" : {"definition" : " " },
+        "backache" : {"definition" : " " },
 
-        "helmet" : {"definition" : " " },
+        "earache" : {"definition" : " " },
 
-        "heel" : {"definition" : " " },
+        "pain" : {"definition" : " " },
 
-        "laces" : {"definition" : " " },
+        "rash" : {"definition" : " " },
 
-        "sole" : {"definition" : " " },
+        "indigestion" : {"definition" : " " },
 
-        "bra" : {"definition" : " " },
+        "sickness" : {"definition" : " " },
 
-        "buckle" : {"definition" : " " },
+        "diarrhoea" : {"definition" : " " },
 
-        "belt" : {"definition" : " " },
+        "sunburn" : {"definition" : " " },
 
-        "try on" : {"definition" : " " },
+        "virus" : {"definition" : " " },
 
-        "dressing up" : {"definition" : " " },
+        "aching" : {"definition" : " " },
 
-        "letting out" : {"definition" : " " },
+        "itching" : {"definition" : " " },
 
-        "letting down" : {"definition" : " " },
+        "trembling" : {"definition" : " " },
 
-        "taking up" : {"definition" : " " },
+        "shivering" : {"definition" : " " },
 
-        "taking in" : {"definition" : " " },
+        "hurts" : {"definition" : " " },
 
-        "changed out of" : {"definition" : " " },
+        "get over" : {"definition" : " " },
 
-        "suit" : {"definition" : " " },
+        "feel sick" : {"definition" : " " },
 
-        "matches" : {"definition" : " " },
+        "breathless" : {"definition" : " " },
 
-        "fit" : {"definition" : " " },
+        "dizzy" : {"definition" : " " },
 
-        "grown out of" : {"definition" : " " },
+        "depressed" : {"definition" : " " },
 
-        "baggy" : {"definition" : " " },
+        "exhausted" : {"definition" : " " },
 
-        "close-fitting" : {"definition" : " " },
+        "stressed" : {"definition" : " " },
 
-        "V-neck" : {"definition" : " " },
+        "lost my appetite" : {"definition" : " " },
 
-        "round-neck" : {"definition" : " " },
+        "voice" : {"definition" : " " },
 
-        "wollen" : {"definition" : " " },
+        "picked up a bug" : {"definition" : " " },
 
-        "sleeveless" : {"definition" : " " },
+        "sprained my ankle" : {"definition" : " " },
 
-        "suede" : {"definition" : " " },
+        "broken my wrist" : {"definition" : " " },
 
-        "denim" : {"definition" : " " },
+        "dislocated my shoulder" : {"definition" : " " },
 
-        "long-sleeved" : {"definition" : " " },
+        "died of a heart attack" : {"definition" : " " },
 
-        "elegant" : {"definition" : " " },
+        "contracted" : {"definition" : " " },
 
-        "casually" : {"definition" : " " },
+        "suffered a stroke" : {"definition" : " " },
 
-        "designer" : {"definition" : " " },
+        "teaspoonful" : {"definition" : " " },
 
-        "national costume" : {"definition" : " " },
+        "bandage" : {"definition" : " " },
 
-        "inside out" : {"definition" : " " },
+        "injections" : {"definition" : " " },
 
-        "masks" : {"definition" : " " },
+        "operation" : {"definition" : " " },
 
-        "disguise" : {"definition" : " " }
+        "plaster" : {"definition" : " " },
 
+        "tablets" : {"definition" : " " }
+        
     }
 }
