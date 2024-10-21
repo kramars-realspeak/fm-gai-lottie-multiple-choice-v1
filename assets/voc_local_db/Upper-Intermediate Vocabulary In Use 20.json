@@ -1,69 +1,77 @@
 { "words" :
 
     {
-        "production" : {"definition" : " " },
+        "keyboard" : {"definition" : " " },
 
-        "sets" : {"definition" : " " },
+        "guitar" : {"definition" : " " },
 
-        "costumes" : {"definition" : " " },
+        "singer" : {"definition" : " " },
 
-        "cast" : {"definition" : " " },
+        "drums" : {"definition" : " " },
 
-        "give a performance" : {"definition" : " " },
+        "bass" : {"definition" : " " },
 
-        "direction" : {"definition" : " " },
+        "MP3" : {"definition" : " " },
 
-        "get rave reviews" : {"definition" : " " },
+        "album" : {"definition" : " " },
 
-        "ballet" : {"definition" : " " },
+        "tracks" : {"definition" : " " },
 
-        "dance" : {"definition" : " " },
+        "playlists" : {"definition" : " " },
 
-        "modern ballet" : {"definition" : " " },
+        "sync" : {"definition" : " " },
 
-        "comedian" : {"definition" : " " },
+        "synchronise" : {"definition" : " " },
 
-        "show" : {"definition" : " " },
+        "stream" : {"definition" : " " },
 
-        "entertainers" : {"definition" : " " },
+        "lead singer" : {"definition" : " " },
 
-        "audience" : {"definition" : " " },
+        "lead guitar" : {"definition" : " " },
 
-        "viewer" : {"definition" : " " },
+        "keyboard player" : {"definition" : " " },
 
-        "cinema" : {"definition" : " " },
+        "drummer" : {"definition" : " " },
 
-        "opera" : {"definition" : " " },
+        "bass guitarist" : {"definition" : " " },
 
-        "theatre" : {"definition" : " " },
+        "tastes" : {"definition" : " " },
 
-        "scene" : {"definition" : " " },
+        "classical" : {"definition" : " " },
 
-        "set" : {"definition" : " " },
+        "folk" : {"definition" : " " },
 
-        "captures" : {"definition" : " " },
+        "jazz" : {"definition" : " " },
 
-        "script" : {"definition" : " " },
+        "R&B" : {"definition" : " " },
 
-        "dialogue" : {"definition" : " " },
+        "be into" : {"definition" : " " },
 
-        "director" : {"definition" : " " },
+        "soundtracks" : {"definition" : " " },
 
-        "screenplay" : {"definition" : " " },
+        "rap" : {"definition" : " " },
 
-        "score" : {"definition" : " " },
+        "60s music" : {"definition" : " " },
 
-        "performance" : {"definition" : " " },
+        "canned music" : {"definition" : " " },
 
-        "stage" : {"definition" : " " },
+        "hip-hop" : {"definition" : " " },
 
-        "venue" : {"definition" : " " },
+        "read music" : {"definition" : " " },
 
-        "promoting" : {"definition" : " " },
+        "pick out" : {"definition" : " " },
 
-        "appearing" : {"definition" : " " },
+        "tune" : {"definition" : " " },
 
-        "What's on at...?" : {"definition" : " " }
+        "make music" : {"definition" : " " },
+
+        "trained musician" : {"definition" : " " },
+
+        "talented musician" : {"definition" : " " },
+
+        "a good ear" : {"definition" : " " },
+
+        "plays by ear" : {"definition" : " " }
 
     }
 }

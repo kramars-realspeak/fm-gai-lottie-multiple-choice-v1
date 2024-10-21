@@ -1,81 +1,77 @@
 { "words" :
 
     {
-        "crutches" : {"definition" : " " },
+        "considered" : {"definition" : " " },
 
-        "spectacles" : {"definition" : " " },
+        "good for" : {"definition" : " " },
 
-        "vision" : {"definition" : " " },
+        "long-term" : {"definition" : " " },
 
-        "wheelchairs" : {"definition" : " " },
+        "consumed" : {"definition" : " " },
 
-        "general anaesthetic" : {"definition" : " " },
+        "in large quantities" : {"definition" : " " },
 
-        "X-rays" : {"definition" : " " },
-        
-        "contact lenses" : {"definition" : " " },
+        "fizzy" : {"definition" : " " },
 
-        "manufactured" : {"definition" : " " },
+        "content" : {"definition" : " " },
 
-        "medical" : {"definition" : " " },
+        "fat" : {"definition" : " " },
 
-        "rapid" : {"definition" : " " },
+        "processed" : {"definition" : " " },
 
-        "advances" : {"definition" : " " },
+        "wholemeal" : {"definition" : " " },
 
-        "decades" : {"definition" : " " },
+        "nuts" : {"definition" : " " },
 
-        "vast" : {"definition" : " " },
+        "superfoods" : {"definition" : " " },
 
-        "devices" : {"definition" : " " },
+        "mental" : {"definition" : " " },
 
-        "difficulties" : {"definition" : " " },
+        "physical" : {"definition" : " " },
 
-        "sophisticated" : {"definition" : " " },
+        "listed" : {"definition" : " " },
 
-        "hearing" : {"definition" : " " },
+        "slow" : {"definition" : " " },
 
-        "aids" : {"definition" : " " },
+        "short-term" : {"definition" : " " },
 
-        "pacemakers" : {"definition" : " " },
+        "ageing process" : {"definition" : " " },
 
-        "artificial" : {"definition" : " " },
+        "source" : {"definition" : " " },
 
-        "hips" : {"definition" : " " },
+        "vitamin" : {"definition" : " " },
 
-        "highly" : {"definition" : " " },
+        "lower" : {"definition" : " " },
 
-        "robotic" : {"definition" : " " },
+        "cholesterol" : {"definition" : " " },
 
-        "prosthetic" : {"definition" : " " },
+        "boost" : {"definition" : " " },
 
-        "laser surgery" : {"definition" : " " },
+        "the immune system" : {"definition" : " " },
 
-        "developments" : {"definition" : " " },
+        "reduce the risk" : {"definition" : " " },
 
-        "at an early stage" : {"definition" : " " },
+        "a sharp rise" : {"definition" : " " },
 
-        "identify" : {"definition" : " " },
+        "obese" : {"definition" : " " },
 
-        "scanners" : {"definition" : " " },
+        "major" : {"definition" : " " },
 
-        "diagnosing" : {"definition" : " " },
+        "obesity" : {"definition" : " " },
 
-        "automatically" : {"definition" : " " },
+        "fit" : {"definition" : " " },
 
-        "blood pressure" : {"definition" : " " },
+        "maintain" : {"definition" : " " },
 
-        "thermometers" : {"definition" : " " },
+        "level" : {"definition" : " " },
 
-        "databases" : {"definition" : " " },
+        "fitness" : {"definition" : " " },
 
-        "tools" : {"definition" : " " },
+        "exercise" : {"definition" : " " },
 
-        "treat diseases" : {"definition" : " " },
+        "harm" : {"definition" : " " },
 
-        "keyhole surgery" : {"definition" : " " },
-
-        "operate on" : {"definition" : " " }
+        "harmful" : {"definition" : " " }
 
     }
 }

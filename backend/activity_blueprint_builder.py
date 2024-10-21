@@ -45,11 +45,16 @@ class FMGAILottieMultipleChoiceActivityBlueprintBuilder:
 
     def set_sandbox_slot_record(self):
         "Sets the sandbox slot record based on the activity blueprint configuration."
+        course_connector = CourseConnector()
         if self.activity_blueprint_config["slot"] == "load_current_slot":
-            course_connector = CourseConnector()
             self.activity.metadata["sandbox_slot"] = course_connector.get_current_slot_record(assignee=self.assignee)
         else:
-            self.activity.metadata["sandbox_slot"] = self.activity_blueprint_config["slot"]
+            slot_date = self.activity_blueprint_config["slot"]["date"]
+            group_alias = self.activity_blueprint_config["slot"]["group_alias"]
+            slots = course_connector.get_slot_records_for_date(assignee=self.assignee, date=slot_date)
+            for slot in slots:
+                if slot["assigned_group"]["alias"] == group_alias:
+                    self.activity.metadata["sandbox_slot"] = slot
         self.logger.info(f"{self.__class__.__name__}: 'set_sandbox_slot_record' method invoked - Sandbox slot record set to: {self.activity.metadata['sandbox_slot']}")
         return self
     
@@ -125,7 +130,6 @@ class FMGAILottieMultipleChoiceActivityBlueprintBuilder:
     def set_sentence(self):
         target_vocabulary = self.activity.target_vocabulary
         itokens = self.activity.itokens
-
         data_point = None
         if self.activity_blueprint_config["ms_interest_token"]["active"]:
             if self.activity_blueprint_config["ms_interest_token"]["target_student"] == "random":
@@ -134,14 +138,11 @@ class FMGAILottieMultipleChoiceActivityBlueprintBuilder:
                 data_point = get_random_itoken(random_alias, itokens)
             else:
                 data_point = get_random_itoken(self.activity_blueprint_config["ms_interest_token"]["target_student"], itokens)
-
         ms_interest_token_logs = {
             "data_point": data_point,
             "target_student": self.activity_blueprint_config["ms_interest_token"]["target_student"]
         }
-
         self.activity.metadata["ms_interest_token_logs"] = ms_interest_token_logs
-
         prompt = make_activity_prompt(
             prompt=self.activity_blueprint_config["prompt"],
             target_vocabulary=target_vocabulary,

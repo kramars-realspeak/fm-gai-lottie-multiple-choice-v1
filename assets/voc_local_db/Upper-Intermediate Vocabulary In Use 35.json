@@ -1,91 +1,85 @@
 { "words" :
 
     {
-        "the internet" : {"definition" : " " },
+        "talk show" : {"definition" : " " },
 
-        "the net" : {"definition" : " " },
+        "documentary" : {"definition" : " " },
 
-        "the world wide web" : {"definition" : " " },
+        "investigating" : {"definition" : " " },
 
-        "the web" : {"definition" : " " },
+        "sitcom" : {"definition" : " " },
 
-        "pages" : {"definition" : " " },
+        "sports programme" : {"definition" : " " },
 
-        "broadband" : {"definition" : " " },
+        "current affairs" : {"definition" : " " },
 
-        "access" : {"definition" : " " },
+        "presenter" : {"definition" : " " },
 
-        "wi-fi" : {"definition" : " " },
+        "detective drama" : {"definition" : " " },
 
-        "cable" : {"definition" : " " },
+        "episode" : {"definition" : " " },
 
-        "wireless network" : {"definition" : " " },
+        "soap" : {"definition" : " " },
 
-        "browse" : {"definition" : " " },
+        "news" : {"definition" : " " },
 
-        "search engine" : {"definition" : " " },
+        "weather forecast" : {"definition" : " " },
 
-        "googling" : {"definition" : " " },
+        "cartoons" : {"definition" : " " },
 
-        "surfing the net" : {"definition" : " " },
+        "the media" : {"definition" : " " },
 
-        "website" : {"definition" : " " },
+        "means" : {"definition" : " " },
 
-        "navigate" : {"definition" : " " },
+        "subtitles" : {"definition" : " " },
 
-        "home page" : {"definition" : " " },
+        "dubbed" : {"definition" : " " },
 
-        "links" : {"definition" : " " },
+        "receive" : {"definition" : " " },
 
-        "FAQ" : {"definition" : " " },
+        "satellite dish" : {"definition" : " " },
 
-        "log on" : {"definition" : " " },
+        "stream" : {"definition" : " " },
 
-        "bookmark" : {"definition" : " " },
+        "commercials" : {"definition" : " " },
 
-        "hits" : {"definition" : " " },
+        "catch-up TV" : {"definition" : " " },
 
-        "subscribe to" : {"definition" : " " },
+        "on demand" : {"definition" : " " },
 
-        "username" : {"definition" : " " },
+        "podcasts" : {"definition" : " " },
 
-        "password" : {"definition" : " " },
+        "popular" : {"definition" : " " },
 
-        "enter" : {"definition" : " " },
+        "tabloid" : {"definition" : " " },
 
-        "cloud" : {"definition" : " " },
+        "focuses on" : {"definition" : " " },
 
-        "log off" : {"definition" : " " },
+        "sensation" : {"definition" : " " },
 
-        "log out" : {"definition" : " " },
+        "quality newspaper" : {"definition" : " " },
 
-        "attachments" : {"definition" : " " },
+        "scandals" : {"definition" : " " },
 
-        "attach" : {"definition" : " " },
+        "in-depth" : {"definition" : " " },
 
-        "e-card" : {"definition" : " " },
+        "pay a subscription" : {"definition" : " " },
 
-        "server" : {"definition" : " " },
-        
-        "internet service provider" : {"definition" : " " },
+        "journalism" : {"definition" : " " },
 
-        "skype" : {"definition" : " " },
+        "subscribe" : {"definition" : " " },
 
-        "contact list" : {"definition" : " " },
+        "broadcasts" : {"definition" : " " },
 
-        "webcam" : {"definition" : " " },
+        "televising" : {"definition" : " " },
 
-        "interactive" : {"definition" : " " },
+        "shot" : {"definition" : " " },
 
-        "social networking" : {"definition" : " " },
-        
-        "wiki" : {"definition" : " " },
+        "made on location" : {"definition" : " " },
 
-        "blogs" : {"definition" : " " },
+        "showing" : {"definition" : " " },
 
-        "online gaming" : {"definition" : " " },
-
-        "virtual reality" : {"definition" : " " }
+        "tweeting" : {"definition" : " " }
 
     }
 }

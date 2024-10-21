@@ -1,61 +1,77 @@
 { "words" :
 
     {
-        "trip" : {"definition" : " " },
+        "campsite" : {"definition" : " " },
 
-        "journey" : {"definition" : " " },
+        "pitch a tent" : {"definition" : " " },
 
-        "had a long journey" : {"definition" : " " },
+        "caravan" : {"definition" : " " },
 
-        "take a trip" : {"definition" : " " },
+        "self-catering flat" : {"definition" : " " },
 
-        "go on trip" : {"definition" : " " },
+        "apartment" : {"definition" : " " },
 
-        "travel" : {"definition" : " " },
+        "guesthouse" : {"definition" : " " },
 
-        "business trip" : {"definition" : " " },
+        "youth hostel" : {"definition" : " " },
 
-        "have a trip" : {"definition" : " " },
+        "bunk beds" : {"definition" : " " },
 
-        "voyage" : {"definition" : " " },
+        "package holiday" : {"definition" : " " },
 
-        "severely delayed" : {"definition" : " " },
+        "excursions" : {"definition" : " " },
 
-        "stuck at" : {"definition" : " " },
+        "cruise" : {"definition" : " " },
 
-        "put me up" : {"definition" : " " },
+        "adventure holiday" : {"definition" : " " },
 
-        "to get a seat" : {"definition" : " " },
+        "adventurous" : {"definition" : " " },
 
-        "a bumpy landing" : {"definition" : " " },
+        "cruising" : {"definition" : " " },
 
-        "turbulence" : {"definition" : " " },
+        "get away" : {"definition" : " " },
 
-        "jetlag" : {"definition" : " " },
+        "remote" : {"definition" : " " },
 
-        "early morning" : {"definition" : " " },
+        "winding" : {"definition" : " " },
 
-        "get airsick" : {"definition" : " " },
+        "surrounding" : {"definition" : " " },
 
-        "on time" : {"definition" : " " },
+        "terrifying" : {"definition" : " " },
 
-        "put me on standby" : {"definition" : " " },
+        "memorable" : {"definition" : " " },
 
-        "suffer from airsickness" : {"definition" : " " },
+        "fascinating" : {"definition" : " " },
 
-        "sail" : {"definition" : " " },
+        "impressive" : {"definition" : " " },
 
-        "get seasick" : {"definition" : " " },
+        "delightful" : {"definition" : " " },
 
-        "crew member on board" : {"definition" : " " },
+        "inconvenient" : {"definition" : " " },
 
-        "ran smoothly" : {"definition" : " " },
+        "exceptional" : {"definition" : " " },
 
-        "rough" : {"definition" : " " },
+        "as pretty as a picture" : {"definition" : " " },
+        
+        "stunning" : {"definition" : " " },
 
-        "suffered from seasickness" : {"definition" : " " },
+        "breathtaking" : {"definition" : " " },
 
-        "calm" : {"definition" : " " }
+        "exclusive" : {"definition" : " " },
+
+        "exhilarating" : {"definition" : " " },
+
+        "exotic" : {"definition" : " " },
+
+        "glamorous" : {"definition" : " " },
+
+        "luxurious" : {"definition" : " " },
+
+        "picturesque" : {"definition" : " " },
+
+        "unspoilt" : {"definition" : " " },
+
+        "unique" : {"definition" : " " }
 
     }
 }

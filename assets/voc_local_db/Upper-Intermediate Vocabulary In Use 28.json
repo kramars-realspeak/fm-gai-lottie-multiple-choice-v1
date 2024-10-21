@@ -1,99 +1,81 @@
 { "words" :
 
     {
-        "rash" : {"definition" : " " },
+        "crutches" : {"definition" : " " },
 
-        "bruise" : {"definition" : " " },
+        "spectacles" : {"definition" : " " },
 
-        "lump" : {"definition" : " " },
+        "vision" : {"definition" : " " },
 
-        "spots" : {"definition" : " " },
+        "wheelchairs" : {"definition" : " " },
 
-        "a black eye" : {"definition" : " " },
+        "general anaesthetic" : {"definition" : " " },
 
-        "have got" : {"definition" : " " },
+        "X-rays" : {"definition" : " " },
+        
+        "contact lenses" : {"definition" : " " },
 
-        "a sore throat" : {"definition" : " " },
+        "manufactured" : {"definition" : " " },
 
-        "temperature" : {"definition" : " " },
+        "medical" : {"definition" : " " },
+
+        "rapid" : {"definition" : " " },
+
+        "advances" : {"definition" : " " },
+
+        "decades" : {"definition" : " " },
+
+        "vast" : {"definition" : " " },
+
+        "devices" : {"definition" : " " },
+
+        "difficulties" : {"definition" : " " },
+
+        "sophisticated" : {"definition" : " " },
+
+        "hearing" : {"definition" : " " },
+
+        "aids" : {"definition" : " " },
+
+        "pacemakers" : {"definition" : " " },
+
+        "artificial" : {"definition" : " " },
+
+        "hips" : {"definition" : " " },
+
+        "highly" : {"definition" : " " },
+
+        "robotic" : {"definition" : " " },
+
+        "prosthetic" : {"definition" : " " },
+
+        "laser surgery" : {"definition" : " " },
+
+        "developments" : {"definition" : " " },
+
+        "at an early stage" : {"definition" : " " },
+
+        "identify" : {"definition" : " " },
+
+        "scanners" : {"definition" : " " },
+
+        "diagnosing" : {"definition" : " " },
+
+        "automatically" : {"definition" : " " },
 
         "blood pressure" : {"definition" : " " },
 
-        "chest" : {"definition" : " " },
+        "thermometers" : {"definition" : " " },
 
-        "pains" : {"definition" : " " },
+        "databases" : {"definition" : " " },
 
-        "backache" : {"definition" : " " },
+        "tools" : {"definition" : " " },
 
-        "earache" : {"definition" : " " },
+        "treat diseases" : {"definition" : " " },
 
-        "pain" : {"definition" : " " },
+        "keyhole surgery" : {"definition" : " " },
 
-        "rash" : {"definition" : " " },
+        "operate on" : {"definition" : " " }
 
-        "indigestion" : {"definition" : " " },
-
-        "sickness" : {"definition" : " " },
-
-        "diarrhoea" : {"definition" : " " },
-
-        "sunburn" : {"definition" : " " },
-
-        "virus" : {"definition" : " " },
-
-        "aching" : {"definition" : " " },
-
-        "itching" : {"definition" : " " },
-
-        "trembling" : {"definition" : " " },
-
-        "shivering" : {"definition" : " " },
-
-        "hurts" : {"definition" : " " },
-
-        "get over" : {"definition" : " " },
-
-        "feel sick" : {"definition" : " " },
-
-        "breathless" : {"definition" : " " },
-
-        "dizzy" : {"definition" : " " },
-
-        "depressed" : {"definition" : " " },
-
-        "exhausted" : {"definition" : " " },
-
-        "stressed" : {"definition" : " " },
-
-        "lost my appetite" : {"definition" : " " },
-
-        "voice" : {"definition" : " " },
-
-        "picked up a bug" : {"definition" : " " },
-
-        "sprained my ankle" : {"definition" : " " },
-
-        "broken my wrist" : {"definition" : " " },
-
-        "dislocated my shoulder" : {"definition" : " " },
-
-        "died of a heart attack" : {"definition" : " " },
-
-        "contracted" : {"definition" : " " },
-
-        "suffered a stroke" : {"definition" : " " },
-
-        "teaspoonful" : {"definition" : " " },
-
-        "bandage" : {"definition" : " " },
-
-        "injections" : {"definition" : " " },
-
-        "operation" : {"definition" : " " },
-
-        "plaster" : {"definition" : " " },
-
-        "tablets" : {"definition" : " " }
-        
     }
 }

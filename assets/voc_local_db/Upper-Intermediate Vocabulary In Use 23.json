@@ -1,71 +1,75 @@
 { "words" :
 
     {
-        "cape" : {"definition" : " " },
+        "globalisation" : {"definition" : " " },
 
-        "cliff" : {"definition" : " " },
+        "acid rain" : {"definition" : " " },
 
-        "bay" : {"definition" : " " },
+        "air pollution" : {"definition" : " " },
 
-        "peninsula" : {"definition" : " " },
+        "global warming" : {"definition" : " " },
 
-        "source" : {"definition" : " " },
+        "hazardous" : {"definition" : " " },
 
-        "waterfall" : {"definition" : " " },
+        "waste" : {"definition" : " " },
 
-        "tributary" : {"definition" : " " },
+        "ozone depletion" : {"definition" : " " },
 
-        "mouth" : {"definition" : " " },
+        "smog" : {"definition" : " " },
 
-        "delta" : {"definition" : " " },
+        "water pollution" : {"definition" : " " },
 
-        "estuary" : {"definition" : " " },
+        "overpopulation" : {"definition" : " " },
 
-        "iceland" : {"definition" : " " },
+        "rainforest destruction" : {"definition" : " " },
 
-        "landscapes" : {"definition" : " " },
+        "greenhouse effect" : {"definition" : " " },
 
-        "barren plains" : {"definition" : " " },
+        "atmosphere" : {"definition" : " " },
 
-        "mountain" : {"definition" : " " },
+        "polar ice caps" : {"definition" : " " },
 
-        "active volcanoes" : {"definition" : " " },
+        "climate change" : {"definition" : " " },
 
-        "thermal" : {"definition" : " " },
+        "species" : {"definition" : " " },
 
-        "geysers" : {"definition" : " " },
+        "endangered" : {"definition" : " " },
 
-        "crops" : {"definition" : " " },
+        "extinct" : {"definition" : " " },
 
-        "area" : {"definition" : " " },
+        "gases" : {"definition" : " " },
 
-        "capital" : {"definition" : " " },
+        "overfishing" : {"definition" : " " },
 
-        "population" : {"definition" : " " },
+        "overpopulated" : {"definition" : " " },
 
-        "economy" : {"definition" : " " },
+        "worldwide" : {"definition" : " " },
 
-        "coast" : {"definition" : " " },
+        "reserves" : {"definition" : " " },
 
-        "shore" : {"definition" : " " },
+        "green" : {"definition" : " " },
 
-        "beach" : {"definition" : " " },
+        "protecting the enviroment" : {"definition" : " " },
 
-        "valley" : {"definition" : " " },
+        "conversation" : {"definition" : " " },
 
-        "gorge" : {"definition" : " " },
+        "ecological" : {"definition" : " " },
 
-        "stream" : {"definition" : " " },
+        "organic" : {"definition" : " " },
 
-        "foot" : {"definition" : " " },
+        "dispose of water" : {"definition" : " " },
 
-        "ridge" : {"definition" : " " },
+        "reduce their carbon" : {"definition" : " " },
 
-        "peak" : {"definition" : " " },
+        "fossil fuels" : {"definition" : " " },
 
-        "summit" : {"definition" : " " },
+        "recycling" : {"definition" : " " },
 
-        "glacier" : {"definition" : " " }
+        "footprint" : {"definition" : " " },
+
+        "environmentally friendly" : {"definition" : " " },
+        
+        "ecologically sound" : {"definition" : " " }
 
     }
 }

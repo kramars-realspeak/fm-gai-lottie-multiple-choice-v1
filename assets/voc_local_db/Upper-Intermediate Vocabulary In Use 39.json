@@ -1,83 +1,65 @@
 { "words" :
 
     {
-        "committed" : {"definition" : " " },
+        "natural" : {"definition" : " " },
 
-        "witnessed" : {"definition" : " " },
+        "artificial" : {"definition" : " " },
 
-        "arrested" : {"definition" : " " },
+        "vivid" : {"definition" : " " },
 
-        "charged with robbery" : {"definition" : " " },
+        "transparent" : {"definition" : " " },
 
-        "accused" : {"definition" : " " },
+        "opaque" : {"definition" : " " },
 
-        "evidence" : {"definition" : " " },
+        "perfect" : {"definition" : " " },
 
-        "DNA evidence" : {"definition" : " " },
+        "stiff" : {"definition" : " " },
 
-        "case" : {"definition" : " " },
+        "faulty" : {"definition" : " " },
 
-        "fingerprints" : {"definition" : " " },
+        "flexibile" : {"definition" : " " },
 
-        "proof" : {"definition" : " " },
+        "delicate" : {"definition" : " " },
 
-        "accomplice" : {"definition" : " " },
+        "tough" : {"definition" : " " },
 
-        "crime scene" : {"definition" : " " },
+        "fragile" : {"definition" : " " },
 
-        "court" : {"definition" : " " },
+        "strong" : {"definition" : " " },
 
-        "were tried" : {"definition" : " " },
+        "sturdy" : {"definition" : " " },
 
-        "trial" : {"definition" : " " },
+        "weak" : {"definition" : " " },
 
-        "defend" : {"definition" : " " },
+        "genuine" : {"definition" : " " },
 
-        "pleaded not guilty" : {"definition" : " " },
+        "fake" : {"definition" : " " },
 
-        "prosecuting" : {"definition" : " " },
+        "plain" : {"definition" : " " },
 
-        "passed verdict" : {"definition" : " " },
+        "decorative" : {"definition" : " " },
 
-        "defend" : {"definition" : " " },
+        "bizarre" : {"definition" : " " },
 
-        "deliberations" : {"definition" : " " },
+        "conventional" : {"definition" : " " },
 
-        "convicted of" : {"definition" : " " },
+        "characterise" : {"definition" : " " },
 
-        "sentence" : {"definition" : " " },
+        "solidify" : {"definition" : " " },
 
-        "released from" : {"definition" : " " },
+        "trivialise" : {"definition" : " " },
 
-        "innocent" : {"definition" : " " },
+        "great big" : {"definition" : " " },
 
-        "acquitted of" : {"definition" : " " },
+        "isn't half as" : {"definition" : " " },
 
-        "prison" : {"definition" : " " },
+        "nowhere near as" : {"definition" : " " },
 
-        "jail" : {"definition" : " " },
+        "unusually strong" : {"definition" : " " },
 
-        "served" : {"definition" : " " },
+        "reasonably good" : {"definition" : " " },
 
-        "get time off" : {"definition" : " " },
-
-        "fine" : {"definition" : " " },
-
-        "offender" : {"definition" : " " },
-
-        "offence" : {"definition" : " " },
-
-        "judge" : {"definition" : " " },
-
-        "jury" : {"definition" : " " },
-
-        "victim" : {"definition" : " " },
-
-        "suspect" : {"definition" : " " },
-
-        "suspected of" : {"definition" : " " },
-
-        "witness" : {"definition" : " " }
+        "pretty thick" : {"definition" : " " }
 
     }
 }

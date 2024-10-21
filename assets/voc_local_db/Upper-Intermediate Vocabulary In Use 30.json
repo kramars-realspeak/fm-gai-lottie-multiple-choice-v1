@@ -1,77 +1,61 @@
 { "words" :
 
     {
-        "considered" : {"definition" : " " },
+        "trip" : {"definition" : " " },
 
-        "good for" : {"definition" : " " },
+        "journey" : {"definition" : " " },
 
-        "long-term" : {"definition" : " " },
+        "had a long journey" : {"definition" : " " },
 
-        "consumed" : {"definition" : " " },
+        "take a trip" : {"definition" : " " },
 
-        "in large quantities" : {"definition" : " " },
+        "go on trip" : {"definition" : " " },
 
-        "fizzy" : {"definition" : " " },
+        "travel" : {"definition" : " " },
 
-        "content" : {"definition" : " " },
+        "business trip" : {"definition" : " " },
 
-        "fat" : {"definition" : " " },
+        "have a trip" : {"definition" : " " },
 
-        "processed" : {"definition" : " " },
+        "voyage" : {"definition" : " " },
 
-        "wholemeal" : {"definition" : " " },
+        "severely delayed" : {"definition" : " " },
 
-        "nuts" : {"definition" : " " },
+        "stuck at" : {"definition" : " " },
 
-        "superfoods" : {"definition" : " " },
+        "put me up" : {"definition" : " " },
 
-        "mental" : {"definition" : " " },
+        "to get a seat" : {"definition" : " " },
 
-        "physical" : {"definition" : " " },
+        "a bumpy landing" : {"definition" : " " },
 
-        "listed" : {"definition" : " " },
+        "turbulence" : {"definition" : " " },
 
-        "slow" : {"definition" : " " },
+        "jetlag" : {"definition" : " " },
 
-        "short-term" : {"definition" : " " },
+        "early morning" : {"definition" : " " },
 
-        "ageing process" : {"definition" : " " },
+        "get airsick" : {"definition" : " " },
 
-        "source" : {"definition" : " " },
+        "on time" : {"definition" : " " },
 
-        "vitamin" : {"definition" : " " },
+        "put me on standby" : {"definition" : " " },
 
-        "lower" : {"definition" : " " },
+        "suffer from airsickness" : {"definition" : " " },
 
-        "cholesterol" : {"definition" : " " },
+        "sail" : {"definition" : " " },
 
-        "boost" : {"definition" : " " },
+        "get seasick" : {"definition" : " " },
 
-        "the immune system" : {"definition" : " " },
+        "crew member on board" : {"definition" : " " },
 
-        "reduce the risk" : {"definition" : " " },
+        "ran smoothly" : {"definition" : " " },
 
-        "a sharp rise" : {"definition" : " " },
+        "rough" : {"definition" : " " },
 
-        "obese" : {"definition" : " " },
+        "suffered from seasickness" : {"definition" : " " },
 
-        "major" : {"definition" : " " },
-
-        "obesity" : {"definition" : " " },
-
-        "fit" : {"definition" : " " },
-
-        "maintain" : {"definition" : " " },
-
-        "level" : {"definition" : " " },
-
-        "fitness" : {"definition" : " " },
-
-        "exercise" : {"definition" : " " },
-
-        "harm" : {"definition" : " " },
-
-        "harmful" : {"definition" : " " }
+        "calm" : {"definition" : " " }
 
     }
 }

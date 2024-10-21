@@ -1,89 +1,83 @@
 { "words" :
 
     {
-        "talk show" : {"definition" : " " },
+        "committed" : {"definition" : " " },
 
-        "documentary" : {"definition" : " " },
+        "witnessed" : {"definition" : " " },
 
-        "investigating" : {"definition" : " " },
+        "arrested" : {"definition" : " " },
 
-        "sitcom" : {"definition" : " " },
+        "charged with robbery" : {"definition" : " " },
 
-        "sports programme" : {"definition" : " " },
+        "accused" : {"definition" : " " },
 
-        "current affairs" : {"definition" : " " },
+        "evidence" : {"definition" : " " },
 
-        "presenter" : {"definition" : " " },
+        "DNA evidence" : {"definition" : " " },
 
-        "detective drama" : {"definition" : " " },
+        "case" : {"definition" : " " },
 
-        "episode" : {"definition" : " " },
+        "fingerprints" : {"definition" : " " },
 
-        "soap" : {"definition" : " " },
+        "proof" : {"definition" : " " },
 
-        "news" : {"definition" : " " },
+        "accomplice" : {"definition" : " " },
 
-        "weather forecast" : {"definition" : " " },
+        "crime scene" : {"definition" : " " },
 
-        "cartoons" : {"definition" : " " },
+        "court" : {"definition" : " " },
 
-        "the media" : {"definition" : " " },
+        "were tried" : {"definition" : " " },
 
-        "means" : {"definition" : " " },
+        "trial" : {"definition" : " " },
 
-        "subtitles" : {"definition" : " " },
+        "defend" : {"definition" : " " },
 
-        "dubbed" : {"definition" : " " },
+        "pleaded not guilty" : {"definition" : " " },
 
-        "receive" : {"definition" : " " },
+        "prosecuting" : {"definition" : " " },
 
-        "satellite dish" : {"definition" : " " },
+        "passed verdict" : {"definition" : " " },
 
-        "stream" : {"definition" : " " },
+        "defend" : {"definition" : " " },
 
-        "commercials" : {"definition" : " " },
+        "deliberations" : {"definition" : " " },
 
-        "broadcasts" : {"definition" : " " },
+        "convicted of" : {"definition" : " " },
 
-        "catch-up TV" : {"definition" : " " },
+        "sentence" : {"definition" : " " },
 
-        "on demand" : {"definition" : " " },
+        "released from" : {"definition" : " " },
 
-        "means" : {"definition" : " " },
+        "innocent" : {"definition" : " " },
 
-        "podcasts" : {"definition" : " " },
+        "acquitted of" : {"definition" : " " },
 
-        "popular" : {"definition" : " " },
+        "prison" : {"definition" : " " },
 
-        "tabloid" : {"definition" : " " },
+        "jail" : {"definition" : " " },
 
-        "focuses on" : {"definition" : " " },
+        "served" : {"definition" : " " },
 
-        "sensation" : {"definition" : " " },
+        "get time off" : {"definition" : " " },
 
-        "quality newspaper" : {"definition" : " " },
+        "fine" : {"definition" : " " },
 
-        "scandals" : {"definition" : " " },
+        "offender" : {"definition" : " " },
 
-        "in-depth" : {"definition" : " " },
+        "offence" : {"definition" : " " },
 
-        "pay a subscription" : {"definition" : " " },
+        "judge" : {"definition" : " " },
 
-        "journalism" : {"definition" : " " },
+        "jury" : {"definition" : " " },
 
-        "subscribe" : {"definition" : " " },
+        "victim" : {"definition" : " " },
 
-        "broadcasts" : {"definition" : " " },
+        "suspect" : {"definition" : " " },
 
-        "televising" : {"definition" : " " },
+        "suspected of" : {"definition" : " " },
 
-        "shot" : {"definition" : " " },
-
-        "made on location" : {"definition" : " " },
-
-        "showing" : {"definition" : " " },
-
-        "tweeting" : {"definition" : " " }
+        "witness" : {"definition" : " " }
 
     }
 }

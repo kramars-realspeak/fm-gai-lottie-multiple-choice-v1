@@ -1,93 +1,71 @@
 { "words" :
 
     {
-        "hot" : {"definition" : " " },
+        "cape" : {"definition" : " " },
 
-        "spicy" : {"definition" : " " },
+        "cliff" : {"definition" : " " },
 
-        "mild" : {"definition" : " " },
+        "bay" : {"definition" : " " },
 
-        "bland" : {"definition" : " " },
+        "peninsula" : {"definition" : " " },
 
-        "salty" : {"definition" : " " },
+        "source" : {"definition" : " " },
 
-        "sugar" : {"definition" : " " },
+        "waterfall" : {"definition" : " " },
 
-        "sickly" : {"definition" : " " },
+        "tributary" : {"definition" : " " },
 
-        "savoury" : {"definition" : " " },
+        "mouth" : {"definition" : " " },
 
-        "sour" : {"definition" : " " },
+        "delta" : {"definition" : " " },
 
-        "bitter" : {"definition" : " " },
+        "estuary" : {"definition" : " " },
 
-        "moreish" : {"definition" : " " },
+        "iceland" : {"definition" : " " },
 
-        "tasty" : {"definition" : " " },
+        "landscapes" : {"definition" : " " },
 
-        "tasteless" : {"definition" : " " },
+        "barren plains" : {"definition" : " " },
 
-        "overcooked" : {"definition" : " " },
+        "mountain" : {"definition" : " " },
 
-        "overdone" : {"definition" : " " },
+        "active volcanoes" : {"definition" : " " },
 
-        "undercooked" : {"definition" : " " },
+        "thermal" : {"definition" : " " },
 
-        "underdone" : {"definition" : " " },
+        "geysers" : {"definition" : " " },
 
-        "in season" : {"definition" : " " },
+        "crops" : {"definition" : " " },
 
-        "unripe" : {"definition" : " " },
+        "area" : {"definition" : " " },
 
-        "has gone off" : {"definition" : " " },
+        "capital" : {"definition" : " " },
 
-        "heavy" : {"definition" : " " },
+        "population" : {"definition" : " " },
 
-        "light" : {"definition" : " " },
+        "economy" : {"definition" : " " },
 
-        "stodgy" : {"definition" : " " },
+        "coast" : {"definition" : " " },
 
-        "organic" : {"definition" : " " },
+        "shore" : {"definition" : " " },
 
-        "a balanced diet" : {"definition" : " " },
+        "beach" : {"definition" : " " },
 
-        "junk food" : {"definition" : " " },
+        "valley" : {"definition" : " " },
 
-        "processed" : {"definition" : " " },
+        "gorge" : {"definition" : " " },
 
-        "book a table" : {"definition" : " " },
+        "stream" : {"definition" : " " },
 
-        "make a reservation" : {"definition" : " " },
+        "foot" : {"definition" : " " },
 
-        "cancel the booking" : {"definition" : " " },
+        "ridge" : {"definition" : " " },
 
-        "starter" : {"definition" : " " },
+        "peak" : {"definition" : " " },
 
-        "side dishes" : {"definition" : " " },
+        "summit" : {"definition" : " " },
 
-        "set menu" : {"definition" : " " },
-
-        "specials" : {"definition" : " " },
-
-        "non-meat-eater" : {"definition" : " " },
-
-        "vegans" : {"definition" : " " },
-
-        "a-la-carte" : {"definition" : " " },
-
-        "seconds" : {"definition" : " " },
-
-        "help yourself" : {"definition" : " " },
-
-        "pudding" : {"definition" : " " },
-
-        "re-fill" : {"definition" : " " },
-
-        "say when" : {"definition" : " " },
-
-        "a sweet" : {"definition" : " " },
-
-        "afters" : {"definition" : " " }
+        "glacier" : {"definition" : " " }
 
     }
 }
