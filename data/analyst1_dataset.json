@@ -1,1 +1,139 @@
-[]
+[
+    {
+        "id": "c18208f6-604b-4d1d-8dd4-c339651112ab",
+        "media": {
+            "style": "A futuristic image of environmental preservation, renewable energy, and sustainable practices",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/c18208f6-604b-4d1d-8dd4-c339651112ab",
+            "text_to_speech": {
+                "src": null,
+                "voice": null
+            },
+            "background_music": {
+                "src": null,
+                "loop": false
+            }
+        },
+        "sentence": "Which practice is essential for promoting sustainable development?",
+        "correct_answer": "B",
+        "options": {
+            "A": "Increased use of single-use plastics",
+            "B": "Utilization of renewable energy sources",
+            "C": "Expansion of fossil fuel extraction",
+            "D": "Deforestation for agricultural land"
+        },
+        "group_alias": "FIGHT",
+        "cefr_level": "c1",
+        "target_vocabulary": [
+            "Sustainable development",
+            "Renewable energy",
+            "Fossil fuel extraction",
+            "Deforestation"
+        ],
+        "target_grammar": null,
+        "itokens": null,
+        "submitted": false,
+        "metadata": {
+            "analyst": "CPTFreedom",
+            "model_alias": "fm-gai-lottie-multiple-choice-v1",
+            "model_version": "1.0",
+            "target_material": [
+                {
+                    "week": "week 8 (21-27 October)",
+                    "book_title": "ENVIRONMENTAL SCIENCE UNIT 5",
+                    "title": "Sustainable Practices",
+                    "material_type": "SB",
+                    "url": "https://drive.google.com/file/d/1x8mQW7neDT0uISECSWA9CdBEWMIIEPa-/view?usp=sharing"
+                }
+            ],
+            "sandbox_slot": {
+                "assigned_group": {
+                    "alias": "MVRCK",
+                    "group_record": [
+                        39,
+                        "school1",
+                        "Mavericks",
+                        "MVRCK",
+                        null,
+                        "PRIMARY",
+                        "true",
+                        "ACTIVE"
+                    ],
+                    "learning_path_id": ""
+                },
+                "assignee": "teacher2",
+                "comments": {},
+                "completed": false,
+                "due_date": "2024-10-21",
+                "end_time": "2024-10-21 14:15:00",
+                "start_time": "2024-10-21 13:30:00",
+                "student_attendance": {},
+                "students": [
+                    {
+                        "alias": "336adamsoos",
+                        "date_of_birth": "2017-01-24",
+                        "first_name": "Adam",
+                        "last_name": "Soos"
+                    },
+                    {
+                        "alias": "113lenkakubaljakova",
+                        "date_of_birth": null,
+                        "first_name": "Lenka",
+                        "last_name": "Kubaljakov\u00e1"
+                    },
+                    {
+                        "alias": "157ninajanosova",
+                        "date_of_birth": null,
+                        "first_name": "Nina",
+                        "last_name": "J\u00e1no\u0161ov\u00e1"
+                    },
+                    {
+                        "alias": "158zoezatkova",
+                        "date_of_birth": null,
+                        "first_name": "Zoe",
+                        "last_name": "Za\u0165kov\u00e1"
+                    },
+                    {
+                        "alias": "160emakovacova",
+                        "date_of_birth": null,
+                        "first_name": "Ema",
+                        "last_name": "Kov\u00e1\u010dov\u00e1"
+                    },
+                    {
+                        "alias": "170jurajgombar ml.",
+                        "date_of_birth": null,
+                        "first_name": "Juraj",
+                        "last_name": "Gomb\u00e1r ml."
+                    },
+                    {
+                        "alias": "185leopilka",
+                        "date_of_birth": null,
+                        "first_name": "Leo",
+                        "last_name": "Pilka"
+                    },
+                    {
+                        "alias": "260alexkozolka",
+                        "date_of_birth": null,
+                        "first_name": "Alex",
+                        "last_name": "Kozolka"
+                    },
+                    {
+                        "alias": "159anetasutorova",
+                        "date_of_birth": null,
+                        "first_name": "Aneta",
+                        "last_name": "\u0160\u00fatorov\u00e1"
+                    },
+                    {
+                        "alias": "226samuelkrsak",
+                        "date_of_birth": null,
+                        "first_name": "Samuel",
+                        "last_name": "Kr\u0161\u00e1k"
+                    }
+                ]
+            },
+            "ms_interest_token_logs": {
+                "data_point": null,
+                "target_student": "random"
+            }
+        }
+    }
+]
