@@ -1,73 +1,113 @@
 { "words" :
 
     {
-        "praise for" : {"definition" : " " },
+        "sight" : {"definition" : " " },
 
-        "highly praised" : {"definition" : " " },
+        "hearing" : {"definition" : " " },
 
-        "brilliantly" : {"definition" : " " },
+        "taste" : {"definition" : " " },
 
-        "first-rate" : {"definition" : " " },
+        "touch" : {"definition" : " " },
 
-        "top-notch" : {"definition" : " " },
+        "smell" : {"definition" : " " },
 
-        "really on the ball" : {"definition" : " " },
+        "look" : {"definition" : " " },
 
-        "have a green finger" : {"definition" : " " },
-
-        "have a way with" : {"definition" : " " },
-
-        "head and shoulders above" : {"definition" : " " },
-
-        "miles better" : {"definition" : " " },
-
-        "is streets ahead" : {"definition" : " " },
-
-        "among the worst" : {"definition" : " " },
-
-        "most interesting" : {"definition" : " " },
-
-        "out of this world" : {"definition" : " " },
-
-        "criticise" : {"definition" : " " },
-
-        "highly critical of" : {"definition" : " " },
-
-        "received critical acclaim" : {"definition" : " " },
-
-        "critical condition" : {"definition" : " " },
-
-        "critically" : {"definition" : " " },
-
-        "critically acclaimed" : {"definition" : " " },
+        "sound" : {"definition" : " " },
         
-        "critically ill" : {"definition" : " " },
+        "glanced" : {"definition" : " " },
 
-        "to criticise" : {"definition" : " " },
+        "noticed" : {"definition" : " " },
 
-        "run down" : {"definition" : " " },
+        "observing" : {"definition" : " " },
 
-        "pick holes" : {"definition" : " " },
+        "glimpsed" : {"definition" : " " },
 
-        "at fault" : {"definition" : " " },
+        "see" : {"definition" : " " },
 
-        "to blame" : {"definition" : " " },
+        "peering" : {"definition" : " " },
 
-        "the cat's whiskers" : {"definition" : " " },
+        "gazed" : {"definition" : " " },
 
-        "the bee's knees" : {"definition" : " " },
+        "staring" : {"definition" : " " },
 
-        "the world's worst" : {"definition" : " " },
+        "witnessed" : {"definition" : " " },
 
-        "take the biscuit" : {"definition" : " " },
+        "noiseless" : {"definition" : " " },
 
-        "She wants to have her cake and eat it!" : {"definition" : " " },
+        "silent" : {"definition" : " " },
 
-        "absurd" : {"definition" : " " },
+        "quite" : {"definition" : " " },
 
-        "among the best" : {"definition" : " " },
+        "noisy" : {"definition" : " " },
 
-        "get the gift of the gab" : {"definition" : " " }
+        "loud" : {"definition" : " " },
+
+        "deafening" : {"definition" : " " },
+
+        "sweet" : {"definition" : " " },
+
+        "salty" : {"definition" : " " },
+
+        "bitter" : {"definition" : " " },
+
+        "sour" : {"definition" : " " },
+
+        "spicy" : {"definition" : " " },
+
+        "mild" : {"definition" : " " },
+
+        "hot" : {"definition" : " " },
+
+        "not cold" : {"definition" : " " },
+
+        "tasty" : {"definition" : " " },
+
+        "tasteful" : {"definition" : " " },
+
+        "tasteless" : {"definition" : " " },
+
+        "poked" : {"definition" : " " },
+
+        "tapped" : {"definition" : " " },
+
+        "press" : {"definition" : " " },
+
+        "handle" : {"definition" : " " },
+
+        "snatched" : {"definition" : " " },
+
+        "grasped" : {"definition" : " " },
+
+        "stroked" : {"definition" : " " },
+
+        "patted" : {"definition" : " " },
+
+        "grabbed" : {"definition" : " " },
+
+        "stinking foul" : {"definition" : " " },
+
+        "smelling putrid musty" : {"definition" : " " },
+
+        "pungent" : {"definition" : " " },
+
+        "fragrant" : {"definition" : " " },
+
+        "aromatic" : {"definition" : " " },
+
+        "sweet-smelling" : {"definition" : " " },
+
+        "perfumed" : {"definition" : " " },
+
+        "scented" : {"definition" : " " },
+
+        "telepathy" : {"definition" : " " },
+
+        "premonition" : {"definition" : " " },
+
+        "intuition" : {"definition" : " " },
+
+        "deja vu" : {"definition" : " " }
 
     }
 }
