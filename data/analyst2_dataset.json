@@ -2474,5 +2474,1136 @@
                 "target_student": "random"
             }
         }
+    },
+    {
+        "id": "bc38eac8-6a91-4eff-a586-cca1c355fa35",
+        "media": {
+            "style": "A picturesque winter landscape with a thick fog covering the background, frosty, icy ground, bare trees, and cloudy overcast skies that convey a sense of chill in the air.",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/bc38eac8-6a91-4eff-a586-cca1c355fa35",
+            "text_to_speech": {
+                "src": null,
+                "voice": null
+            },
+            "background_music": {
+                "src": null,
+                "loop": false
+            }
+        },
+        "sentence": "Which of the following best describes a day in December?",
+        "correct_answer": "B",
+        "options": {
+            "A": "A sunny day with thick fog.",
+            "B": "A day with mild temperatures, icy patches, and chilly wind.",
+            "C": "A warm summer day with no wind.",
+            "D": "A hot day with thick fog and heavy winds."
+        },
+        "group_alias": "MASTRS",
+        "cefr_level": "b1",
+        "target_vocabulary": [
+            "foggy",
+            "cloudy",
+            "the cold",
+            "icy",
+            "sun",
+            "sunny",
+            "wind",
+            "snowy",
+            "wet",
+            "shining",
+            "blowing",
+            "snowing",
+            "sun came out",
+            "thick fog",
+            "heavy rain",
+            "light rain",
+            "strong wind",
+            "wind bown",
+            "sky clear",
+            "extremely cold",
+            "pour with rain",
+            "shower",
+            "storm",
+            "poured with rain",
+            "light showers",
+            "thunderstorm",
+            "humid",
+            "thunder",
+            "lightning",
+            "boiling",
+            "cool",
+            "chilly",
+            "freezing",
+            "mild"
+        ],
+        "target_grammar": null,
+        "itokens": null,
+        "submitted": false,
+        "metadata": {
+            "analyst": "CPTFreedom",
+            "model_alias": "fm-gai-lottie-multiple-choice-v1",
+            "model_version": "1.0",
+            "target_material": [
+                {
+                    "week": "week 8 (21-27 October)",
+                    "book_title": "Intermediate Vocabulary in Use 7",
+                    "title": "Intermediate Vocabulary in Use 7",
+                    "material_type": "VOC",
+                    "url": "https://drive.google.com/file/d/1js2_idHw9-cLEhWO2SWsuV02voc_kMYa/view?usp=sharing"
+                }
+            ],
+            "sandbox_slot": {
+                "assigned_group": {
+                    "alias": "MASTRS",
+                    "group_record": [
+                        18,
+                        "school1",
+                        "Masters",
+                        "MASTRS",
+                        null,
+                        "PRIMARY",
+                        "true",
+                        "ACTIVE"
+                    ],
+                    "learning_path_id": ""
+                },
+                "assignee": "teacher2",
+                "comments": {},
+                "completed": false,
+                "due_date": "2024-10-22",
+                "end_time": "2024-10-22 16:45:00",
+                "start_time": "2024-10-22 16:00:00",
+                "student_attendance": {},
+                "students": [
+                    {
+                        "alias": "121emafarkasova",
+                        "first_name": "Ema",
+                        "last_name": "Farka\u0161ov\u00e1",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "268lukaskluciar",
+                        "first_name": "Lukas",
+                        "last_name": "Kluciar",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "269jakubkluciar",
+                        "first_name": "Jakub",
+                        "last_name": "Kluciar",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "153adelabajusova",
+                        "first_name": "Adela",
+                        "last_name": "Baj\u00fasov\u00e1",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "163stefankrsak ml.",
+                        "first_name": "\u0160tefan",
+                        "last_name": "Kr\u0161\u00e1k ml.",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "179jakubbalaj",
+                        "first_name": "Jakub",
+                        "last_name": "Balaj",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "178alexanderludva",
+                        "first_name": "Alexander",
+                        "last_name": "Ludva",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "306ninakaplanova",
+                        "first_name": "Nina",
+                        "last_name": "Kaplanov\u00e1",
+                        "date_of_birth": "2012-06-07"
+                    },
+                    {
+                        "alias": "309karolvojcek",
+                        "first_name": "Karol",
+                        "last_name": "Vojcek",
+                        "date_of_birth": "2013-01-08"
+                    },
+                    {
+                        "alias": "52vandapilcova",
+                        "first_name": "Vanda",
+                        "last_name": "Pilcov\u00e1",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "65emmahatalova",
+                        "first_name": "Emma",
+                        "last_name": "Hatalov\u00e1",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "105zarazemberyova",
+                        "first_name": "Zara",
+                        "last_name": "\u017demberyov\u00e1",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "233sandrahitkova",
+                        "first_name": "Sandra",
+                        "last_name": "Hitkov\u00e1",
+                        "date_of_birth": null
+                    }
+                ]
+            },
+            "ms_interest_token_logs": {
+                "data_point": null,
+                "target_student": "random"
+            }
+        }
+    },
+    {
+        "id": "bd041ab0-7a58-4e90-9b35-759e9f82754a",
+        "media": {
+            "style": "A vivid illustration of a landscape with dark clouds, flashes of lightning, and people holding umbrellas, depicting a heavy stormy weather scenario.",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/bd041ab0-7a58-4e90-9b35-759e9f82754a",
+            "text_to_speech": {
+                "src": null,
+                "voice": null
+            },
+            "background_music": {
+                "src": null,
+                "loop": false
+            }
+        },
+        "sentence": "Which of the following means the same as hot and rainy?",
+        "correct_answer": "C",
+        "options": {
+            "A": "The weather is humid and foggy.",
+            "B": "It's light rain with distant thunder.",
+            "C": "It's boiling and pouring with rain.",
+            "D": "There is lightning but the day is clear."
+        },
+        "group_alias": "MASTRS",
+        "cefr_level": "b1",
+        "target_vocabulary": [
+            "foggy",
+            "cloudy",
+            "the cold",
+            "icy",
+            "sun",
+            "sunny",
+            "wind",
+            "snowy",
+            "wet",
+            "shining",
+            "blowing",
+            "snowing",
+            "sun came out",
+            "thick fog",
+            "heavy rain",
+            "light rain",
+            "strong wind",
+            "wind bown",
+            "sky clear",
+            "extremely cold",
+            "pour with rain",
+            "shower",
+            "storm",
+            "poured with rain",
+            "light showers",
+            "thunderstorm",
+            "humid",
+            "thunder",
+            "lightning",
+            "boiling",
+            "cool",
+            "chilly",
+            "freezing",
+            "mild"
+        ],
+        "target_grammar": null,
+        "itokens": null,
+        "submitted": false,
+        "metadata": {
+            "analyst": "CPTFreedom",
+            "model_alias": "fm-gai-lottie-multiple-choice-v1",
+            "model_version": "1.0",
+            "target_material": [
+                {
+                    "week": "week 8 (21-27 October)",
+                    "book_title": "Intermediate Vocabulary in Use 7",
+                    "title": "Intermediate Vocabulary in Use 7",
+                    "material_type": "VOC",
+                    "url": "https://drive.google.com/file/d/1js2_idHw9-cLEhWO2SWsuV02voc_kMYa/view?usp=sharing"
+                }
+            ],
+            "sandbox_slot": {
+                "assigned_group": {
+                    "alias": "MASTRS",
+                    "group_record": [
+                        18,
+                        "school1",
+                        "Masters",
+                        "MASTRS",
+                        null,
+                        "PRIMARY",
+                        "true",
+                        "ACTIVE"
+                    ],
+                    "learning_path_id": ""
+                },
+                "assignee": "teacher2",
+                "comments": {},
+                "completed": false,
+                "due_date": "2024-10-22",
+                "end_time": "2024-10-22 16:45:00",
+                "start_time": "2024-10-22 16:00:00",
+                "student_attendance": {},
+                "students": [
+                    {
+                        "alias": "121emafarkasova",
+                        "first_name": "Ema",
+                        "last_name": "Farka\u0161ov\u00e1",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "268lukaskluciar",
+                        "first_name": "Lukas",
+                        "last_name": "Kluciar",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "269jakubkluciar",
+                        "first_name": "Jakub",
+                        "last_name": "Kluciar",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "153adelabajusova",
+                        "first_name": "Adela",
+                        "last_name": "Baj\u00fasov\u00e1",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "163stefankrsak ml.",
+                        "first_name": "\u0160tefan",
+                        "last_name": "Kr\u0161\u00e1k ml.",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "179jakubbalaj",
+                        "first_name": "Jakub",
+                        "last_name": "Balaj",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "178alexanderludva",
+                        "first_name": "Alexander",
+                        "last_name": "Ludva",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "306ninakaplanova",
+                        "first_name": "Nina",
+                        "last_name": "Kaplanov\u00e1",
+                        "date_of_birth": "2012-06-07"
+                    },
+                    {
+                        "alias": "309karolvojcek",
+                        "first_name": "Karol",
+                        "last_name": "Vojcek",
+                        "date_of_birth": "2013-01-08"
+                    },
+                    {
+                        "alias": "52vandapilcova",
+                        "first_name": "Vanda",
+                        "last_name": "Pilcov\u00e1",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "65emmahatalova",
+                        "first_name": "Emma",
+                        "last_name": "Hatalov\u00e1",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "105zarazemberyova",
+                        "first_name": "Zara",
+                        "last_name": "\u017demberyov\u00e1",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "233sandrahitkova",
+                        "first_name": "Sandra",
+                        "last_name": "Hitkov\u00e1",
+                        "date_of_birth": null
+                    }
+                ]
+            },
+            "ms_interest_token_logs": {
+                "data_point": null,
+                "target_student": "random"
+            }
+        }
+    },
+    {
+        "id": "a4da496c-88a2-468b-9b25-3ebbca058715",
+        "media": {
+            "style": "An illustration of a kitchen counter with an open refrigerator door, showing various items like canned food, a bottle of juice, slices of cheese on a plate, a couple of eggs, and a bowl of salad.",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/a4da496c-88a2-468b-9b25-3ebbca058715",
+            "text_to_speech": {
+                "src": null,
+                "voice": null
+            },
+            "background_music": {
+                "src": null,
+                "loop": false
+            }
+        },
+        "sentence": "Which item can you find in the refrigerator?",
+        "correct_answer": "C",
+        "options": {
+            "A": "A bag of chips",
+            "B": "A cup of coffee",
+            "C": "A jar of pickles",
+            "D": "A slice of cake"
+        },
+        "group_alias": "M_HUNT",
+        "cefr_level": "b1",
+        "target_vocabulary": [
+            "a bag of",
+            "a bottle of",
+            "a jar of",
+            "a bowl of",
+            "a jug of",
+            "a box of",
+            "a packet of",
+            "a can of",
+            "a carton of",
+            "a bar of",
+            "a tin of",
+            "a vase of",
+            "a tube of",
+            "slices of",
+            "a drop of",
+            "bunch of",
+            "pairs of",
+            "a couple of",
+            "several",
+            "half a dozen",
+            "dosen",
+            "a spoonful",
+            "plenty of",
+            "in large quantities"
+        ],
+        "target_grammar": null,
+        "itokens": null,
+        "submitted": false,
+        "metadata": {
+            "analyst": "CPTFreedom",
+            "model_alias": "fm-gai-lottie-multiple-choice-v1",
+            "model_version": "1.0",
+            "target_material": [
+                {
+                    "week": "week 8 (21-27 October)",
+                    "book_title": "Intermediate Vocabulary in Use 64",
+                    "title": "Intermediate Vocabulary in Use 64",
+                    "material_type": "VOC",
+                    "url": "https://drive.google.com/file/d/1heCowgityYOaqdXlV4m0SdIw7Hx3eXAr/view?usp=sharing"
+                }
+            ],
+            "sandbox_slot": {
+                "assigned_group": {
+                    "alias": "M_HUNT",
+                    "group_record": [
+                        19,
+                        "school1",
+                        "Moon Hunters",
+                        "M_HUNT",
+                        null,
+                        "PRIMARY",
+                        "true",
+                        "ACTIVE"
+                    ],
+                    "learning_path_id": ""
+                },
+                "assignee": "teacher2",
+                "comments": {},
+                "completed": false,
+                "due_date": "2024-10-22",
+                "end_time": "2024-10-22 17:35:00",
+                "start_time": "2024-10-22 16:50:00",
+                "student_attendance": {},
+                "students": [
+                    {
+                        "alias": "54pavolbobok",
+                        "first_name": "Pavol",
+                        "last_name": "Bobok",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "119nataliakeryova",
+                        "first_name": "Nat\u00e1lia",
+                        "last_name": "K\u00e9ryov\u00e1",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "116lenkakrsakova",
+                        "first_name": "Lenka",
+                        "last_name": "Kr\u0161\u00e1kov\u00e1",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "117tereziafarkasova",
+                        "first_name": "Ter\u00e9zia",
+                        "last_name": "Farka\u0161ov\u00e1",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "118maximpetrovic",
+                        "first_name": "Maxim",
+                        "last_name": "Petrovi\u010d",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "93bystriktonkovic",
+                        "first_name": "Bystr\u00edk",
+                        "last_name": "Tonkovi\u010d",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "103leazemanova",
+                        "first_name": "Lea",
+                        "last_name": "Zemanov\u00e1",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "229erikivanicka",
+                        "first_name": "Erik",
+                        "last_name": "Ivani\u010dka",
+                        "date_of_birth": null
+                    }
+                ]
+            },
+            "ms_interest_token_logs": {
+                "data_point": null,
+                "target_student": "random"
+            }
+        }
+    },
+    {
+        "id": "8cbf08cd-e486-433f-bdc8-9632f584ff6b",
+        "media": {
+            "style": "Illustrative image of a grocery kitchen counter showing a tube of toothpaste, a bag of oranges, a vase of flowers, a bar of chocolate, and a jar of jam",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/8cbf08cd-e486-433f-bdc8-9632f584ff6b",
+            "text_to_speech": {
+                "src": null,
+                "voice": null
+            },
+            "background_music": {
+                "src": null,
+                "loop": false
+            }
+        },
+        "sentence": "Which of the following best describes a container you would use for toothpaste?",
+        "correct_answer": "A",
+        "options": {
+            "A": "A tube of",
+            "B": "A bag of",
+            "C": "A vase of",
+            "D": "A jar of"
+        },
+        "group_alias": "M_HUNT",
+        "cefr_level": "b1",
+        "target_vocabulary": [
+            "a bag of",
+            "a bottle of",
+            "a jar of",
+            "a bowl of",
+            "a jug of",
+            "a box of",
+            "a packet of",
+            "a can of",
+            "a carton of",
+            "a bar of",
+            "a tin of",
+            "a vase of",
+            "a tube of",
+            "slices of",
+            "a drop of",
+            "bunch of",
+            "pairs of",
+            "a couple of",
+            "several",
+            "half a dozen",
+            "dosen",
+            "a spoonful",
+            "plenty of",
+            "in large quantities"
+        ],
+        "target_grammar": null,
+        "itokens": null,
+        "submitted": false,
+        "metadata": {
+            "analyst": "CPTFreedom",
+            "model_alias": "fm-gai-lottie-multiple-choice-v1",
+            "model_version": "1.0",
+            "target_material": [
+                {
+                    "week": "week 8 (21-27 October)",
+                    "book_title": "Intermediate Vocabulary in Use 64",
+                    "title": "Intermediate Vocabulary in Use 64",
+                    "material_type": "VOC",
+                    "url": "https://drive.google.com/file/d/1heCowgityYOaqdXlV4m0SdIw7Hx3eXAr/view?usp=sharing"
+                }
+            ],
+            "sandbox_slot": {
+                "assigned_group": {
+                    "alias": "M_HUNT",
+                    "group_record": [
+                        19,
+                        "school1",
+                        "Moon Hunters",
+                        "M_HUNT",
+                        null,
+                        "PRIMARY",
+                        "true",
+                        "ACTIVE"
+                    ],
+                    "learning_path_id": ""
+                },
+                "assignee": "teacher2",
+                "comments": {},
+                "completed": false,
+                "due_date": "2024-10-22",
+                "end_time": "2024-10-22 17:35:00",
+                "start_time": "2024-10-22 16:50:00",
+                "student_attendance": {},
+                "students": [
+                    {
+                        "alias": "54pavolbobok",
+                        "first_name": "Pavol",
+                        "last_name": "Bobok",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "119nataliakeryova",
+                        "first_name": "Nat\u00e1lia",
+                        "last_name": "K\u00e9ryov\u00e1",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "116lenkakrsakova",
+                        "first_name": "Lenka",
+                        "last_name": "Kr\u0161\u00e1kov\u00e1",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "117tereziafarkasova",
+                        "first_name": "Ter\u00e9zia",
+                        "last_name": "Farka\u0161ov\u00e1",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "118maximpetrovic",
+                        "first_name": "Maxim",
+                        "last_name": "Petrovi\u010d",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "93bystriktonkovic",
+                        "first_name": "Bystr\u00edk",
+                        "last_name": "Tonkovi\u010d",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "103leazemanova",
+                        "first_name": "Lea",
+                        "last_name": "Zemanov\u00e1",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "229erikivanicka",
+                        "first_name": "Erik",
+                        "last_name": "Ivani\u010dka",
+                        "date_of_birth": null
+                    }
+                ]
+            },
+            "ms_interest_token_logs": {
+                "data_point": null,
+                "target_student": "random"
+            }
+        }
+    },
+    {
+        "id": "32bb5bea-7b8d-4868-a2b9-1ccb2eb33bdd",
+        "media": {
+            "style": "A business negotiation scene where two groups of businesspeople are sitting at a table, documents spread out, shaking hands to finalize a deal.",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/32bb5bea-7b8d-4868-a2b9-1ccb2eb33bdd",
+            "text_to_speech": {
+                "src": null,
+                "voice": null
+            },
+            "background_music": {
+                "src": null,
+                "loop": false
+            }
+        },
+        "sentence": "After spending several weeks negotiating, the two companies managed to _____ for the new merger.",
+        "correct_answer": "A",
+        "options": {
+            "A": "hammer out a deal",
+            "B": "shop around",
+            "C": "lucrative",
+            "D": "bidder"
+        },
+        "group_alias": "TIGRS",
+        "cefr_level": "c1",
+        "target_vocabulary": [
+            "telesales",
+            "telemarketing",
+            "cold calling",
+            "hard sell",
+            "part with their money",
+            "TV shopping channel",
+            "merchancise",
+            "hasn't looked back",
+            "purchasing power",
+            "shop around",
+            "stocks",
+            "keep it in stock",
+            "trade something up",
+            "trade down",
+            "brand loyalty",
+            "loss leader",
+            "price",
+            "niche market",
+            "come under the hammer",
+            "go under the hammer",
+            "auction",
+            "bids",
+            "bidder",
+            "lucrative",
+            "red tape",
+            "administration",
+            "proposition",
+            "takeover",
+            "reach a compromise",
+            "hammer out a deal",
+            "swallowed up",
+            "capital assets",
+            "invest in",
+            "start-up",
+            "holiday property letting agency",
+            "merger"
+        ],
+        "target_grammar": null,
+        "itokens": null,
+        "submitted": false,
+        "metadata": {
+            "analyst": "CPTFreedom",
+            "model_alias": "fm-gai-lottie-multiple-choice-v1",
+            "model_version": "1.0",
+            "target_material": [
+                {
+                    "week": "week 8 (21-27 October)",
+                    "book_title": "Advanced Vocabulary in Use 7",
+                    "title": "Advanced Vocabulary in Use 7",
+                    "material_type": "VOC",
+                    "url": "https://drive.google.com/file/d/1P7gyLzj0lAXitcrIDAIhdOSNLI3FANtT/view?usp=sharing"
+                }
+            ],
+            "sandbox_slot": {
+                "assigned_group": {
+                    "alias": "TIGRS",
+                    "group_record": [
+                        22,
+                        "school1",
+                        "Tigers",
+                        "TIGRS",
+                        null,
+                        "PRIMARY",
+                        "true",
+                        "ACTIVE"
+                    ],
+                    "learning_path_id": ""
+                },
+                "assignee": "teacher2",
+                "comments": {},
+                "completed": false,
+                "due_date": "2024-10-24",
+                "end_time": "2024-10-24 20:05:00",
+                "start_time": "2024-10-24 19:20:00",
+                "student_attendance": {},
+                "students": [
+                    {
+                        "alias": "55pavolnehez",
+                        "first_name": "Pavol",
+                        "last_name": "Neh\u00e9z",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "56dianamasarova",
+                        "first_name": "Diana",
+                        "last_name": "Mas\u00e1rov\u00e1",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "58veronikaobrocnikova",
+                        "first_name": "Veronika",
+                        "last_name": "Obro\u010dn\u00edkov\u00e1",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "75kristinapreinerova",
+                        "first_name": "Krist\u00edna",
+                        "last_name": "Preinerov\u00e1",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "129jansabik",
+                        "first_name": "J\u00e1n",
+                        "last_name": "\u0160ab\u00edk",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "137michalmarcak",
+                        "first_name": "Michal",
+                        "last_name": "Mar\u010d\u00e1k",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "149janbabocky",
+                        "first_name": "J\u00e1n",
+                        "last_name": "Babock\u00fd",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "204dorotaholeckova",
+                        "first_name": "Dorota",
+                        "last_name": "Hole\u010dkov\u00e1",
+                        "date_of_birth": null
+                    }
+                ]
+            },
+            "ms_interest_token_logs": {
+                "data_point": null,
+                "target_student": "random"
+            }
+        }
+    },
+    {
+        "id": "2d2eb965-c1c0-4108-9833-167b5b54ffb7",
+        "media": {
+            "style": "A retail store setting with a salesperson talking to a customer, displaying products on shelves, suggesting a business scene promoting various sales strategies.",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/2d2eb965-c1c0-4108-9833-167b5b54ffb7",
+            "text_to_speech": {
+                "src": null,
+                "voice": null
+            },
+            "background_music": {
+                "src": null,
+                "loop": false
+            }
+        },
+        "sentence": "What strategy involves a persuasive approach to encourage customers to buy a product immediately?",
+        "correct_answer": "B",
+        "options": {
+            "A": "Invest in",
+            "B": "Hard sell",
+            "C": "Shop around",
+            "D": "Keep it in stock"
+        },
+        "group_alias": "TIGRS",
+        "cefr_level": "c1",
+        "target_vocabulary": [
+            "telesales",
+            "telemarketing",
+            "cold calling",
+            "hard sell",
+            "part with their money",
+            "TV shopping channel",
+            "merchancise",
+            "hasn't looked back",
+            "purchasing power",
+            "shop around",
+            "stocks",
+            "keep it in stock",
+            "trade something up",
+            "trade down",
+            "brand loyalty",
+            "loss leader",
+            "price",
+            "niche market",
+            "come under the hammer",
+            "go under the hammer",
+            "auction",
+            "bids",
+            "bidder",
+            "lucrative",
+            "red tape",
+            "administration",
+            "proposition",
+            "takeover",
+            "reach a compromise",
+            "hammer out a deal",
+            "swallowed up",
+            "capital assets",
+            "invest in",
+            "start-up",
+            "holiday property letting agency",
+            "merger"
+        ],
+        "target_grammar": null,
+        "itokens": null,
+        "submitted": false,
+        "metadata": {
+            "analyst": "CPTFreedom",
+            "model_alias": "fm-gai-lottie-multiple-choice-v1",
+            "model_version": "1.0",
+            "target_material": [
+                {
+                    "week": "week 8 (21-27 October)",
+                    "book_title": "Advanced Vocabulary in Use 7",
+                    "title": "Advanced Vocabulary in Use 7",
+                    "material_type": "VOC",
+                    "url": "https://drive.google.com/file/d/1P7gyLzj0lAXitcrIDAIhdOSNLI3FANtT/view?usp=sharing"
+                }
+            ],
+            "sandbox_slot": {
+                "assigned_group": {
+                    "alias": "TIGRS",
+                    "group_record": [
+                        22,
+                        "school1",
+                        "Tigers",
+                        "TIGRS",
+                        null,
+                        "PRIMARY",
+                        "true",
+                        "ACTIVE"
+                    ],
+                    "learning_path_id": ""
+                },
+                "assignee": "teacher2",
+                "comments": {},
+                "completed": false,
+                "due_date": "2024-10-24",
+                "end_time": "2024-10-24 20:05:00",
+                "start_time": "2024-10-24 19:20:00",
+                "student_attendance": {},
+                "students": [
+                    {
+                        "alias": "55pavolnehez",
+                        "first_name": "Pavol",
+                        "last_name": "Neh\u00e9z",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "56dianamasarova",
+                        "first_name": "Diana",
+                        "last_name": "Mas\u00e1rov\u00e1",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "58veronikaobrocnikova",
+                        "first_name": "Veronika",
+                        "last_name": "Obro\u010dn\u00edkov\u00e1",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "75kristinapreinerova",
+                        "first_name": "Krist\u00edna",
+                        "last_name": "Preinerov\u00e1",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "129jansabik",
+                        "first_name": "J\u00e1n",
+                        "last_name": "\u0160ab\u00edk",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "137michalmarcak",
+                        "first_name": "Michal",
+                        "last_name": "Mar\u010d\u00e1k",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "149janbabocky",
+                        "first_name": "J\u00e1n",
+                        "last_name": "Babock\u00fd",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "204dorotaholeckova",
+                        "first_name": "Dorota",
+                        "last_name": "Hole\u010dkov\u00e1",
+                        "date_of_birth": null
+                    }
+                ]
+            },
+            "ms_interest_token_logs": {
+                "data_point": null,
+                "target_student": "random"
+            }
+        }
+    },
+    {
+        "id": "0d30c245-4426-4ea9-8c06-ddfb378a25c9",
+        "media": {
+            "style": "Image depicting an auction with people raising their paddles, highlighting the excitement and anticipation of bidding.",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/0d30c245-4426-4ea9-8c06-ddfb378a25c9",
+            "text_to_speech": {
+                "src": null,
+                "voice": null
+            },
+            "background_music": {
+                "src": null,
+                "loop": false
+            }
+        },
+        "sentence": "Which term refers to the process when items are sold at an auction?",
+        "correct_answer": "A",
+        "options": {
+            "A": "Come under the hammer",
+            "B": "Hard sell",
+            "C": "Telemarketing",
+            "D": "Lucrative bids"
+        },
+        "group_alias": "TIGRS",
+        "cefr_level": "c1",
+        "target_vocabulary": [
+            "telesales",
+            "telemarketing",
+            "cold calling",
+            "hard sell",
+            "part with their money",
+            "TV shopping channel",
+            "merchancise",
+            "hasn't looked back",
+            "purchasing power",
+            "shop around",
+            "stocks",
+            "keep it in stock",
+            "trade something up",
+            "trade down",
+            "brand loyalty",
+            "loss leader",
+            "price",
+            "niche market",
+            "come under the hammer",
+            "go under the hammer",
+            "auction",
+            "bids",
+            "bidder",
+            "lucrative",
+            "red tape",
+            "administration",
+            "proposition",
+            "takeover",
+            "reach a compromise",
+            "hammer out a deal",
+            "swallowed up",
+            "capital assets",
+            "invest in",
+            "start-up",
+            "holiday property letting agency",
+            "merger"
+        ],
+        "target_grammar": null,
+        "itokens": null,
+        "submitted": false,
+        "metadata": {
+            "analyst": "CPTFreedom",
+            "model_alias": "fm-gai-lottie-multiple-choice-v1",
+            "model_version": "1.0",
+            "target_material": [
+                {
+                    "week": "week 8 (21-27 October)",
+                    "book_title": "Advanced Vocabulary in Use 7",
+                    "title": "Advanced Vocabulary in Use 7",
+                    "material_type": "VOC",
+                    "url": "https://drive.google.com/file/d/1P7gyLzj0lAXitcrIDAIhdOSNLI3FANtT/view?usp=sharing"
+                }
+            ],
+            "sandbox_slot": {
+                "assigned_group": {
+                    "alias": "TIGRS",
+                    "group_record": [
+                        22,
+                        "school1",
+                        "Tigers",
+                        "TIGRS",
+                        null,
+                        "PRIMARY",
+                        "true",
+                        "ACTIVE"
+                    ],
+                    "learning_path_id": ""
+                },
+                "assignee": "teacher2",
+                "comments": {},
+                "completed": false,
+                "due_date": "2024-10-24",
+                "end_time": "2024-10-24 20:05:00",
+                "start_time": "2024-10-24 19:20:00",
+                "student_attendance": {},
+                "students": [
+                    {
+                        "alias": "55pavolnehez",
+                        "first_name": "Pavol",
+                        "last_name": "Neh\u00e9z",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "56dianamasarova",
+                        "first_name": "Diana",
+                        "last_name": "Mas\u00e1rov\u00e1",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "58veronikaobrocnikova",
+                        "first_name": "Veronika",
+                        "last_name": "Obro\u010dn\u00edkov\u00e1",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "75kristinapreinerova",
+                        "first_name": "Krist\u00edna",
+                        "last_name": "Preinerov\u00e1",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "129jansabik",
+                        "first_name": "J\u00e1n",
+                        "last_name": "\u0160ab\u00edk",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "137michalmarcak",
+                        "first_name": "Michal",
+                        "last_name": "Mar\u010d\u00e1k",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "149janbabocky",
+                        "first_name": "J\u00e1n",
+                        "last_name": "Babock\u00fd",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "204dorotaholeckova",
+                        "first_name": "Dorota",
+                        "last_name": "Hole\u010dkov\u00e1",
+                        "date_of_birth": null
+                    }
+                ]
+            },
+            "ms_interest_token_logs": {
+                "data_point": null,
+                "target_student": "random"
+            }
+        }
     }
 ]

@@ -1,3 +1,372 @@
 [
-    
+    {
+        "id": "bc38eac8-6a91-4eff-a586-cca1c355fa35",
+        "media": {
+            "style": "A picturesque winter landscape with a thick fog covering the background, frosty, icy ground, bare trees, and cloudy overcast skies that convey a sense of chill in the air.",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/bc38eac8-6a91-4eff-a586-cca1c355fa35",
+            "text_to_speech": {
+                "src": null,
+                "voice": null
+            },
+            "background_music": {
+                "src": null,
+                "loop": false
+            }
+        },
+        "sentence": "Which of the following best describes a day in December?",
+        "correct_answer": "B",
+        "options": {
+            "A": "A sunny day with thick fog.",
+            "B": "A day with mild temperatures, icy patches, and chilly wind.",
+            "C": "A warm summer day with no wind.",
+            "D": "A hot day with thick fog and heavy winds."
+        },
+        "group_alias": "MASTRS",
+        "cefr_level": "b1",
+        "target_vocabulary": [
+            "foggy",
+            "cloudy",
+            "the cold",
+            "icy",
+            "sun",
+            "sunny",
+            "wind",
+            "snowy",
+            "wet",
+            "shining",
+            "blowing",
+            "snowing",
+            "sun came out",
+            "thick fog",
+            "heavy rain",
+            "light rain",
+            "strong wind",
+            "wind bown",
+            "sky clear",
+            "extremely cold",
+            "pour with rain",
+            "shower",
+            "storm",
+            "poured with rain",
+            "light showers",
+            "thunderstorm",
+            "humid",
+            "thunder",
+            "lightning",
+            "boiling",
+            "cool",
+            "chilly",
+            "freezing",
+            "mild"
+        ],
+        "target_grammar": null,
+        "itokens": null,
+        "submitted": false,
+        "metadata": {
+            "analyst": "CPTFreedom",
+            "model_alias": "fm-gai-lottie-multiple-choice-v1",
+            "model_version": "1.0",
+            "target_material": [
+                {
+                    "week": "week 8 (21-27 October)",
+                    "book_title": "Intermediate Vocabulary in Use 7",
+                    "title": "Intermediate Vocabulary in Use 7",
+                    "material_type": "VOC",
+                    "url": "https://drive.google.com/file/d/1js2_idHw9-cLEhWO2SWsuV02voc_kMYa/view?usp=sharing"
+                }
+            ],
+            "sandbox_slot": {
+                "assigned_group": {
+                    "alias": "MASTRS",
+                    "group_record": [
+                        18,
+                        "school1",
+                        "Masters",
+                        "MASTRS",
+                        null,
+                        "PRIMARY",
+                        "true",
+                        "ACTIVE"
+                    ],
+                    "learning_path_id": ""
+                },
+                "assignee": "teacher2",
+                "comments": {},
+                "completed": false,
+                "due_date": "2024-10-22",
+                "end_time": "2024-10-22 16:45:00",
+                "start_time": "2024-10-22 16:00:00",
+                "student_attendance": {},
+                "students": [
+                    {
+                        "alias": "121emafarkasova",
+                        "first_name": "Ema",
+                        "last_name": "Farka\u0161ov\u00e1",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "268lukaskluciar",
+                        "first_name": "Lukas",
+                        "last_name": "Kluciar",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "269jakubkluciar",
+                        "first_name": "Jakub",
+                        "last_name": "Kluciar",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "153adelabajusova",
+                        "first_name": "Adela",
+                        "last_name": "Baj\u00fasov\u00e1",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "163stefankrsak ml.",
+                        "first_name": "\u0160tefan",
+                        "last_name": "Kr\u0161\u00e1k ml.",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "179jakubbalaj",
+                        "first_name": "Jakub",
+                        "last_name": "Balaj",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "178alexanderludva",
+                        "first_name": "Alexander",
+                        "last_name": "Ludva",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "306ninakaplanova",
+                        "first_name": "Nina",
+                        "last_name": "Kaplanov\u00e1",
+                        "date_of_birth": "2012-06-07"
+                    },
+                    {
+                        "alias": "309karolvojcek",
+                        "first_name": "Karol",
+                        "last_name": "Vojcek",
+                        "date_of_birth": "2013-01-08"
+                    },
+                    {
+                        "alias": "52vandapilcova",
+                        "first_name": "Vanda",
+                        "last_name": "Pilcov\u00e1",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "65emmahatalova",
+                        "first_name": "Emma",
+                        "last_name": "Hatalov\u00e1",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "105zarazemberyova",
+                        "first_name": "Zara",
+                        "last_name": "\u017demberyov\u00e1",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "233sandrahitkova",
+                        "first_name": "Sandra",
+                        "last_name": "Hitkov\u00e1",
+                        "date_of_birth": null
+                    }
+                ]
+            },
+            "ms_interest_token_logs": {
+                "data_point": null,
+                "target_student": "random"
+            }
+        }
+    },
+    {
+        "id": "68a0e0a2-f2ba-46a7-9603-bd76a75a8b31",
+        "media": {
+            "style": "A city street scene on a rainy day with people holding umbrellas, water puddles on the ground, and a visible thick fog in the background.",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/68a0e0a2-f2ba-46a7-9603-bd76a75a8b31",
+            "text_to_speech": {
+                "src": null,
+                "voice": null
+            },
+            "background_music": {
+                "src": null,
+                "loop": false
+            }
+        },
+        "sentence": "Which weather condition makes it difficult to see and often feels damp?",
+        "correct_answer": "A",
+        "options": {
+            "A": "Thick fog",
+            "B": "Boiling heat",
+            "C": "Light rain",
+            "D": "Blowing wind"
+        },
+        "group_alias": "MASTRS",
+        "cefr_level": "b1",
+        "target_vocabulary": [
+            "foggy",
+            "cloudy",
+            "the cold",
+            "icy",
+            "sun",
+            "sunny",
+            "wind",
+            "snowy",
+            "wet",
+            "shining",
+            "blowing",
+            "snowing",
+            "sun came out",
+            "thick fog",
+            "heavy rain",
+            "light rain",
+            "strong wind",
+            "wind bown",
+            "sky clear",
+            "extremely cold",
+            "pour with rain",
+            "shower",
+            "storm",
+            "poured with rain",
+            "light showers",
+            "thunderstorm",
+            "humid",
+            "thunder",
+            "lightning",
+            "boiling",
+            "cool",
+            "chilly",
+            "freezing",
+            "mild"
+        ],
+        "target_grammar": null,
+        "itokens": null,
+        "submitted": false,
+        "metadata": {
+            "analyst": "CPTFreedom",
+            "model_alias": "fm-gai-lottie-multiple-choice-v1",
+            "model_version": "1.0",
+            "target_material": [
+                {
+                    "week": "week 8 (21-27 October)",
+                    "book_title": "Intermediate Vocabulary in Use 7",
+                    "title": "Intermediate Vocabulary in Use 7",
+                    "material_type": "VOC",
+                    "url": "https://drive.google.com/file/d/1js2_idHw9-cLEhWO2SWsuV02voc_kMYa/view?usp=sharing"
+                }
+            ],
+            "sandbox_slot": {
+                "assigned_group": {
+                    "alias": "MASTRS",
+                    "group_record": [
+                        18,
+                        "school1",
+                        "Masters",
+                        "MASTRS",
+                        null,
+                        "PRIMARY",
+                        "true",
+                        "ACTIVE"
+                    ],
+                    "learning_path_id": ""
+                },
+                "assignee": "teacher2",
+                "comments": {},
+                "completed": false,
+                "due_date": "2024-10-22",
+                "end_time": "2024-10-22 16:45:00",
+                "start_time": "2024-10-22 16:00:00",
+                "student_attendance": {},
+                "students": [
+                    {
+                        "alias": "121emafarkasova",
+                        "first_name": "Ema",
+                        "last_name": "Farka\u0161ov\u00e1",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "268lukaskluciar",
+                        "first_name": "Lukas",
+                        "last_name": "Kluciar",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "269jakubkluciar",
+                        "first_name": "Jakub",
+                        "last_name": "Kluciar",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "153adelabajusova",
+                        "first_name": "Adela",
+                        "last_name": "Baj\u00fasov\u00e1",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "163stefankrsak ml.",
+                        "first_name": "\u0160tefan",
+                        "last_name": "Kr\u0161\u00e1k ml.",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "179jakubbalaj",
+                        "first_name": "Jakub",
+                        "last_name": "Balaj",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "178alexanderludva",
+                        "first_name": "Alexander",
+                        "last_name": "Ludva",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "306ninakaplanova",
+                        "first_name": "Nina",
+                        "last_name": "Kaplanov\u00e1",
+                        "date_of_birth": "2012-06-07"
+                    },
+                    {
+                        "alias": "309karolvojcek",
+                        "first_name": "Karol",
+                        "last_name": "Vojcek",
+                        "date_of_birth": "2013-01-08"
+                    },
+                    {
+                        "alias": "52vandapilcova",
+                        "first_name": "Vanda",
+                        "last_name": "Pilcov\u00e1",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "65emmahatalova",
+                        "first_name": "Emma",
+                        "last_name": "Hatalov\u00e1",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "105zarazemberyova",
+                        "first_name": "Zara",
+                        "last_name": "\u017demberyov\u00e1",
+                        "date_of_birth": null
+                    },
+                    {
+                        "alias": "233sandrahitkova",
+                        "first_name": "Sandra",
+                        "last_name": "Hitkov\u00e1",
+                        "date_of_birth": null
+                    } 
+                ]
+            },
+            "ms_interest_token_logs": {
+                "data_point": null,
+                "target_student": "random"
+            }
+        }
+    }
 ]
