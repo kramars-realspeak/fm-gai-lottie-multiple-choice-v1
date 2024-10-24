@@ -1,8 +1,8 @@
 
   {
     "slot":  {
-      "date": "21.10.2024",
-      "group_alias": "T_KIDS"
+      "date": "24.10.2024",
+      "group_alias": "TIGRS"
     },
     "prompt": {
         "include_ss": false,
@@ -16,7 +16,7 @@
       "target_student": "random"
     },
     "metadata": {
-        "analyst": "M-Maker25",
+        "analyst": "CPTFreedom",
         "model_alias": "fm-gai-lottie-multiple-choice-v1",
         "model_version": "1.0"
     }

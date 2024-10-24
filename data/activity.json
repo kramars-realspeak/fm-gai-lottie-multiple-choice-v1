@@ -1,8 +1,8 @@
 {
-    "id": "c18208f6-604b-4d1d-8dd4-c339651112ab",
+    "id": "a7671f2f-8ab6-4b06-a9dc-8a8a05e4664b",
     "media": {
-        "style": "A futuristic image of environmental preservation, renewable energy, and sustainable practices",
-        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/c18208f6-604b-4d1d-8dd4-c339651112ab",
+        "style": "An image of two business people shaking hands over a table with documents labeled 'merger agreement', surrounded by various corporate logos.",
+        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/a7671f2f-8ab6-4b06-a9dc-8a8a05e4664b",
         "text_to_speech": {
             "src": null,
             "voice": null
@@ -12,21 +12,53 @@
             "loop": false
         }
     },
-    "sentence": "Which practice is essential for promoting sustainable development?",
+    "sentence": "Which term describes the successful negotiation of terms between companies during a business merger?",
     "correct_answer": "B",
     "options": {
-        "A": "Increased use of single-use plastics",
-        "B": "Utilization of renewable energy sources",
-        "C": "Expansion of fossil fuel extraction",
-        "D": "Deforestation for agricultural land"
+        "A": "Merchandise",
+        "B": "Hammer out a deal",
+        "C": "Bids",
+        "D": "Takeover"
     },
-    "group_alias": "FIGHT",
+    "group_alias": "TIGRS",
     "cefr_level": "c1",
     "target_vocabulary": [
-        "Sustainable development",
-        "Renewable energy",
-        "Fossil fuel extraction",
-        "Deforestation"
+        "telesales",
+        "telemarketing",
+        "cold calling",
+        "hard sell",
+        "part with their money",
+        "TV shopping channel",
+        "merchancise",
+        "hasn't looked back",
+        "purchasing power",
+        "shop around",
+        "stocks",
+        "keep it in stock",
+        "trade something up",
+        "trade down",
+        "brand loyalty",
+        "loss leader",
+        "price",
+        "niche market",
+        "come under the hammer",
+        "go under the hammer",
+        "auction",
+        "bids",
+        "bidder",
+        "lucrative",
+        "red tape",
+        "administration",
+        "proposition",
+        "takeover",
+        "reach a compromise",
+        "hammer out a deal",
+        "swallowed up",
+        "capital assets",
+        "invest in",
+        "start-up",
+        "holiday property letting agency",
+        "merger"
     ],
     "target_grammar": null,
     "itokens": null,
@@ -38,20 +70,20 @@
         "target_material": [
             {
                 "week": "week 8 (21-27 October)",
-                "book_title": "ENVIRONMENTAL SCIENCE UNIT 5",
-                "title": "Sustainable Practices",
-                "material_type": "SB",
-                "url": "https://drive.google.com/file/d/1x8mQW7neDT0uISECSWA9CdBEWMIIEPa-/view?usp=sharing"
+                "book_title": "Advanced Vocabulary in Use 7",
+                "title": "Advanced Vocabulary in Use 7",
+                "material_type": "VOC",
+                "url": "https://drive.google.com/file/d/1P7gyLzj0lAXitcrIDAIhdOSNLI3FANtT/view?usp=sharing"
             }
         ],
         "sandbox_slot": {
             "assigned_group": {
-                "alias": "MVRCK",
+                "alias": "TIGRS",
                 "group_record": [
-                    39,
+                    22,
                     "school1",
-                    "Mavericks",
-                    "MVRCK",
+                    "Tigers",
+                    "TIGRS",
                     null,
                     "PRIMARY",
                     "true",
@@ -62,70 +94,58 @@
             "assignee": "teacher2",
             "comments": {},
             "completed": false,
-            "due_date": "2024-10-21",
-            "end_time": "2024-10-21 14:15:00",
-            "start_time": "2024-10-21 13:30:00",
+            "due_date": "2024-10-24",
+            "end_time": "2024-10-24 20:05:00",
+            "start_time": "2024-10-24 19:20:00",
             "student_attendance": {},
             "students": [
                 {
-                    "alias": "336adamsoos",
-                    "date_of_birth": "2017-01-24",
-                    "first_name": "Adam",
-                    "last_name": "Soos"
+                    "alias": "55pavolnehez",
+                    "first_name": "Pavol",
+                    "last_name": "Neh\u00e9z",
+                    "date_of_birth": null
                 },
                 {
-                    "alias": "113lenkakubaljakova",
-                    "date_of_birth": null,
-                    "first_name": "Lenka",
-                    "last_name": "Kubaljakov\u00e1"
+                    "alias": "56dianamasarova",
+                    "first_name": "Diana",
+                    "last_name": "Mas\u00e1rov\u00e1",
+                    "date_of_birth": null
                 },
                 {
-                    "alias": "157ninajanosova",
-                    "date_of_birth": null,
-                    "first_name": "Nina",
-                    "last_name": "J\u00e1no\u0161ov\u00e1"
+                    "alias": "58veronikaobrocnikova",
+                    "first_name": "Veronika",
+                    "last_name": "Obro\u010dn\u00edkov\u00e1",
+                    "date_of_birth": null
                 },
                 {
-                    "alias": "158zoezatkova",
-                    "date_of_birth": null,
-                    "first_name": "Zoe",
-                    "last_name": "Za\u0165kov\u00e1"
+                    "alias": "75kristinapreinerova",
+                    "first_name": "Krist\u00edna",
+                    "last_name": "Preinerov\u00e1",
+                    "date_of_birth": null
                 },
                 {
-                    "alias": "160emakovacova",
-                    "date_of_birth": null,
-                    "first_name": "Ema",
-                    "last_name": "Kov\u00e1\u010dov\u00e1"
+                    "alias": "129jansabik",
+                    "first_name": "J\u00e1n",
+                    "last_name": "\u0160ab\u00edk",
+                    "date_of_birth": null
                 },
                 {
-                    "alias": "170jurajgombar ml.",
-                    "date_of_birth": null,
-                    "first_name": "Juraj",
-                    "last_name": "Gomb\u00e1r ml."
+                    "alias": "137michalmarcak",
+                    "first_name": "Michal",
+                    "last_name": "Mar\u010d\u00e1k",
+                    "date_of_birth": null
                 },
                 {
-                    "alias": "185leopilka",
-                    "date_of_birth": null,
-                    "first_name": "Leo",
-                    "last_name": "Pilka"
+                    "alias": "149janbabocky",
+                    "first_name": "J\u00e1n",
+                    "last_name": "Babock\u00fd",
+                    "date_of_birth": null
                 },
                 {
-                    "alias": "260alexkozolka",
-                    "date_of_birth": null,
-                    "first_name": "Alex",
-                    "last_name": "Kozolka"
-                },
-                {
-                    "alias": "159anetasutorova",
-                    "date_of_birth": null,
-                    "first_name": "Aneta",
-                    "last_name": "\u0160\u00fatorov\u00e1"
-                },
-                {
-                    "alias": "226samuelkrsak",
-                    "date_of_birth": null,
-                    "first_name": "Samuel",
-                    "last_name": "Kr\u0161\u00e1k"
+                    "alias": "204dorotaholeckova",
+                    "first_name": "Dorota",
+                    "last_name": "Hole\u010dkov\u00e1",
+                    "date_of_birth": null
                 }
             ]
         },
