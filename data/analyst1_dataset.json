@@ -925,6 +925,1965 @@
             "target_student": "random"
         }
     }
+},
+{
+    "id": "ae5271f8-c686-4388-9038-6e4c5b4fec22",
+    "media": {
+        "style": "A world map with highlighted countries such as Egypt, China, Tunisia, Spain, and Poland. Each country is marked with its national flag.",
+        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/ae5271f8-c686-4388-9038-6e4c5b4fec22",
+        "text_to_speech": {
+            "src": null,
+            "voice": null
+        },
+        "background_music": {
+            "src": null,
+            "loop": false
+        }
+    },
+    "sentence": "Which cuisine would you most likely find in a Chinese restaurant?",
+    "correct_answer": "B",
+    "options": {
+        "A": "Tunisian",
+        "B": "Chinese",
+        "C": "Spanish",
+        "D": "Egyptian"
+    },
+    "group_alias": "G_BUSTERS",
+    "cefr_level": "a2",
+    "target_vocabulary": [
+        "North America",
+        "South America",
+        "Europe",
+        "Canada",
+        "the USA",
+        "Argentina",
+        "Brazil",
+        "Chile",
+        "Colombia",
+        "Peru",
+        "Germany",
+        "Italy",
+        "Poland",
+        "Spain",
+        "the UK",
+        "Australia",
+        "Asia",
+        "Africa",
+        "Antarctica",
+        "New Zealand",
+        "China",
+        "India",
+        "Japan",
+        "Pakistan",
+        "Thailand",
+        "Egypt",
+        "Morocco",
+        "South Africa",
+        "Tunisia",
+        "American",
+        "Argentinian",
+        "Australian",
+        "Brasilian",
+        "Canadian",
+        "Colombian",
+        "Egyptian",
+        "German",
+        "Indian",
+        "Italian",
+        "Moroccan",
+        "Peruvian",
+        "South African",
+        "Tunisian",
+        "British",
+        "English",
+        "Finnish",
+        "Irish",
+        "Polish",
+        "Scottish",
+        "Spanish",
+        "Chinese",
+        "Japanese",
+        "Portuguese",
+        "Pakistani",
+        "Thai",
+        "French"
+    ],
+    "target_grammar": null,
+    "itokens": null,
+    "submitted": false,
+    "metadata": {
+        "analyst": "M-Maker25",
+        "model_alias": "fm-gai-lottie-multiple-choice-v1",
+        "model_version": "1.0",
+        "target_material": [
+            {
+                "week": "week 8 (21-27 October)",
+                "book_title": "Elementary Vocabulary in Use 27",
+                "title": "Elementary Vocabulary in Use 27",
+                "material_type": "VOC",
+                "url": "https://drive.google.com/file/d/1uiTsnEtUDbQwBVID2ZovK1QQYI-5i-s6/view?usp=sharing"
+            }
+        ],
+        "sandbox_slot": {
+            "assigned_group": {
+                "alias": "G_BUSTERS",
+                "group_record": [
+                    15,
+                    "school1",
+                    "Ghost Busters",
+                    "G_BUSTERS",
+                    null,
+                    "PRIMARY",
+                    "true",
+                    "ACTIVE"
+                ],
+                "learning_path_id": ""
+            },
+            "assignee": "teacher1",
+            "comments": {},
+            "completed": false,
+            "due_date": "2024-10-23",
+            "end_time": "2024-10-23 16:45:00",
+            "start_time": "2024-10-23 16:00:00",
+            "student_attendance": {},
+            "students": [
+                {
+                    "alias": "122emmaferenc",
+                    "first_name": "Emma",
+                    "last_name": "Ferenc",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "148dmytrostilnyk",
+                    "first_name": "Dmytro",
+                    "last_name": "Stilnyk",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "164jozefbabocky",
+                    "first_name": "Jozef",
+                    "last_name": "Babock\u00fd",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "200sofiapanikova",
+                    "first_name": "Sofia",
+                    "last_name": "P\u00e1nikov\u00e1",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "346lenkakorentsyova",
+                    "first_name": "Lenka",
+                    "last_name": "Korentsyova",
+                    "date_of_birth": "2012-10-19"
+                },
+                {
+                    "alias": "318katarinahuebnerova",
+                    "first_name": "Katar\u00edna",
+                    "last_name": "Huebnerov\u00e1",
+                    "date_of_birth": "2014-03-07"
+                },
+                {
+                    "alias": "319eliskabielikova",
+                    "first_name": "Eli\u0161ka",
+                    "last_name": "Bielikov\u00e1",
+                    "date_of_birth": "2014-11-22"
+                },
+                {
+                    "alias": "242lukasivanicka",
+                    "first_name": "Lukas",
+                    "last_name": "Ivanicka",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "271mariaondrejkova",
+                    "first_name": "Maria",
+                    "last_name": "Ondrejkova",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "243olivermartinec",
+                    "first_name": "Oliver",
+                    "last_name": "Martinec",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "335sofiaprolatova",
+                    "first_name": "Sofia",
+                    "last_name": "Prolatova",
+                    "date_of_birth": "2015-05-07"
+                }
+            ]
+        },
+        "ms_interest_token_logs": {
+            "data_point": null,
+            "target_student": "random"
+        }
+    }
+},
+{
+    "id": "62d62ae4-eba8-4750-b04b-af94589d1e3f",
+    "media": {
+        "style": "A world map highlighting Thailand, the UK, Brazil, and China with a Japanese flag in one corner to signify international relations.",
+        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/62d62ae4-eba8-4750-b04b-af94589d1e3f",
+        "text_to_speech": {
+            "src": null,
+            "voice": null
+        },
+        "background_music": {
+            "src": null,
+            "loop": false
+        }
+    },
+    "sentence": "Which country is known for sushi and has an advanced technology sector?",
+    "correct_answer": "C",
+    "options": {
+        "A": "Thailand",
+        "B": "Brazil",
+        "C": "Japan",
+        "D": "China"
+    },
+    "group_alias": "G_BUSTERS",
+    "cefr_level": "a2",
+    "target_vocabulary": [
+        "North America",
+        "South America",
+        "Europe",
+        "Canada",
+        "the USA",
+        "Argentina",
+        "Brazil",
+        "Chile",
+        "Colombia",
+        "Peru",
+        "Germany",
+        "Italy",
+        "Poland",
+        "Spain",
+        "the UK",
+        "Australia",
+        "Asia",
+        "Africa",
+        "Antarctica",
+        "New Zealand",
+        "China",
+        "India",
+        "Japan",
+        "Pakistan",
+        "Thailand",
+        "Egypt",
+        "Morocco",
+        "South Africa",
+        "Tunisia",
+        "American",
+        "Argentinian",
+        "Australian",
+        "Brasilian",
+        "Canadian",
+        "Colombian",
+        "Egyptian",
+        "German",
+        "Indian",
+        "Italian",
+        "Moroccan",
+        "Peruvian",
+        "South African",
+        "Tunisian",
+        "British",
+        "English",
+        "Finnish",
+        "Irish",
+        "Polish",
+        "Scottish",
+        "Spanish",
+        "Chinese",
+        "Japanese",
+        "Portuguese",
+        "Pakistani",
+        "Thai",
+        "French"
+    ],
+    "target_grammar": null,
+    "itokens": null,
+    "submitted": false,
+    "metadata": {
+        "analyst": "M-Maker25",
+        "model_alias": "fm-gai-lottie-multiple-choice-v1",
+        "model_version": "1.0",
+        "target_material": [
+            {
+                "week": "week 8 (21-27 October)",
+                "book_title": "Elementary Vocabulary in Use 27",
+                "title": "Elementary Vocabulary in Use 27",
+                "material_type": "VOC",
+                "url": "https://drive.google.com/file/d/1uiTsnEtUDbQwBVID2ZovK1QQYI-5i-s6/view?usp=sharing"
+            }
+        ],
+        "sandbox_slot": {
+            "assigned_group": {
+                "alias": "G_BUSTERS",
+                "group_record": [
+                    15,
+                    "school1",
+                    "Ghost Busters",
+                    "G_BUSTERS",
+                    null,
+                    "PRIMARY",
+                    "true",
+                    "ACTIVE"
+                ],
+                "learning_path_id": ""
+            },
+            "assignee": "teacher1",
+            "comments": {},
+            "completed": false,
+            "due_date": "2024-10-23",
+            "end_time": "2024-10-23 16:45:00",
+            "start_time": "2024-10-23 16:00:00",
+            "student_attendance": {},
+            "students": [
+                {
+                    "alias": "122emmaferenc",
+                    "first_name": "Emma",
+                    "last_name": "Ferenc",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "148dmytrostilnyk",
+                    "first_name": "Dmytro",
+                    "last_name": "Stilnyk",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "164jozefbabocky",
+                    "first_name": "Jozef",
+                    "last_name": "Babock\u00fd",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "200sofiapanikova",
+                    "first_name": "Sofia",
+                    "last_name": "P\u00e1nikov\u00e1",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "346lenkakorentsyova",
+                    "first_name": "Lenka",
+                    "last_name": "Korentsyova",
+                    "date_of_birth": "2012-10-19"
+                },
+                {
+                    "alias": "318katarinahuebnerova",
+                    "first_name": "Katar\u00edna",
+                    "last_name": "Huebnerov\u00e1",
+                    "date_of_birth": "2014-03-07"
+                },
+                {
+                    "alias": "319eliskabielikova",
+                    "first_name": "Eli\u0161ka",
+                    "last_name": "Bielikov\u00e1",
+                    "date_of_birth": "2014-11-22"
+                },
+                {
+                    "alias": "242lukasivanicka",
+                    "first_name": "Lukas",
+                    "last_name": "Ivanicka",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "271mariaondrejkova",
+                    "first_name": "Maria",
+                    "last_name": "Ondrejkova",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "243olivermartinec",
+                    "first_name": "Oliver",
+                    "last_name": "Martinec",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "335sofiaprolatova",
+                    "first_name": "Sofia",
+                    "last_name": "Prolatova",
+                    "date_of_birth": "2015-05-07"
+                }
+            ]
+        },
+        "ms_interest_token_logs": {
+            "data_point": null,
+            "target_student": "random"
+        }
+    }
+},
+{
+    "id": "c09fe017-5438-4450-b485-9dc5e841333b",
+    "media": {
+        "style": "A futuristic scene with an intersection showing various modes of transportation including an ambulance with a distinctive design, a school building in the background, and a person imagined as being on another planet.",
+        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/c09fe017-5438-4450-b485-9dc5e841333b",
+        "text_to_speech": {
+            "src": null,
+            "voice": null
+        },
+        "background_music": {
+            "src": null,
+            "loop": false
+        }
+    },
+    "sentence": "Imagine you are a driver in the future. How might your responsibilities change if you had to transport a patient to a hospital directly from a school?",
+    "correct_answer": "B",
+    "options": {
+        "A": "You will be driving traditional vehicles, no matter how advanced the technology becomes in the future.",
+        "B": "You might have to drive through new routes and technologies while keeping things safe in the future.",
+        "C": "Your only concern will be the fuel of your vehicle while driving to hospitals.",
+        "D": "The job won't be there as people will teleport directly to hospitals from school."
+    },
+    "group_alias": "MASTRS",
+    "cefr_level": "b1",
+    "target_vocabulary": [
+        "ambulance",
+        "driver",
+        "dentist",
+        "have a conversation",
+        "may",
+        "might",
+        "will",
+        "in the future",
+        "at school",
+        "at university",
+        "at work",
+        "on another planet"
+    ],
+    "target_grammar": null,
+    "itokens": null,
+    "submitted": false,
+    "metadata": {
+        "analyst": "M-Maker25",
+        "model_alias": "fm-gai-lottie-multiple-choice-v1",
+        "model_version": "1.0",
+        "target_material": [
+            {
+                "week": "week 8 (21-27 October)",
+                "book_title": "FUN for Flyers UNIT 47",
+                "title": "FUN for Flyers UNIT 47",
+                "material_type": "SB",
+                "url": "https://drive.google.com/file/d/18-CsXU9N6f6w-XWFz4EIDvuFQINBHZNE/view?usp=sharing"
+            }
+        ],
+        "sandbox_slot": {
+            "assigned_group": {
+                "alias": "MASTRS",
+                "group_record": [
+                    18,
+                    "school1",
+                    "Masters",
+                    "MASTRS",
+                    null,
+                    "PRIMARY",
+                    "true",
+                    "ACTIVE"
+                ],
+                "learning_path_id": ""
+            },
+            "assignee": "teacher1",
+            "comments": {},
+            "completed": false,
+            "due_date": "2024-10-22",
+            "end_time": "2024-10-22 15:55:00",
+            "start_time": "2024-10-22 15:10:00",
+            "student_attendance": {},
+            "students": [
+                {
+                    "alias": "121emafarkasova",
+                    "first_name": "Ema",
+                    "last_name": "Farka\u0161ov\u00e1",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "268lukaskluciar",
+                    "first_name": "Lukas",
+                    "last_name": "Kluciar",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "269jakubkluciar",
+                    "first_name": "Jakub",
+                    "last_name": "Kluciar",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "153adelabajusova",
+                    "first_name": "Adela",
+                    "last_name": "Baj\u00fasov\u00e1",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "163stefankrsak ml.",
+                    "first_name": "\u0160tefan",
+                    "last_name": "Kr\u0161\u00e1k ml.",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "179jakubbalaj",
+                    "first_name": "Jakub",
+                    "last_name": "Balaj",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "178alexanderludva",
+                    "first_name": "Alexander",
+                    "last_name": "Ludva",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "306ninakaplanova",
+                    "first_name": "Nina",
+                    "last_name": "Kaplanov\u00e1",
+                    "date_of_birth": "2012-06-07"
+                },
+                {
+                    "alias": "309karolvojcek",
+                    "first_name": "Karol",
+                    "last_name": "Vojcek",
+                    "date_of_birth": "2013-01-08"
+                },
+                {
+                    "alias": "52vandapilcova",
+                    "first_name": "Vanda",
+                    "last_name": "Pilcov\u00e1",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "65emmahatalova",
+                    "first_name": "Emma",
+                    "last_name": "Hatalov\u00e1",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "105zarazemberyova",
+                    "first_name": "Zara",
+                    "last_name": "\u017demberyov\u00e1",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "233sandrahitkova",
+                    "first_name": "Sandra",
+                    "last_name": "Hitkov\u00e1",
+                    "date_of_birth": null
+                }
+            ]
+        },
+        "ms_interest_token_logs": {
+            "data_point": null,
+            "target_student": "random"
+        }
+    }
+},
+{
+    "id": "e67bcbc3-bb92-41bc-afd6-7f72bb65fcab",
+    "media": {
+        "style": "A futuristic city scene with students on an alien planet, a distant view of an ambulance among high-tech buildings.",
+        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/e67bcbc3-bb92-41bc-afd6-7f72bb65fcab",
+        "text_to_speech": {
+            "src": null,
+            "voice": null
+        },
+        "background_music": {
+            "src": null,
+            "loop": false
+        }
+    },
+    "sentence": "What is the most likely scenario in the future at school on another planet?",
+    "correct_answer": "A",
+    "options": {
+        "A": "Students may be transported by a space-ambulance for medical emergencies.",
+        "B": "Recess will be held on top of skyscrapers with no safety precautions.",
+        "C": "Students will use ancient scrolls for learning materials.",
+        "D": "Physical classes will be banned and all learning will be telepathic."
+    },
+    "group_alias": "MASTRS",
+    "cefr_level": "b1",
+    "target_vocabulary": [
+        "ambulance",
+        "driver",
+        "dentist",
+        "have a conversation",
+        "may",
+        "might",
+        "will",
+        "in the future",
+        "at school",
+        "at university",
+        "at work",
+        "on another planet"
+    ],
+    "target_grammar": null,
+    "itokens": null,
+    "submitted": false,
+    "metadata": {
+        "analyst": "M-Maker25",
+        "model_alias": "fm-gai-lottie-multiple-choice-v1",
+        "model_version": "1.0",
+        "target_material": [
+            {
+                "week": "week 8 (21-27 October)",
+                "book_title": "FUN for Flyers UNIT 47",
+                "title": "FUN for Flyers UNIT 47",
+                "material_type": "SB",
+                "url": "https://drive.google.com/file/d/18-CsXU9N6f6w-XWFz4EIDvuFQINBHZNE/view?usp=sharing"
+            }
+        ],
+        "sandbox_slot": {
+            "assigned_group": {
+                "alias": "MASTRS",
+                "group_record": [
+                    18,
+                    "school1",
+                    "Masters",
+                    "MASTRS",
+                    null,
+                    "PRIMARY",
+                    "true",
+                    "ACTIVE"
+                ],
+                "learning_path_id": ""
+            },
+            "assignee": "teacher1",
+            "comments": {},
+            "completed": false,
+            "due_date": "2024-10-22",
+            "end_time": "2024-10-22 15:55:00",
+            "start_time": "2024-10-22 15:10:00",
+            "student_attendance": {},
+            "students": [
+                {
+                    "alias": "121emafarkasova",
+                    "first_name": "Ema",
+                    "last_name": "Farka\u0161ov\u00e1",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "268lukaskluciar",
+                    "first_name": "Lukas",
+                    "last_name": "Kluciar",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "269jakubkluciar",
+                    "first_name": "Jakub",
+                    "last_name": "Kluciar",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "153adelabajusova",
+                    "first_name": "Adela",
+                    "last_name": "Baj\u00fasov\u00e1",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "163stefankrsak ml.",
+                    "first_name": "\u0160tefan",
+                    "last_name": "Kr\u0161\u00e1k ml.",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "179jakubbalaj",
+                    "first_name": "Jakub",
+                    "last_name": "Balaj",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "178alexanderludva",
+                    "first_name": "Alexander",
+                    "last_name": "Ludva",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "306ninakaplanova",
+                    "first_name": "Nina",
+                    "last_name": "Kaplanov\u00e1",
+                    "date_of_birth": "2012-06-07"
+                },
+                {
+                    "alias": "309karolvojcek",
+                    "first_name": "Karol",
+                    "last_name": "Vojcek",
+                    "date_of_birth": "2013-01-08"
+                },
+                {
+                    "alias": "52vandapilcova",
+                    "first_name": "Vanda",
+                    "last_name": "Pilcov\u00e1",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "65emmahatalova",
+                    "first_name": "Emma",
+                    "last_name": "Hatalov\u00e1",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "105zarazemberyova",
+                    "first_name": "Zara",
+                    "last_name": "\u017demberyov\u00e1",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "233sandrahitkova",
+                    "first_name": "Sandra",
+                    "last_name": "Hitkov\u00e1",
+                    "date_of_birth": null
+                }
+            ]
+        },
+        "ms_interest_token_logs": {
+            "data_point": null,
+            "target_student": "random"
+        }
+    }
+},
+{
+    "id": "de3d627a-a2c8-4a8a-95ec-e3bcf9512ca0",
+    "media": {
+        "style": "A city street with an ambulance in the background and people at work in an office visible through a large window.",
+        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/de3d627a-a2c8-4a8a-95ec-e3bcf9512ca0",
+        "text_to_speech": {
+            "src": null,
+            "voice": null
+        },
+        "background_music": {
+            "src": null,
+            "loop": false
+        }
+    },
+    "sentence": "Who do you call when there is an emergency and someone is at work?",
+    "correct_answer": "A",
+    "options": {
+        "A": "You will call an ambulance.",
+        "B": "You might call your friend.",
+        "C": "You may call a taxi.",
+        "D": "You will contact the post office."
+    },
+    "group_alias": "MASTRS",
+    "cefr_level": "b1",
+    "target_vocabulary": [
+        "ambulance",
+        "driver",
+        "dentist",
+        "have a conversation",
+        "may",
+        "might",
+        "will",
+        "in the future",
+        "at school",
+        "at university",
+        "at work",
+        "on another planet"
+    ],
+    "target_grammar": null,
+    "itokens": null,
+    "submitted": false,
+    "metadata": {
+        "analyst": "M-Maker25",
+        "model_alias": "fm-gai-lottie-multiple-choice-v1",
+        "model_version": "1.0",
+        "target_material": [
+            {
+                "week": "week 8 (21-27 October)",
+                "book_title": "FUN for Flyers UNIT 47",
+                "title": "FUN for Flyers UNIT 47",
+                "material_type": "SB",
+                "url": "https://drive.google.com/file/d/18-CsXU9N6f6w-XWFz4EIDvuFQINBHZNE/view?usp=sharing"
+            }
+        ],
+        "sandbox_slot": {
+            "assigned_group": {
+                "alias": "MASTRS",
+                "group_record": [
+                    18,
+                    "school1",
+                    "Masters",
+                    "MASTRS",
+                    null,
+                    "PRIMARY",
+                    "true",
+                    "ACTIVE"
+                ],
+                "learning_path_id": ""
+            },
+            "assignee": "teacher1",
+            "comments": {},
+            "completed": false,
+            "due_date": "2024-10-22",
+            "end_time": "2024-10-22 15:55:00",
+            "start_time": "2024-10-22 15:10:00",
+            "student_attendance": {},
+            "students": [
+                {
+                    "alias": "121emafarkasova",
+                    "first_name": "Ema",
+                    "last_name": "Farka\u0161ov\u00e1",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "268lukaskluciar",
+                    "first_name": "Lukas",
+                    "last_name": "Kluciar",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "269jakubkluciar",
+                    "first_name": "Jakub",
+                    "last_name": "Kluciar",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "153adelabajusova",
+                    "first_name": "Adela",
+                    "last_name": "Baj\u00fasov\u00e1",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "163stefankrsak ml.",
+                    "first_name": "\u0160tefan",
+                    "last_name": "Kr\u0161\u00e1k ml.",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "179jakubbalaj",
+                    "first_name": "Jakub",
+                    "last_name": "Balaj",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "178alexanderludva",
+                    "first_name": "Alexander",
+                    "last_name": "Ludva",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "306ninakaplanova",
+                    "first_name": "Nina",
+                    "last_name": "Kaplanov\u00e1",
+                    "date_of_birth": "2012-06-07"
+                },
+                {
+                    "alias": "309karolvojcek",
+                    "first_name": "Karol",
+                    "last_name": "Vojcek",
+                    "date_of_birth": "2013-01-08"
+                },
+                {
+                    "alias": "52vandapilcova",
+                    "first_name": "Vanda",
+                    "last_name": "Pilcov\u00e1",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "65emmahatalova",
+                    "first_name": "Emma",
+                    "last_name": "Hatalov\u00e1",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "105zarazemberyova",
+                    "first_name": "Zara",
+                    "last_name": "\u017demberyov\u00e1",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "233sandrahitkova",
+                    "first_name": "Sandra",
+                    "last_name": "Hitkov\u00e1",
+                    "date_of_birth": null
+                }
+            ]
+        },
+        "ms_interest_token_logs": {
+            "data_point": null,
+            "target_student": "random"
+        }
+    }
+},
+{
+    "id": "ae2f0dcf-932f-4279-8d13-f0d2e8923271",
+    "media": {
+        "style": "A picturesque village surrounded by colorful autumn leaves, with small cottages in the distance and a path leading through the woods.",
+        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/ae2f0dcf-932f-4279-8d13-f0d2e8923271",
+        "text_to_speech": {
+            "src": null,
+            "voice": null
+        },
+        "background_music": {
+            "src": null,
+            "loop": false
+        }
+    },
+    "sentence": "What is the worst thing about living in a village that is surrounded by woods during different seasons?",
+    "correct_answer": "A",
+    "options": {
+        "A": "Getting stuck on muddy roads in the rainy season.",
+        "B": "Having too many fruit trees to pick from.",
+        "C": "Seeing too much wildlife around.",
+        "D": "Having easy access to village festivals."
+    },
+    "group_alias": "COOL_K",
+    "cefr_level": "b1",
+    "target_vocabulary": [
+        "countryside",
+        "surrounded by",
+        "banks",
+        "woods",
+        "picked",
+        "seasons",
+        "scenery",
+        "open spaces",
+        "fresh air",
+        "in the countryside",
+        "surrounded by nature",
+        "owns",
+        "keeps",
+        "sunset",
+        "farming up",
+        "the worst thing about living in a village",
+        "there isn't much to do",
+        "away",
+        "public transport",
+        "hopeless",
+        "you don't get"
+    ],
+    "target_grammar": null,
+    "itokens": null,
+    "submitted": false,
+    "metadata": {
+        "analyst": "M-Maker25",
+        "model_alias": "fm-gai-lottie-multiple-choice-v1",
+        "model_version": "1.0",
+        "target_material": [
+            {
+                "week": "week 8 (21-27 October)",
+                "book_title": "Intermediate Vocabulary in Use 27",
+                "title": "Intermediate Vocabulary in Use 27",
+                "material_type": "VOC",
+                "url": "https://drive.google.com/file/d/1A4oXcHbbFHX7UPNuN6nUBizT0TZpD5PI/view?usp=sharing"
+            }
+        ],
+        "sandbox_slot": {
+            "assigned_group": {
+                "alias": "COOL_K",
+                "group_record": [
+                    12,
+                    "school1",
+                    "Cool Kids",
+                    "COOL_K",
+                    null,
+                    "PRIMARY",
+                    "true",
+                    "ACTIVE"
+                ],
+                "learning_path_id": ""
+            },
+            "assignee": "teacher1",
+            "comments": {},
+            "completed": false,
+            "due_date": "2024-10-23",
+            "end_time": "2024-10-23 15:55:00",
+            "start_time": "2024-10-23 15:10:00",
+            "student_attendance": {},
+            "students": [
+                {
+                    "alias": "81sebastiansutor",
+                    "first_name": "Sebasti\u00e1n",
+                    "last_name": "\u0160\u00fator",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "84tamarakabatova",
+                    "first_name": "Tamara",
+                    "last_name": "Kab\u00e1tov\u00e1",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "90annabielikova",
+                    "first_name": "Anna",
+                    "last_name": "Bielikov\u00e1",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "91hanarubaninska",
+                    "first_name": "Hana",
+                    "last_name": "Rubaninsk\u00e1",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "98alicianovacka",
+                    "first_name": "Al\u00edcia",
+                    "last_name": "Nov\u00e1cka",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "345nataliarajtarova",
+                    "first_name": "Natalia",
+                    "last_name": "Rajtarova",
+                    "date_of_birth": "2012-10-19"
+                },
+                {
+                    "alias": "274saraondrejkova",
+                    "first_name": "Sara",
+                    "last_name": "Ondrejkova",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "326alicaadamikova",
+                    "first_name": "Alica",
+                    "last_name": "Adamikova",
+                    "date_of_birth": "2013-03-01"
+                }
+            ]
+        },
+        "ms_interest_token_logs": {
+            "data_point": null,
+            "target_student": "random"
+        }
+    }
+},
+{
+    "id": "99f2d44f-b953-48d9-95a1-daa90c4b9c6a",
+    "media": {
+        "style": "A scenic landscape image showing vast open spaces with a farm in the distance under a clear, blue sky.",
+        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/99f2d44f-b953-48d9-95a1-daa90c4b9c6a",
+        "text_to_speech": {
+            "src": null,
+            "voice": null
+        },
+        "background_music": {
+            "src": null,
+            "loop": false
+        }
+    },
+    "sentence": "What makes farming in open spaces feel good?",
+    "correct_answer": "C",
+    "options": {
+        "A": "Being far away from the city",
+        "B": "Having lots of challenges frequently",
+        "C": "Lots of open land",
+        "D": "The sense of isolation you don't get anywhere else"
+    },
+    "group_alias": "COOL_K",
+    "cefr_level": "b1",
+    "target_vocabulary": [
+        "countryside",
+        "surrounded by",
+        "banks",
+        "woods",
+        "picked",
+        "seasons",
+        "scenery",
+        "open spaces",
+        "fresh air",
+        "in the countryside",
+        "surrounded by nature",
+        "owns",
+        "keeps",
+        "sunset",
+        "farming up",
+        "the worst thing about living in a village",
+        "there isn't much to do",
+        "away",
+        "public transport",
+        "hopeless",
+        "you don't get"
+    ],
+    "target_grammar": null,
+    "itokens": null,
+    "submitted": false,
+    "metadata": {
+        "analyst": "M-Maker25",
+        "model_alias": "fm-gai-lottie-multiple-choice-v1",
+        "model_version": "1.0",
+        "target_material": [
+            {
+                "week": "week 8 (21-27 October)",
+                "book_title": "Intermediate Vocabulary in Use 27",
+                "title": "Intermediate Vocabulary in Use 27",
+                "material_type": "VOC",
+                "url": "https://drive.google.com/file/d/1A4oXcHbbFHX7UPNuN6nUBizT0TZpD5PI/view?usp=sharing"
+            }
+        ],
+        "sandbox_slot": {
+            "assigned_group": {
+                "alias": "COOL_K",
+                "group_record": [
+                    12,
+                    "school1",
+                    "Cool Kids",
+                    "COOL_K",
+                    null,
+                    "PRIMARY",
+                    "true",
+                    "ACTIVE"
+                ],
+                "learning_path_id": ""
+            },
+            "assignee": "teacher1",
+            "comments": {},
+            "completed": false,
+            "due_date": "2024-10-23",
+            "end_time": "2024-10-23 15:55:00",
+            "start_time": "2024-10-23 15:10:00",
+            "student_attendance": {},
+            "students": [
+                {
+                    "alias": "81sebastiansutor",
+                    "first_name": "Sebasti\u00e1n",
+                    "last_name": "\u0160\u00fator",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "84tamarakabatova",
+                    "first_name": "Tamara",
+                    "last_name": "Kab\u00e1tov\u00e1",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "90annabielikova",
+                    "first_name": "Anna",
+                    "last_name": "Bielikov\u00e1",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "91hanarubaninska",
+                    "first_name": "Hana",
+                    "last_name": "Rubaninsk\u00e1",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "98alicianovacka",
+                    "first_name": "Al\u00edcia",
+                    "last_name": "Nov\u00e1cka",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "345nataliarajtarova",
+                    "first_name": "Natalia",
+                    "last_name": "Rajtarova",
+                    "date_of_birth": "2012-10-19"
+                },
+                {
+                    "alias": "274saraondrejkova",
+                    "first_name": "Sara",
+                    "last_name": "Ondrejkova",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "326alicaadamikova",
+                    "first_name": "Alica",
+                    "last_name": "Adamikova",
+                    "date_of_birth": "2013-03-01"
+                }
+            ]
+        },
+        "ms_interest_token_logs": {
+            "data_point": null,
+            "target_student": "random"
+        }
+    }
+},
+{
+    "id": "c6b9dc86-8cda-4564-8ce3-e6be52ad1631",
+    "media": {
+        "style": "An image depicting a television broadcasting a regional news show, with a split screen showing a documentary along with visible text about advertisements.",
+        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/c6b9dc86-8cda-4564-8ce3-e6be52ad1631",
+        "text_to_speech": {
+            "src": null,
+            "voice": null
+        },
+        "background_music": {
+            "src": null,
+            "loop": false
+        }
+    },
+    "sentence": "Which form of media typically includes regional news, articles about local events, and broadcasts segments featuring advertisements?",
+    "correct_answer": "B",
+    "options": {
+        "A": "Scientific journals",
+        "B": "Television channels",
+        "C": "Cooking magazines",
+        "D": "Online blogs"
+    },
+    "group_alias": "HOLECK",
+    "cefr_level": "b1",
+    "target_vocabulary": [
+        "papers",
+        "daily",
+        "come out",
+        "published",
+        "national",
+        "regional",
+        "mobile editions",
+        "e-papers",
+        "weekly",
+        "monthly",
+        "reports",
+        "journalist",
+        "report in",
+        "articles",
+        "article about",
+        "headlines",
+        "reviews",
+        "advertisements",
+        "broadcast",
+        "the news",
+        "the weather forecast",
+        "documentaries",
+        "chat shows",
+        "a series",
+        "soap operas",
+        "reality TV shows",
+        "well-know",
+        "celebrities",
+        "channel",
+        "station",
+        "according",
+        "forums",
+        "podcasts",
+        "It said in ..."
+    ],
+    "target_grammar": null,
+    "itokens": null,
+    "submitted": false,
+    "metadata": {
+        "analyst": "M-Maker25",
+        "model_alias": "fm-gai-lottie-multiple-choice-v1",
+        "model_version": "1.0",
+        "target_material": [
+            {
+                "week": "week 8 (21-27 October)",
+                "book_title": "Intermediate Vocabulary in Use 52",
+                "title": "Intermediate Vocabulary in Use 52",
+                "material_type": "VOC",
+                "url": "https://drive.google.com/file/d/1gR88owUUMFLUjXLgEXEpXxOSlNuWEsTD/view?usp=sharing"
+            }
+        ],
+        "sandbox_slot": {
+            "assigned_group": {
+                "alias": "HOLECK",
+                "group_record": [
+                    17,
+                    "school1",
+                    "Holeckovi",
+                    "HOLECK",
+                    null,
+                    "PRIMARY",
+                    "true",
+                    "ACTIVE"
+                ],
+                "learning_path_id": ""
+            },
+            "assignee": "teacher1",
+            "comments": {},
+            "completed": false,
+            "due_date": "2024-10-23",
+            "end_time": "2024-10-23 20:05:00",
+            "start_time": "2024-10-23 19:20:00",
+            "student_attendance": {},
+            "students": [
+                {
+                    "alias": "138zuzanaholeckova",
+                    "first_name": "Zuzana",
+                    "last_name": "Hole\u010dkov\u00e1",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "139stefanholecka",
+                    "first_name": "\u0160tefan",
+                    "last_name": "Hole\u010dka",
+                    "date_of_birth": null
+                }
+            ]
+        },
+        "ms_interest_token_logs": {
+            "data_point": null,
+            "target_student": "random"
+        }
+    }
+},
+{
+    "id": "a4d32085-eb90-49d8-a8eb-5db1780aa095",
+    "media": {
+        "style": "An image showing a person sitting comfortably on a couch, surrounded by various entertainment options like a TV displaying a soap opera, a newspaper with articles, and a few products with advertisements around, depicting a daily routine setting.",
+        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/a4d32085-eb90-49d8-a8eb-5db1780aa095",
+        "text_to_speech": {
+            "src": null,
+            "voice": null
+        },
+        "background_music": {
+            "src": null,
+            "loop": false
+        }
+    },
+    "sentence": "Which form of media often includes dramatic stories and is watched daily by many people?",
+    "correct_answer": "A",
+    "options": {
+        "A": "Soap operas",
+        "B": "Advertisements",
+        "C": "Articles",
+        "D": "News reports"
+    },
+    "group_alias": "HOLECK",
+    "cefr_level": "b1",
+    "target_vocabulary": [
+        "papers",
+        "daily",
+        "come out",
+        "published",
+        "national",
+        "regional",
+        "mobile editions",
+        "e-papers",
+        "weekly",
+        "monthly",
+        "reports",
+        "journalist",
+        "report in",
+        "articles",
+        "article about",
+        "headlines",
+        "reviews",
+        "advertisements",
+        "broadcast",
+        "the news",
+        "the weather forecast",
+        "documentaries",
+        "chat shows",
+        "a series",
+        "soap operas",
+        "reality TV shows",
+        "well-know",
+        "celebrities",
+        "channel",
+        "station",
+        "according",
+        "forums",
+        "podcasts",
+        "It said in ..."
+    ],
+    "target_grammar": null,
+    "itokens": null,
+    "submitted": false,
+    "metadata": {
+        "analyst": "M-Maker25",
+        "model_alias": "fm-gai-lottie-multiple-choice-v1",
+        "model_version": "1.0",
+        "target_material": [
+            {
+                "week": "week 8 (21-27 October)",
+                "book_title": "Intermediate Vocabulary in Use 52",
+                "title": "Intermediate Vocabulary in Use 52",
+                "material_type": "VOC",
+                "url": "https://drive.google.com/file/d/1gR88owUUMFLUjXLgEXEpXxOSlNuWEsTD/view?usp=sharing"
+            }
+        ],
+        "sandbox_slot": {
+            "assigned_group": {
+                "alias": "HOLECK",
+                "group_record": [
+                    17,
+                    "school1",
+                    "Holeckovi",
+                    "HOLECK",
+                    null,
+                    "PRIMARY",
+                    "true",
+                    "ACTIVE"
+                ],
+                "learning_path_id": ""
+            },
+            "assignee": "teacher1",
+            "comments": {},
+            "completed": false,
+            "due_date": "2024-10-23",
+            "end_time": "2024-10-23 20:05:00",
+            "start_time": "2024-10-23 19:20:00",
+            "student_attendance": {},
+            "students": [
+                {
+                    "alias": "138zuzanaholeckova",
+                    "first_name": "Zuzana",
+                    "last_name": "Hole\u010dkov\u00e1",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "139stefanholecka",
+                    "first_name": "\u0160tefan",
+                    "last_name": "Hole\u010dka",
+                    "date_of_birth": null
+                }
+            ]
+        },
+        "ms_interest_token_logs": {
+            "data_point": null,
+            "target_student": "random"
+        }
+    }
+},
+{
+    "id": "a40fed58-091f-4dbd-a87e-a362869b335e",
+    "media": {
+        "style": "A tranquil rural scene with open fields, a small farmhouse, and a nearby forest, capturing the serene lifestyle of countryside living.",
+        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/a40fed58-091f-4dbd-a87e-a362869b335e",
+        "text_to_speech": {
+            "src": null,
+            "voice": null
+        },
+        "background_music": {
+            "src": null,
+            "loop": false
+        }
+    },
+    "sentence": "Living in the countryside, what is a common feeling about entertainment choices?",
+    "correct_answer": "B",
+    "options": {
+        "A": "There are plenty of activities to do.",
+        "B": "There isn't much to do.",
+        "C": "It's a busy place full of excitement.",
+        "D": "The countryside has a lively nightlife."
+    },
+    "group_alias": "A1",
+    "cefr_level": "b1",
+    "target_vocabulary": [
+        "countryside",
+        "surrounded by",
+        "banks",
+        "woods",
+        "picked",
+        "seasons",
+        "scenery",
+        "open spaces",
+        "fresh air",
+        "in the countryside",
+        "surrounded by nature",
+        "owns",
+        "keeps",
+        "sunset",
+        "farming up",
+        "the worst thing about living in a village",
+        "there isn't much to do",
+        "away",
+        "public transport",
+        "hopeless",
+        "you don't get"
+    ],
+    "target_grammar": null,
+    "itokens": null,
+    "submitted": false,
+    "metadata": {
+        "analyst": "M-Maker25",
+        "model_alias": "fm-gai-lottie-multiple-choice-v1",
+        "model_version": "1.0",
+        "target_material": [
+            {
+                "week": "week 8 (21-27 October)",
+                "book_title": "Intermediate Vocabulary in Use 27",
+                "title": "Intermediate Vocabulary in Use 27",
+                "material_type": "VOC",
+                "url": "https://drive.google.com/file/d/1A4oXcHbbFHX7UPNuN6nUBizT0TZpD5PI/view?usp=sharing"
+            }
+        ],
+        "sandbox_slot": {
+            "assigned_group": {
+                "alias": "A1",
+                "group_record": [
+                    2,
+                    "school1",
+                    "Adults 1",
+                    "A1",
+                    null,
+                    "PRIMARY",
+                    "true",
+                    "ACTIVE"
+                ],
+                "learning_path_id": ""
+            },
+            "assignee": "teacher1",
+            "comments": {},
+            "completed": false,
+            "due_date": "2024-10-24",
+            "end_time": "2024-10-24 17:35:00",
+            "start_time": "2024-10-24 16:50:00",
+            "student_attendance": {},
+            "students": [
+                {
+                    "alias": "282veronikabalazova",
+                    "first_name": "Veronika",
+                    "last_name": "Balazova",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "146jozefbrunclik",
+                    "first_name": "Jozef",
+                    "last_name": "Bruncl\u00edk",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "152alenagregusova",
+                    "first_name": "Alena",
+                    "last_name": "Gregu\u0161ov\u00e1",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "168zuzanaherdova",
+                    "first_name": "Zuzana",
+                    "last_name": "Herdov\u00e1",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "169katarinafurdova",
+                    "first_name": "Katar\u00edna",
+                    "last_name": "Furdov\u00e1",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "314mariannatonkovicova",
+                    "first_name": "Marianna",
+                    "last_name": "Tonkovi\u010dov\u00e1",
+                    "date_of_birth": "1983-02-11"
+                },
+                {
+                    "alias": "195marekvician",
+                    "first_name": "Marek",
+                    "last_name": "Vician",
+                    "date_of_birth": null
+                }
+            ]
+        },
+        "ms_interest_token_logs": {
+            "data_point": null,
+            "target_student": "random"
+        }
+    }
+},
+{
+    "id": "a40fed58-091f-4dbd-a87e-a362869b335e",
+    "media": {
+        "style": "A tranquil rural scene with open fields, a small farmhouse, and a nearby forest, capturing the serene lifestyle of countryside living.",
+        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/a40fed58-091f-4dbd-a87e-a362869b335e",
+        "text_to_speech": {
+            "src": null,
+            "voice": null
+        },
+        "background_music": {
+            "src": null,
+            "loop": false
+        }
+    },
+    "sentence": "Living in the countryside, what is a common feeling about entertainment choices?",
+    "correct_answer": "B",
+    "options": {
+        "A": "There are plenty of activities to do.",
+        "B": "There isn't much to do.",
+        "C": "It's a busy place full of excitement.",
+        "D": "The countryside has a lively nightlife."
+    },
+    "group_alias": "A1",
+    "cefr_level": "b1",
+    "target_vocabulary": [
+        "countryside",
+        "surrounded by",
+        "banks",
+        "woods",
+        "picked",
+        "seasons",
+        "scenery",
+        "open spaces",
+        "fresh air",
+        "in the countryside",
+        "surrounded by nature",
+        "owns",
+        "keeps",
+        "sunset",
+        "farming up",
+        "the worst thing about living in a village",
+        "there isn't much to do",
+        "away",
+        "public transport",
+        "hopeless",
+        "you don't get"
+    ],
+    "target_grammar": null,
+    "itokens": null,
+    "submitted": false,
+    "metadata": {
+        "analyst": "M-Maker25",
+        "model_alias": "fm-gai-lottie-multiple-choice-v1",
+        "model_version": "1.0",
+        "target_material": [
+            {
+                "week": "week 8 (21-27 October)",
+                "book_title": "Intermediate Vocabulary in Use 27",
+                "title": "Intermediate Vocabulary in Use 27",
+                "material_type": "VOC",
+                "url": "https://drive.google.com/file/d/1A4oXcHbbFHX7UPNuN6nUBizT0TZpD5PI/view?usp=sharing"
+            }
+        ],
+        "sandbox_slot": {
+            "assigned_group": {
+                "alias": "A1",
+                "group_record": [
+                    2,
+                    "school1",
+                    "Adults 1",
+                    "A1",
+                    null,
+                    "PRIMARY",
+                    "true",
+                    "ACTIVE"
+                ],
+                "learning_path_id": ""
+            },
+            "assignee": "teacher1",
+            "comments": {},
+            "completed": false,
+            "due_date": "2024-10-24",
+            "end_time": "2024-10-24 17:35:00",
+            "start_time": "2024-10-24 16:50:00",
+            "student_attendance": {},
+            "students": [
+                {
+                    "alias": "282veronikabalazova",
+                    "first_name": "Veronika",
+                    "last_name": "Balazova",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "146jozefbrunclik",
+                    "first_name": "Jozef",
+                    "last_name": "Bruncl\u00edk",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "152alenagregusova",
+                    "first_name": "Alena",
+                    "last_name": "Gregu\u0161ov\u00e1",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "168zuzanaherdova",
+                    "first_name": "Zuzana",
+                    "last_name": "Herdov\u00e1",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "169katarinafurdova",
+                    "first_name": "Katar\u00edna",
+                    "last_name": "Furdov\u00e1",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "314mariannatonkovicova",
+                    "first_name": "Marianna",
+                    "last_name": "Tonkovi\u010dov\u00e1",
+                    "date_of_birth": "1983-02-11"
+                },
+                {
+                    "alias": "195marekvician",
+                    "first_name": "Marek",
+                    "last_name": "Vician",
+                    "date_of_birth": null
+                }
+            ]
+        },
+        "ms_interest_token_logs": {
+            "data_point": null,
+            "target_student": "random"
+        }
+    }
+},
+{
+    "id": "f20de360-2115-4ca8-9407-5b7372c5f926",
+    "media": {
+        "style": "A scenic image depicting various weather conditions, including heavy rain with dark clouds, strong winds blowing the trees, snow falling on a quiet landscape, and a bright sun with clear skies.",
+        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/f20de360-2115-4ca8-9407-5b7372c5f926",
+        "text_to_speech": {
+            "src": null,
+            "voice": null
+        },
+        "background_music": {
+            "src": null,
+            "loop": false
+        }
+    },
+    "sentence": "Which weather condition makes it difficult to see clearly due to precipitation?",
+    "correct_answer": "A",
+    "options": {
+        "A": "Heavy rain",
+        "B": "Winds blowing",
+        "C": "Snowing",
+        "D": "Boiling sun"
+    },
+    "group_alias": "BOMB_S",
+    "cefr_level": "b1",
+    "target_vocabulary": [
+        "foggy",
+        "cloudy",
+        "the cold",
+        "icy",
+        "sun",
+        "sunny",
+        "wind",
+        "snowy",
+        "wet",
+        "shining",
+        "blowing",
+        "snowing",
+        "sun came out",
+        "thick fog",
+        "heavy rain",
+        "light rain",
+        "strong wind",
+        "wind bown",
+        "sky clear",
+        "extremely cold",
+        "pour with rain",
+        "shower",
+        "storm",
+        "poured with rain",
+        "light showers",
+        "thunderstorm",
+        "humid",
+        "thunder",
+        "lightning",
+        "boiling",
+        "cool",
+        "chilly",
+        "freezing",
+        "mild"
+    ],
+    "target_grammar": null,
+    "itokens": null,
+    "submitted": false,
+    "metadata": {
+        "analyst": "M-Maker25",
+        "model_alias": "fm-gai-lottie-multiple-choice-v1",
+        "model_version": "1.0",
+        "target_material": [
+            {
+                "week": "week 8 (21-27 October)",
+                "book_title": "Intermediate Vocabulary in Use 7",
+                "title": "Intermediate Vocabulary in Use 7",
+                "material_type": "VOC",
+                "url": "https://drive.google.com/file/d/1js2_idHw9-cLEhWO2SWsuV02voc_kMYa/view?usp=sharing"
+            }
+        ],
+        "sandbox_slot": {
+            "assigned_group": {
+                "alias": "BOMB_S",
+                "group_record": [
+                    9,
+                    "school1",
+                    "Bomb Squad",
+                    "BOMB_S",
+                    null,
+                    "PRIMARY",
+                    "true",
+                    "ACTIVE"
+                ],
+                "learning_path_id": ""
+            },
+            "assignee": "teacher1",
+            "comments": {},
+            "completed": false,
+            "due_date": "2024-10-24",
+            "end_time": "2024-10-24 18:25:00",
+            "start_time": "2024-10-24 17:40:00",
+            "student_attendance": {},
+            "students": [
+                {
+                    "alias": "120viktoriavalentinyova",
+                    "first_name": "Vikt\u00f3ria",
+                    "last_name": "Valent\u00ednyov\u00e1",
+                    "date_of_birth": "1900-01-01"
+                },
+                {
+                    "alias": "147matusjankular",
+                    "first_name": "Mat\u00fa\u0161",
+                    "last_name": "Jankul\u00e1r",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "95dorotasabova",
+                    "first_name": "Dorota",
+                    "last_name": "\u0160abov\u00e1",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "96olivermanek",
+                    "first_name": "Oliver",
+                    "last_name": "Manek",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "97nataliakozmerova",
+                    "first_name": "Nat\u00e1lia",
+                    "last_name": "Kozm\u00e9rov\u00e1",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "194armandocaushi",
+                    "first_name": "Armando",
+                    "last_name": "Caushi",
+                    "date_of_birth": "2014-02-14"
+                }
+            ]
+        },
+        "ms_interest_token_logs": {
+            "data_point": null,
+            "target_student": "random"
+        }
+    }
+},
+{
+    "id": "0e778147-a84c-42bc-b81f-4fae7f89a172",
+    "media": {
+        "style": "A vivid illustration of different weather conditions, showing snow, heavy rain, light rain, and a person feeling cold.",
+        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/0e778147-a84c-42bc-b81f-4fae7f89a172",
+        "text_to_speech": {
+            "src": null,
+            "voice": null
+        },
+        "background_music": {
+            "src": null,
+            "loop": false
+        }
+    },
+    "sentence": "Which weather condition is typically characterized by 'poured with rain'?",
+    "correct_answer": "B",
+    "options": {
+        "A": "Light rain that lasts all day",
+        "B": "Very heavy rain falling in a short period",
+        "C": "Snowflakes gently falling",
+        "D": "A chilly breeze with no precipitation"
+    },
+    "group_alias": "BOMB_S",
+    "cefr_level": "b1",
+    "target_vocabulary": [
+        "foggy",
+        "cloudy",
+        "the cold",
+        "icy",
+        "sun",
+        "sunny",
+        "wind",
+        "snowy",
+        "wet",
+        "shining",
+        "blowing",
+        "snowing",
+        "sun came out",
+        "thick fog",
+        "heavy rain",
+        "light rain",
+        "strong wind",
+        "wind bown",
+        "sky clear",
+        "extremely cold",
+        "pour with rain",
+        "shower",
+        "storm",
+        "poured with rain",
+        "light showers",
+        "thunderstorm",
+        "humid",
+        "thunder",
+        "lightning",
+        "boiling",
+        "cool",
+        "chilly",
+        "freezing",
+        "mild"
+    ],
+    "target_grammar": null,
+    "itokens": null,
+    "submitted": false,
+    "metadata": {
+        "analyst": "M-Maker25",
+        "model_alias": "fm-gai-lottie-multiple-choice-v1",
+        "model_version": "1.0",
+        "target_material": [
+            {
+                "week": "week 8 (21-27 October)",
+                "book_title": "Intermediate Vocabulary in Use 7",
+                "title": "Intermediate Vocabulary in Use 7",
+                "material_type": "VOC",
+                "url": "https://drive.google.com/file/d/1js2_idHw9-cLEhWO2SWsuV02voc_kMYa/view?usp=sharing"
+            }
+        ],
+        "sandbox_slot": {
+            "assigned_group": {
+                "alias": "BOMB_S",
+                "group_record": [
+                    9,
+                    "school1",
+                    "Bomb Squad",
+                    "BOMB_S",
+                    null,
+                    "PRIMARY",
+                    "true",
+                    "ACTIVE"
+                ],
+                "learning_path_id": ""
+            },
+            "assignee": "teacher1",
+            "comments": {},
+            "completed": false,
+            "due_date": "2024-10-24",
+            "end_time": "2024-10-24 18:25:00",
+            "start_time": "2024-10-24 17:40:00",
+            "student_attendance": {},
+            "students": [
+                {
+                    "alias": "120viktoriavalentinyova",
+                    "first_name": "Vikt\u00f3ria",
+                    "last_name": "Valent\u00ednyov\u00e1",
+                    "date_of_birth": "1900-01-01"
+                },
+                {
+                    "alias": "147matusjankular",
+                    "first_name": "Mat\u00fa\u0161",
+                    "last_name": "Jankul\u00e1r",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "95dorotasabova",
+                    "first_name": "Dorota",
+                    "last_name": "\u0160abov\u00e1",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "96olivermanek",
+                    "first_name": "Oliver",
+                    "last_name": "Manek",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "97nataliakozmerova",
+                    "first_name": "Nat\u00e1lia",
+                    "last_name": "Kozm\u00e9rov\u00e1",
+                    "date_of_birth": null
+                },
+                {
+                    "alias": "194armandocaushi",
+                    "first_name": "Armando",
+                    "last_name": "Caushi",
+                    "date_of_birth": "2014-02-14"
+                }
+            ]
+        },
+        "ms_interest_token_logs": {
+            "data_point": null,
+            "target_student": "random"
+        }
+    }
 }
 
 ]
