@@ -1,8 +1,8 @@
 {
-    "id": "c18208f6-604b-4d1d-8dd4-c339651112ab",
+    "id": "0e778147-a84c-42bc-b81f-4fae7f89a172",
     "media": {
-        "style": "A futuristic image of environmental preservation, renewable energy, and sustainable practices",
-        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/c18208f6-604b-4d1d-8dd4-c339651112ab",
+        "style": "A vivid illustration of different weather conditions, showing snow, heavy rain, light rain, and a person feeling cold.",
+        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/0e778147-a84c-42bc-b81f-4fae7f89a172",
         "text_to_speech": {
             "src": null,
             "voice": null
@@ -12,46 +12,76 @@
             "loop": false
         }
     },
-    "sentence": "Which practice is essential for promoting sustainable development?",
+    "sentence": "Which weather condition is typically characterized by 'poured with rain'?",
     "correct_answer": "B",
     "options": {
-        "A": "Increased use of single-use plastics",
-        "B": "Utilization of renewable energy sources",
-        "C": "Expansion of fossil fuel extraction",
-        "D": "Deforestation for agricultural land"
+        "A": "Light rain that lasts all day",
+        "B": "Very heavy rain falling in a short period",
+        "C": "Snowflakes gently falling",
+        "D": "A chilly breeze with no precipitation"
     },
-    "group_alias": "FIGHT",
-    "cefr_level": "c1",
+    "group_alias": "BOMB_S",
+    "cefr_level": "b1",
     "target_vocabulary": [
-        "Sustainable development",
-        "Renewable energy",
-        "Fossil fuel extraction",
-        "Deforestation"
+        "foggy",
+        "cloudy",
+        "the cold",
+        "icy",
+        "sun",
+        "sunny",
+        "wind",
+        "snowy",
+        "wet",
+        "shining",
+        "blowing",
+        "snowing",
+        "sun came out",
+        "thick fog",
+        "heavy rain",
+        "light rain",
+        "strong wind",
+        "wind bown",
+        "sky clear",
+        "extremely cold",
+        "pour with rain",
+        "shower",
+        "storm",
+        "poured with rain",
+        "light showers",
+        "thunderstorm",
+        "humid",
+        "thunder",
+        "lightning",
+        "boiling",
+        "cool",
+        "chilly",
+        "freezing",
+        "mild"
     ],
     "target_grammar": null,
     "itokens": null,
     "submitted": false,
     "metadata": {
-        "analyst": "CPTFreedom",
+        "analyst": "M-Maker25",
         "model_alias": "fm-gai-lottie-multiple-choice-v1",
         "model_version": "1.0",
         "target_material": [
             {
                 "week": "week 8 (21-27 October)",
-                "book_title": "ENVIRONMENTAL SCIENCE UNIT 5",
-                "title": "Sustainable Practices",
-                "material_type": "SB",
-                "url": "https://drive.google.com/file/d/1x8mQW7neDT0uISECSWA9CdBEWMIIEPa-/view?usp=sharing"
+                "book_title": "Intermediate Vocabulary in Use 7",
+                "title": "Intermediate Vocabulary in Use 7",
+                "material_type": "VOC",
+                "url": "https://drive.google.com/file/d/1js2_idHw9-cLEhWO2SWsuV02voc_kMYa/view?usp=sharing"
             }
         ],
         "sandbox_slot": {
             "assigned_group": {
-                "alias": "MVRCK",
+                "alias": "BOMB_S",
                 "group_record": [
-                    39,
+                    9,
                     "school1",
-                    "Mavericks",
-                    "MVRCK",
+                    "Bomb Squad",
+                    "BOMB_S",
                     null,
                     "PRIMARY",
                     "true",
@@ -59,73 +89,49 @@
                 ],
                 "learning_path_id": ""
             },
-            "assignee": "teacher2",
+            "assignee": "teacher1",
             "comments": {},
             "completed": false,
-            "due_date": "2024-10-21",
-            "end_time": "2024-10-21 14:15:00",
-            "start_time": "2024-10-21 13:30:00",
+            "due_date": "2024-10-24",
+            "end_time": "2024-10-24 18:25:00",
+            "start_time": "2024-10-24 17:40:00",
             "student_attendance": {},
             "students": [
                 {
-                    "alias": "336adamsoos",
-                    "date_of_birth": "2017-01-24",
-                    "first_name": "Adam",
-                    "last_name": "Soos"
+                    "alias": "120viktoriavalentinyova",
+                    "first_name": "Vikt\u00f3ria",
+                    "last_name": "Valent\u00ednyov\u00e1",
+                    "date_of_birth": "1900-01-01"
                 },
                 {
-                    "alias": "113lenkakubaljakova",
-                    "date_of_birth": null,
-                    "first_name": "Lenka",
-                    "last_name": "Kubaljakov\u00e1"
+                    "alias": "147matusjankular",
+                    "first_name": "Mat\u00fa\u0161",
+                    "last_name": "Jankul\u00e1r",
+                    "date_of_birth": null
                 },
                 {
-                    "alias": "157ninajanosova",
-                    "date_of_birth": null,
-                    "first_name": "Nina",
-                    "last_name": "J\u00e1no\u0161ov\u00e1"
+                    "alias": "95dorotasabova",
+                    "first_name": "Dorota",
+                    "last_name": "\u0160abov\u00e1",
+                    "date_of_birth": null
                 },
                 {
-                    "alias": "158zoezatkova",
-                    "date_of_birth": null,
-                    "first_name": "Zoe",
-                    "last_name": "Za\u0165kov\u00e1"
+                    "alias": "96olivermanek",
+                    "first_name": "Oliver",
+                    "last_name": "Manek",
+                    "date_of_birth": null
                 },
                 {
-                    "alias": "160emakovacova",
-                    "date_of_birth": null,
-                    "first_name": "Ema",
-                    "last_name": "Kov\u00e1\u010dov\u00e1"
+                    "alias": "97nataliakozmerova",
+                    "first_name": "Nat\u00e1lia",
+                    "last_name": "Kozm\u00e9rov\u00e1",
+                    "date_of_birth": null
                 },
                 {
-                    "alias": "170jurajgombar ml.",
-                    "date_of_birth": null,
-                    "first_name": "Juraj",
-                    "last_name": "Gomb\u00e1r ml."
-                },
-                {
-                    "alias": "185leopilka",
-                    "date_of_birth": null,
-                    "first_name": "Leo",
-                    "last_name": "Pilka"
-                },
-                {
-                    "alias": "260alexkozolka",
-                    "date_of_birth": null,
-                    "first_name": "Alex",
-                    "last_name": "Kozolka"
-                },
-                {
-                    "alias": "159anetasutorova",
-                    "date_of_birth": null,
-                    "first_name": "Aneta",
-                    "last_name": "\u0160\u00fatorov\u00e1"
-                },
-                {
-                    "alias": "226samuelkrsak",
-                    "date_of_birth": null,
-                    "first_name": "Samuel",
-                    "last_name": "Kr\u0161\u00e1k"
+                    "alias": "194armandocaushi",
+                    "first_name": "Armando",
+                    "last_name": "Caushi",
+                    "date_of_birth": "2014-02-14"
                 }
             ]
         },
