@@ -1,8 +1,8 @@
 {
-    "id": "0d30c245-4426-4ea9-8c06-ddfb378a25c9",
+    "id": "a7671f2f-8ab6-4b06-a9dc-8a8a05e4664b",
     "media": {
-        "style": "Image depicting an auction with people raising their paddles, highlighting the excitement and anticipation of bidding.",
-        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/0d30c245-4426-4ea9-8c06-ddfb378a25c9",
+        "style": "An image of two business people shaking hands over a table with documents labeled 'merger agreement', surrounded by various corporate logos.",
+        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/a7671f2f-8ab6-4b06-a9dc-8a8a05e4664b",
         "text_to_speech": {
             "src": null,
             "voice": null
@@ -12,13 +12,13 @@
             "loop": false
         }
     },
-    "sentence": "Which term refers to the process when items are sold at an auction?",
-    "correct_answer": "A",
+    "sentence": "Which term describes the successful negotiation of terms between companies during a business merger?",
+    "correct_answer": "B",
     "options": {
-        "A": "Come under the hammer",
-        "B": "Hard sell",
-        "C": "Telemarketing",
-        "D": "Lucrative bids"
+        "A": "Merchandise",
+        "B": "Hammer out a deal",
+        "C": "Bids",
+        "D": "Takeover"
     },
     "group_alias": "TIGRS",
     "cefr_level": "c1",
